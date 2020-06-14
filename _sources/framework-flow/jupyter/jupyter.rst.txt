@@ -1,0 +1,18 @@
+.. _jupyter:
+
+jupyter notebook
+===================
+
+short cut
+------------
+
+h help
+d sell delete
+a new cell up
+b new cell down
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   */*

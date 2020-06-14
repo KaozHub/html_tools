@@ -1,0 +1,21 @@
+GeneticAlgorithm
+=============================
+
+OneMax問題をGAで解いてみる
+----------------------------
+
+.. toctree::
+	code/onemax_ga
+
+TSPをGAで解いてみる
+----------------------------
+
+.. toctree::
+	code/tsp_ga
+
+TSPを乱数だけで解いてみる
+---------------------------
+
+.. toctree::
+	code/tsp_rand
+

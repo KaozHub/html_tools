@@ -1,0 +1,63 @@
+maya Tool manual
+========================
+
+
+
+.. toctree::
+    :maxdepth: 1
+
+    Scene/Scene.rst
+
+.. figure:: mayatools1.png
+    :width: 400px
+
+
+
+.. toctree::
+    :maxdepth: 1
+
+    Rendaring/Rendaring.rst
+
+
+.. figure:: mayatools2.png
+    :width: 400px
+
+
+
+.. toctree::
+    :maxdepth: 1
+
+    Anim/Anim.rst
+
+.. figure:: mayatools3.png
+   :width: 400px
+
+
+
+.. toctree::
+    :maxdepth: 1
+
+    Export/Export.rst
+
+.. figure:: mayatools4.png
+   :width: 400px
+
+
+
+.. toctree::
+    :maxdepth: 1
+
+    Other/Other.rst
+
+.. figure:: mayatools5.png
+   :width: 400px
+
+
+
+.. note::
+
+    コピーしてシェルフに登録して下さい。
+
+    source "pj_Tools.mel";
+    pjToolwindow;
+

@@ -1,0 +1,10 @@
+.. _algorythm:
+
+algorytm
+================
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   */*

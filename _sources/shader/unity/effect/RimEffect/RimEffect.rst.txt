@@ -1,0 +1,8 @@
+RimEffect RimEffect
+---------------------------------------------------------------------------
+
+.. figure:: RimEffect.png
+	:width: 400px
+
+.. literalinclude:: RimEffect.shader
+
