@@ -1,0 +1,18 @@
+# fetch
+
+~ $ git fetch <リモート名>
+~ $ git fetch origin
+
+git branch -a
+
+# pull
+
+~ $ git pull <リモート名> <ブランチ名>
+~ $ git pull origin master
+# 上記コマンドは省略可能
+~ $ git pull
+# これは下記コマンドと同じこと
+~ $ git fetch origin master
+~ $ git merge origin/master
+
+git merge origin/develop

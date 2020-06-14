@@ -1,0 +1,9 @@
+XRSettings.eyeTextureResolutionScale
+=======================================
+
+URPのときのデフォルト値
+→ 1
+not URPのときのデフォ値
+→ 0.7
+
+https://docs.unity3d.com/ScriptReference/XR.XRSettings-eyeTextureResolutionScale.html

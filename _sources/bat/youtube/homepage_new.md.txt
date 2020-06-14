@@ -1,0 +1,79 @@
+- AI    AI
+- AbleProgramming    https://www.youtube.com/watch?v=X8hK4ovQoLg&list=UUh5M2YUAPW7HnpfTUv7XHmA
+- TeamLab_Study    https://www.youtube.com/watch?v=tbY6XZAaoaA&list=UUPeeEi0sF02nsKLk5Fr8RJw
+- STAIRLab    https://www.youtube.com/watch?v=8vGEprte9GQ&list=UUqK6zjhj120DL2PAYOi4ngg
+- TeamAI    https://www.youtube.com/watch?v=HkJmnpBjiI0&list=UUia6MugdTJInauwBnWifs2A&index=3
+- TakamiSato_kaggle    https://www.youtube.com/watch?v=BEn7LRlIsHU&list=PLkBjLQIGEjJl0UNGLFBZ309WmLuY9sq77&index=3
+- TakamiSato_English    https://www.youtube.com/watch?v=ehJEzOWBSYA&list=PLkBjLQIGEjJmSjNf5eDWSiBOunl8bnO5B
+- TakamiSato_kaggle_Porto    https://www.youtube.com/watch?v=NHQTw-ORcSQ&list=PLkBjLQIGEjJnbde-czDnP9kvF9-Um5q6Q
+- TakamiSato_kaggle_meetup    https://www.youtube.com/watch?v=VMjnhGW2MgU&list=PLkBjLQIGEjJlciM9lEz1AsuZZ8lDgyxDu
+- TanakaTOM    https://www.youtube.com/watch?v=11WobcsWn64&list=UUWXXSB94_CUAYD7XgdLzvBg
+- DeepLearningLabDL-Lab    https://www.youtube.com/watch?v=qOzDaDIldwA&list=UUm5dtCJ8ZgEMl0t1_oxsapA
+- PreferredNetworks    https://www.youtube.com/watch?v=hsrycS6-xzc&list=UUAQtQhYPHkslielNswSMrYw
+- ForSiteAI    https://www.youtube.com/watch?v=MhWmLPy0ZsI&list=PLbmEPr-C_fxSToXvpzgUI2xwMLzJd9fEg
+- sentdex    https://www.youtube.com/watch?v=m0UdvFdUyZM&list=UUfzlCWGWYyIQ0aLC5w48gBQ
+- TensorflowStudy    https://www.youtube.com/watch?v=C6gPnacc0hU&list=UUFVrW4iin3Y42rvmp_AHsvQ
+- MachineLearning15minutes    https://www.youtube.com/watch?v=QOQcEaLUGac&list=UU24lruABcAwiTJAe-sD1Hew
+- SeiouKen    https://www.youtube.com/watch?v=Ps-EzZ3Uqn0&list=UUqm74niKmZ04XCg1Zdiqxyg
+
+- scientist     
+- SuzukiJoe    https://www.youtube.com/watch?v=6B27ZqQuVmk&list=UUzGo7kyMyZuguUnK_jQDKTA
+- NagaokaGijutu    https://www.youtube.com/watch?v=VV4FRReFi1g&list=UUhwtfJp9l_thFbFDWXoGWEQ
+- UmeSome    https://www.youtube.com/watch?v=rZxbp7eSKyM&list=UUo9DlOrP-86gLqLxL68RwjQ
+
+- CodeTrain    https://www.youtube.com/watch?v=v8lm5XZ2V6M&list=UUvjgXvBlbQiydffZU7m1_aw
+- MorisiPC    https://www.youtube.com/watch?v=XlgHznkS-hQ&list=UUsgQtIeFObrixeJIYBCi5VQ
+- PyconJP    https://www.youtube.com/watch?v=363E_nzKe7Q&list=UUxNoKygeZIE1AwZ_NdUCkhQ
+- PyconJP    https://www.youtube.com/watch?v=pX58pvc3Fk4&list=UUxNoKygeZIE1AwZ_NdUCkhQ&index=18
+- pyJP2018    https://www.youtube.com/watch?v=KwmF5wyY2C4&list=PLMkWB0UjwFGnuTXdWG6NP9WAg-_-2I8_e
+- UnityJP    https://www.youtube.com/watch?v=wUx_Y9BgC7k&list=UUCdskievdAtH6AtPeEfTqEg
+- KOJI    https://www.youtube.com/watch?v=UKy41cYqORA&list=UUrkqNT0_Fd5_TIWdjey6K0A
+- KOJI2nd    https://www.youtube.com/watch?v=LN6mCJ6Zykc&list=UU-XoVyYw4UlQ85kGDK4MInA
+
+- suugaku
+- Suugaku_Yobi    https://www.youtube.com/watch?v=ONU5DOBpyCk&list=UUqmWJJolqAgjIdLqK3zD1QQ
+- Suugaku_Suzuki    https://www.youtube.com/watch?v=BsaqMYxdFwg&list=UUye8PYMLvXg-h48lTPFwb2w
+-     
+- ATCoder    https://www.youtube.com/watch?v=c0rtlJdAjgk&list=UUtG3StnbhxHxXfE6Q4cPZwQ
+- AtCoderCom    https://www.youtube.com/watch?v=RX08rcpvO7U&list=UUIc1OklQDuoUZN51I3s9r4g
+- AtCoder_Katuppa    https://www.youtube.com/watch?v=MSDAFTixDcI&list=UUqqeYOh1gk_TJ16sxazWhUg
+- AtCoder_Petr    https://www.youtube.com/watch?v=02VV330Avc8&list=UUdmeooqNtlN7IhrKlq7hGDA
+   
+- レトリバ    https://www.youtube.com/watch?v=u5RB_6-c_tU&list=UU5mjAq3PgaWhwcRyun7gteQ
+- KENTA    https://www.youtube.com/watch?v=YaGXyEFSbok&list=PLbX4sZSRPk6xlW-qfoAZhMGHzIaDmKzIm
+- SirajRaval    https://www.youtube.com/watch?v=7SBt6mMNCHk&list=UUWN3xxRkmTPmbKwht9FuE5A
+- ProgrammingHub    https://www.youtube.com/watch?v=bphxKPsPM7U&list=UUAP28Rf-mxlrywkFFEDc0zg
+- ProjectKiyo    https://www.youtube.com/watch?v=tJ8sBuPWX00&list=UUvhqYuFfBzX7aGFVNqERLMw
+- html5    https://www.youtube.com/watch?v=_GjWo2r96eM&list=UUGiSzzfTs7s3dHy3xWkSQ0g
+- csdojo    https://www.youtube.com/watch?v=jDn7kwBYnyE&list=UUxX9wt5FWQUAAz4UrysqK9A
+- AllanMackay    https://www.youtube.com/watch?v=Boc5xHXjhKI&list=UUjgqdaigk7VSDqqqkHkcNTg
+- freeCodeCamp.org    https://www.youtube.com/watch?v=2_lswM1S264&list=UU8butISFwT-Wl7EV0hUK0BQ
+- ButuriEngineKun    https://www.youtube.com/watch?v=2n2k5Lk40xI&list=UUI2-ki0BQzmQ_tE4mxG8rXQ
+- dabyron    https://www.youtube.com/watch?v=LjQhehHWB5g&list=UUb2vWCm9vSpNj6LCKd3CicQ
+- GajuMaru    https://www.youtube.com/watch?v=0ErcIgNwW_A&list=UUxn_YBdntmI_3aePMn184LQ
+- TRKatoChan    https://www.youtube.com/watch?v=aYwG5OMAyjo&list=UU1sCj2fgOEphRa5H0ZaEjeg
+- TRNogami    https://www.youtube.com/watch?v=9bq7HC7Ss3Q&list=UU1QWsgU5qJTqxGlwk9zG7Ag
+- DGLab    https://www.youtube.com/watch?v=2FFmWd1oUGw&list=UUEzHB9hSFTS0kF-EEg7YeBA
+- AiciaSolidProject    https://www.youtube.com/watch?v=I3le5FVPcnw&list=UU2lJYodMaAfFeFQrGUwhlaQ
+- Kitaenai    https://www.youtube.com/watch?v=Cm8BVxTTa_U&list=UUCSUeQk__GC1Y0p2hkV5wdw
+- kinnikun    https://www.youtube.com/watch?v=q5Td9GGoHD8&list=UUOUu8YlbaPz0W2TyFTZHvjA
+- FamTrinli    https://www.youtube.com/watch?v=zH_omFPqMO4&list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr
+- Hikimitou    https://www.youtube.com/watch?v=6_jqVbuC-J4&list=UUI9gUxJYO-VWcHDavOQOPlQ
+
+
+   
+- shotgun    https://www.youtube.com/watch?v=x23zq6AGcgU&list=UUqciGUsuN5uDbI7_kR5D_bQ
+- JeremyHoward    https://www.youtube.com/watch?v=XfoYk_Z5AkI&list=UUX7Y2qWriXpqocG97SFW2OQ
+- GriffeyeAnalyze    https://www.youtube.com/watch?v=jcnq7VoK6m4&list=UUZB0aqGDyUiPIrww9jH2A3w
+- toyohisa    https://www.youtube.com/watch?v=jApAaw2Ibuo&list=UUdgdCRpy7An2r4oZ9sMO70w
+- Sekiro    https://www.youtube.com/watch?v=KeCw-G3JjbA&list=PLLIfjBtOk1reNXqqyQ2ik46enJa8jEm_C
+- DrASD    https://www.youtube.com/watch?v=H8gjMSFNM54&list=UU0Uqu5dkvut8hcWjiGMIB-A
+
+- game    game
+- GameNightStory    https://www.youtube.com/watch?v=yDCmF1bFhr8&list=UU-HNwUxGklhKSe67EitgqgA
+- MGS    https://www.youtube.com/watch?v=KArst70Jpfg&list=UUihiZXW9lvd-sg9k6GnKL7Q
+- Gyakuten3    https://www.youtube.com/watch?v=uiINKkq2TLU&list=PLkDkv3_93q1RzJhF1Caizj_OnRIHScf8M
+- DQ7    https://www.youtube.com/watch?v=qWjG5K_jroc&list=PLkDkv3_93q1Q8TYAHLwrkq6cfDAcQL9VM
+- DeadSpace2    https://www.youtube.com/watch?v=-G2oSOUpUMU&list=PLEQchj72pK56h3KaFJXrgMB9nY2Mlvbaq
+- KuronoTrigger    https://www.youtube.com/playlist?list=PLLIfjBtOk1re0lGmZ_7tUz8n3x_OYz4fw
+- KD3    https://www.youtube.com/watch?v=XMpixY2gnpg&list=PLRVOMzMTjyiA7SSKO8jddNB_5roskTlJk

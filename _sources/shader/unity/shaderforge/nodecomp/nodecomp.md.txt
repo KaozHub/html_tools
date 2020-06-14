@@ -1,0 +1,7 @@
+## node comp
+### ShaderGraph = ShaderForge
+#### split = component mask
+
+#### reciprocal
+
+reciprocal 逆数

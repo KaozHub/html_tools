@@ -1,0 +1,131 @@
+# データフロウ図
+
+## modeling
+
+### デザイン
+
+- モデル作成
+
+	- model
+
+		- zbrush
+
+			- mudbox
+
+				- 3dcoat
+
+		- maya
+
+			- max
+
+				- blender
+
+	- facial
+	- texture
+
+		- photoshop
+		- substance designer
+		- substance painter
+
+- 背景制作
+
+	- model
+
+		- zbrush
+
+			- mudbox
+
+				- 3dcoat
+
+		- maya
+
+			- max
+
+				- blender
+
+	- マテリアルの設定
+
+		- shader
+
+	- model制作
+
+- Setup
+
+	- ウェイト
+
+- Rigging
+
+	- 現状の仕組みとしては設定なし
+
+## motion
+
+### 口パク
+
+- まばたき
+
+	- FBX
+
+### 事前キャプチャー
+
+- FBX
+
+## Unity
+
+### キャラクター
+
+- 揺れ物設定(UnityChanSprigBone等)
+
+	- リアルタイムモーションキャプチャ
+motive、motionbuilder
+	- リアルタイムでない場合(MV等)
+タイムライントラックを使用したFBXアニメーション
+
+- 質感調整
+
+	- 最終アウトプットに応じたshader設定
+	- マテリアルの設定
+	- texture追加　1影2影
+	- texture追加
+
+### 演出フロー
+
+- タイムライン作成
+
+	- 表情トラックの作成
+
+		- リアルタイム表情の場合はスタジオ制作
+
+	- カメラトラックの作成
+	- エフェクト制作
+	- ライト演出
+
+- 演出用シェーダー作成
+
+	- ノードベースシェーダー
+	- コードベースシェーダー
+
+## デザイナー用github構成
+
+### inspix atelier
+
+- Core
+
+	- ip0001
+
+		-  IP0001_ヒプノシスマイク_仕様
+
+	- ip0008
+
+		-  IP0008_ミク_仕様
+		- https://github.com/ignis-ltd/inspix-ip0008-asset
+
+			- unity上からのcloneも可能
+
+- Liveshare
+- https://github.com/ignis-ltd/inspix-atelier
+
+### デザイナーはsourcetreeを使用
+
+- githubを使用したsshクローン
+
+*XMind: ZEN - Trial Version*

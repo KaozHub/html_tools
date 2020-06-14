@@ -1,4 +1,4 @@
-editor 拡張
+Editor拡張
 =============================
 
 .. toctree::
@@ -6,7 +6,3 @@ editor 拡張
    :glob:
 
    */*
-
-
-https://qiita.com/shirasaya0201/items/ee32f35ad3caac428368
-

@@ -1,0 +1,713 @@
+- PydataOosaka    https://www.youtube.com/watch?v=bKAOHKvq_jM&list=UUXHrkobjEf1yLkmblB6CHyg
+- PyconJP    https://www.youtube.com/watch?v=363E_nzKe7Q&list=UUxNoKygeZIE1AwZ_NdUCkhQ
+- PY_inkench    https://www.youtube.com/watch?v=jRIRdfIIa1Q&list=UUXJZdip7JmW74HQHCtfYzFw
+- PyconKyushu    https://www.youtube.com/watch?v=Ge8CKIgrKk0&list=UU_Hua-Bd-SVEkbp5mIVZ1Yw
+- PY_JetBrains    https://www.youtube.com/watch?v=4iEUyzWFLzc&list=UUGp4UBwpTNegd_4nCpuBcow
+- PY_HomuhomuLab    https://www.youtube.com/channel/UC-6zNODaTIaIhpKW3c34eWA/videos
+- PythonProgramer    https://www.youtube.com/watch?v=OKp3bYiKGrc&list=UU68KSmHePPePCjW4v57VPQg
+- PY_PythonBeginnersOK    https://www.youtube.com/watch?v=6MtIksxeptc&list=UUF0IHQ1osMYsx6bgIuqQAyg
+- Letoriva    https://www.youtube.com/watch?v=u5RB_6-c_tU&list=UU5mjAq3PgaWhwcRyun7gteQ
+- PY_MorisiPC    https://www.youtube.com/watch?v=NCGB1CcZQTk&list=UUsgQtIeFObrixeJIYBCi5VQ
+- PY_ProjectKiyo    https://www.youtube.com/watch?v=tJ8sBuPWX00&list=UUvhqYuFfBzX7aGFVNqERLMw
+
+- suugaku
+- Suugaku_Yobi    https://www.youtube.com/watch?v=ONU5DOBpyCk&list=UUqmWJJolqAgjIdLqK3zD1QQ
+- Suugaku_Suzuki    https://www.youtube.com/watch?v=BsaqMYxdFwg&list=UUye8PYMLvXg-h48lTPFwb2w
+
+- AtCoder    https://www.youtube.com/watch?v=c0rtlJdAjgk&list=UUtG3StnbhxHxXfE6Q4cPZwQ
+- AtCoder_Com    https://www.youtube.com/watch?v=RX08rcpvO7U&list=UUIc1OklQDuoUZN51I3s9r4g
+- AtCoder_Katuppa    https://www.youtube.com/watch?v=MSDAFTixDcI&list=UUqqeYOh1gk_TJ16sxazWhUg
+- AtCoder_Petr    https://www.youtube.com/watch?v=02VV330Avc8&list=UUdmeooqNtlN7IhrKlq7hGDA
+- AtCoder_Kirimin    https://www.youtube.com/watch?v=iJtsASuus7E&list=UUqN87Ye4TNLB04EFhxJ0L5w
+- AtCoder_HackersLiveJP    https://www.youtube.com/watch?v=RF42ybAbbOY&list=UUHGJRKiIJijt5u-Z3KkgG_w
+
+- TrainingYamazawa    https://www.youtube.com/watch?v=FxfkrHIt_nk&list=UUuhPVNbY5AATKsU5RSEhbCQ
+- TrainingKoaraHome    https://www.youtube.com/watch?v=P8UOGqgG4y4&list=PL_9RfKMUpBTuHPSwJg8nfXXxN1tWt2JGG
+- TrainingKoaraJIm    https://www.youtube.com/watch?v=VZb-LvEcVT0&list=PL_9RfKMUpBTvmaBzMrOakHYmjNmSRWXK4
+- TrainingKoaraKata    https://www.youtube.com/watch?v=U29kg22o9b4&list=PL_9RfKMUpBTtsuj_6XXKHZZ-speWK8iYb
+- TrainingkoaraShokuji    https://www.youtube.com/watch?v=uM4haoBi98k&list=PL_9RfKMUpBTtCmWh9RrE3FMrYnWfGsxFu
+- TrainingShinyAzami    https://www.youtube.com/watch?v=4FtL1RHQnac&list=UUHoOFVQAhK-QyoXgf0iaZIg
+- TrainingKaito    https://www.youtube.com/watch?v=L5eWOZJuF5Q&list=UUjAW4dwWGSyi-aMxzl407rQ
+- TrainingYamamoto    https://www.youtube.com/watch?v=tLtkFOb-Q0I&list=UU7F_CLFtxDetmUnORgmwImg
+- TrainingYamazawa    https://www.youtube.com/watch?v=95AsyEzrEsE&list=UUuhPVNbY5AATKsU5RSEhbCQ
+- TrainingShoFitness    https://www.youtube.com/watch?v=LEsqd3KVSjg&list=UUIR8bP-MIXHwTPkUjcnjBCw
+- TrainingFamilyTime    https://www.youtube.com/watch?v=BBBxLdIFLto&list=UU7L_11j3h-LAzN671GKFnsQ
+- TrainingKazumaKick    https://www.youtube.com/watch?v=zjCIIDRQvVs&list=UUmhpUxERjP_obyFHLBkIirQ
+- TrainingSamuraiCapoeira    https://www.youtube.com/watch?v=aswGmpm8Y-k&list=UUEmxGHrUkptGaQWQwq4tzXQ
+- TrainingKinnikuOyaji    https://www.youtube.com/user/naritaburaian915/videos
+- TrainingHoriguchiKyouji    https://www.youtube.com/watch?v=1bKF2KFr0Ak&list=UU-GUnpgY8Er056ZUI_CdDOA
+- TrainingPieHien    https://www.youtube.com/watch?v=zMhTaatkbLc&list=UUt7B4Y-oWHqdOk0ybZ3CBOQ
+- DanceBigM    https://www.youtube.com/watch?v=NhcWpQBRJpU&list=UUjblJszeqfc_QLZWdQh2rkw
+
+- ZA_ActiveOtakuChannel    https://www.youtube.com/watch?v=yWRbeOe4EtI&list=UUuw8JpSsB09ySeU1uGCIvPQ
+- ZA_BrightSide    https://www.youtube.com/watch?v=YC8G67JNFCc&list=UU1bmnUH1ffc63zohkPvtXcQ
+- ZA_TenshokuUtshu    https://www.youtube.com/watch?v=JRa-BcKDJxo&list=UU7LnadOwPEGqGnIuwVGfjow
+- ZA_Daigo    https://www.youtube.com/watch?v=ZjE4VcWQ_Rw&list=UUFdBehO71GQaIom4WfVeGSw
+- ZA_Globis    https://www.youtube.com/watch?v=4iS0azey2MY&list=UUoorcrpmcdrB6F7GsBZVX0A
+- ZA_KENTA    https://www.youtube.com/watch?v=PT12loRVn-o&list=UU_HLK-ksslL-Z_2wiIZDlMg
+- ZA_Nakata    https://www.youtube.com/watch?v=GRPM1vstr9E&list=UUFo4kqllbcQ4nV83WCyraiw
+- ZA_kakachannel    https://www.youtube.com/watch?v=bW69U9_1pKQ&list=UU1KM0FPG8NvCWKRZURZZEfQ
+
+
+- PyData    https://www.youtube.com/watch?v=WWHphHz3KDI&list=UUOjD18EJYcsBog4IozkF_7w
+- PydataTokyo    https://www.youtube.com/watch?v=HzijGBU3QIk&list=UUwvss5yZK7xJWT46m1DhyFg
+- AI
+- AI_AbleProgramming    https://www.youtube.com/watch?v=X8hK4ovQoLg&list=UUh5M2YUAPW7HnpfTUv7XHmA
+- AI_kaggle    https://www.youtube.com/watch?v=jDhvePcNF9I&list=UUSNeZleDn9c74yQc-EKnVTA
+- AI_CurryChan    https://www.youtube.com/watch?v=SySFmdU6MI4&list=UUF_3GKr98gkLer3iXJHA0RQ
+- AIExpo    https://www.youtube.com/watch?v=jXOxfhZmvII&list=UUUlUkk5d7PPSgYXkXoFgxNg
+- AI_TakamiSato    https://www.youtube.com/watch?v=LpLAKuQGRn8&list=UUiECS_auJLNpFsvjTi1WuxQ
+- AI_ChinAIEngieer    https://www.youtube.com/watch?v=A_eXrM_rIjk&list=UUOFe34WM8JwOKnk7IJrVHLg
+- AI_MachineLearning15minutes    https://www.youtube.com/watch?v=QOQcEaLUGac&list=UU24lruABcAwiTJAe-sD1Hew
+- AI_TensorflowStudy    https://www.youtube.com/watch?v=C6gPnacc0hU&list=UUFVrW4iin3Y42rvmp_AHsvQ
+- AI_SeiouKen    https://www.youtube.com/watch?v=Ps-EzZ3Uqn0&list=UUqm74niKmZ04XCg1Zdiqxyg
+- AI_TanakaTOM    https://www.youtube.com/watch?v=11WobcsWn64&list=UUWXXSB94_CUAYD7XgdLzvBg
+- AI_DeepLearningLabDLLab    https://www.youtube.com/watch?v=qOzDaDIldwA&list=UUm5dtCJ8ZgEMl0t1_oxsapA
+- AI_AiciaSolidProject    https://www.youtube.com/watch?v=I3le5FVPcnw&list=UU2lJYodMaAfFeFQrGUwhlaQ
+- AI_CrashCource    https://www.youtube.com/watch?v=ZQzJI2OwtMs&list=UUTkQ7ErzG5HIq-lo-IMJNCA
+- AI_DGLab    https://www.youtube.com/watch?v=2FFmWd1oUGw&list=UUEzHB9hSFTS0kF-EEg7YeBA
+- AI_sentdex    https://www.youtube.com/watch?v=m0UdvFdUyZM&list=UUfzlCWGWYyIQ0aLC5w48gBQ
+- AI_GoogleCloudPlatform    https://www.youtube.com/watch?v=XFBaLgxvjfc&list=UUJS9pqu9BzkAMNTmzNMNhvg
+- AI_ToruTamaki    https://www.youtube.com/watch?v=U-8Xssf-zwc&list=UUirqYKKjRztDywdQXLDYYAg
+- AI_TeamAI    https://www.youtube.com/watch?v=HkJmnpBjiI0&list=UUia6MugdTJInauwBnWifs2A&index=3
+- AI_LogicAI    https://www.youtube.com/watch?v=i4JDcfKR6fE&list=UUZ_qlZbg9EzwRnLq_hFQumQ
+- AI_UmeSome    https://www.youtube.com/watch?v=rZxbp7eSKyM&list=UUo9DlOrP-86gLqLxL68RwjQ
+- AI_SirajRaval    https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos
+
+- AI_TeamLab_Study    https://www.youtube.com/watch?v=tbY6XZAaoaA&list=UUPeeEi0sF02nsKLk5Fr8RJw
+- AI_STAIRLab    https://www.youtube.com/watch?v=8vGEprte9GQ&list=UUqK6zjhj120DL2PAYOi4ngg
+- AI_PreferredNetworks    https://www.youtube.com/watch?v=hsrycS6-xzc&list=UUAQtQhYPHkslielNswSMrYw
+- AI_ForSiteAI    https://www.youtube.com/watch?v=MhWmLPy0ZsI&list=PLbmEPr-C_fxSToXvpzgUI2xwMLzJd9fEg
+- AI_LearnDataScience    https://www.youtube.com/watch?v=i4JDcfKR6fE&list=UUZ_qlZbg9EzwRnLq_hFQumQ
+- AI_LexFridman    https://www.youtube.com/watch?v=Z6rxFNMGdn0&list=UUSHZKyawb77ixDdsGog4iWA
+- AI_kaggleBryanGregory    https://www.youtube.com/watch?v=TT_3b9IbQek&list=UUwALLFhszHyTIFRN_eoGJNw
+- twominuteAI    https://www.youtube.com/watch?v=luwP75lPExo&list=UUbfYPyITQ-7l4upoX8nvctg
+- AI_NvidiaJP    https://www.youtube.com/watch?v=C4ouIyYE-ms&list=UUtpJJpXnmHgI6ecoz-KyB5w
+
+- scientist     
+- SuzukiJoe    https://www.youtube.com/watch?v=6B27ZqQuVmk&list=UUzGo7kyMyZuguUnK_jQDKTA
+- NagaokaGijutu    https://www.youtube.com/watch?v=VV4FRReFi1g&list=UUhwtfJp9l_thFbFDWXoGWEQ
+- DataAnaRoom    https://www.youtube.com/watch?v=EXW62VDC_pQ&list=UUxEI7EvtxlrZwAWvyXtx86A
+
+- GeekLesson    https://www.youtube.com/watch?v=UugbJ7d_QKc&list=UUKXx22vOENUyHrVAADq7Z_g
+
+- csdojo    https://www.youtube.com/watch?v=jDn7kwBYnyE&list=UUxX9wt5FWQUAAz4UrysqK9A
+
+- html5    https://www.youtube.com/watch?v=_GjWo2r96eM&list=UUGiSzzfTs7s3dHy3xWkSQ0g
+- freeCodeCamp.org    https://www.youtube.com/watch?v=2_lswM1S264&list=UU8butISFwT-Wl7EV0hUK0BQ
+- ButuriEngineKun    https://www.youtube.com/watch?v=2n2k5Lk40xI&list=UUI2-ki0BQzmQ_tE4mxG8rXQ
+- dabyron    https://www.youtube.com/watch?v=LjQhehHWB5g&list=UUb2vWCm9vSpNj6LCKd3CicQ
+
+- JeremyHoward    https://www.youtube.com/watch?v=XfoYk_Z5AkI&list=UUX7Y2qWriXpqocG97SFW2OQ
+- GriffeyeAnalyze    https://www.youtube.com/watch?v=jcnq7VoK6m4&list=UUZB0aqGDyUiPIrww9jH2A3w
+- toyohisa    https://www.youtube.com/watch?v=jApAaw2Ibuo&list=UUdgdCRpy7An2r4oZ9sMO70w
+- DrASD    https://www.youtube.com/watch?v=H8gjMSFNM54&list=UU0Uqu5dkvut8hcWjiGMIB-A
+
+- MGS    https://www.youtube.com/watch?v=KArst70Jpfg&list=UUihiZXW9lvd-sg9k6GnKL7Q
+- DeadSpace2    https://www.youtube.com/watch?v=-G2oSOUpUMU&list=PLEQchj72pK56h3KaFJXrgMB9nY2Mlvbaq
+- KD3    https://www.youtube.com/watch?v=XMpixY2gnpg&list=PLRVOMzMTjyiA7SSKO8jddNB_5roskTlJk
+- BeyondTwoSouls    https://www.youtube.com/watch?v=r-RRzLWM4YI&list=PLDyRqRTpvevOSPicVMyLxQczyvq2DJjEP&index=5
+
+- PG_OkinawaOsozaki    https://www.youtube.com/channel/UCwrDvYey9uKGBeh_l5IF-ag/videos
+- PG_ITeensLab    https://www.youtube.com/watch?v=au8-KPn1iVo&list=UUjPKjWOUTCOS_5olrDHpjqQ
+
+- music_DJNoise    https://www.youtube.com/watch?v=RaarRogvesU&list=UUAj9nn-gOcKuD4ropg44HCw
+- music_Jaden    https://www.youtube.com/watch?v=cmc8q2dcIMs&list=OLAK5uy_nQr8Ed3k9nJfV9jUezYCbpU7xv26Ljeqo
+- music_FullTechno    https://www.youtube.com/watch?v=rKWo1fuCDw8&list=UU9UAt0_ix-pJoUGuDLQgKYg
+- music_放浪兄弟    https://www.youtube.com/watch?v=C8mUVGQ_pw4&list=UUS78yKeFsPOcD6w0Jc0hAVg
+- music_shurknpap_roadtrip    https://www.youtube.com/watch?v=klSK7FZkk-g&list=OLAK5uy_mi-LRsskp7z4gSCyurkTBBsyg-YEsR_Ao
+- music_tasyyoungboy    https://www.youtube.com/watch?v=MGtn9U_7uOM&list=UU9cwB90G5R_xcgVBPC_d5Rg
+- music_ChillySource    https://www.youtube.com/watch?v=sdbsuL7MH1M&list=UUTy5egPnCiEor1746_MBmDA
+- music_mau5trap    https://www.youtube.com/watch?v=33R-tbyE-wI&list=UUCbpTuRINyfjtwFkjHuII1w
+- music_ONEPERCENT    https://www.youtube.com/watch?v=6Bv51HKVne4&list=UUlTgj4qSSTC_Zr7JBCVTHmg
+- music_REZZ    https://www.youtube.com/watch?v=Xl6w3EJR4tI&list=OLAK5uy_kg0GvKQfTFYNU9DxV6WBBrby5aeS8x0Eg
+- music_BadHop    https://www.youtube.com/watch?v=wGMpD5RE9zk&list=UUcb0Ixexedx7eXLzgYZh6bg
+- music_変幻自在時代屋    https://www.youtube.com/watch?v=VVm33wG5oVk&list=UUdkxQwatND0l6gULsPKbiig
+- music_kivibaba    https://www.youtube.com/watch?v=RpczSzB7HX4&list=UUqz3nhNFUZYgUT8ncTZwFSQ
+- music_Yorusika    https://www.youtube.com/watch?v=KTZ-y85Erus&list=UURIgIJQWuBJ0Cv_VlU3USNA
+- music_EvisBeats    https://www.youtube.com/watch?v=DDqqW0amAlg&list=UUq70AwMoArg1PE5y6MlTV_w
+- music_DosMonos    https://www.youtube.com/watch?v=ZwacnspY3-s&list=UUURPe8a2YgA94aEWpZtukGA
+- music_Empire    https://www.youtube.com/watch?v=0JTU6UNUdcU&list=UUYaEVGPc3PkEiaHfkMzXBog
+- music_zheani    https://www.youtube.com/watch?v=JY6hCE2D-cc&list=UU-iSVYcy1rDg7xGqIwttyCw
+- music_BlotterMedia    https://www.youtube.com/watch?v=h-RaC0V1S6A&list=UUbqd3dw2j3HLhUab_VCeQTQ
+- music_DonaldGlover    https://www.youtube.com/watch?v=VYOjWnS4cMY&list=OLAK5uy_lovsbSPtBWdmcsKrhYloujvMb73T0Gf3g
+- music_GameMusicGrad1u53    https://www.youtube.com/watch?v=1BK5ACIbJRI&list=UUMQkCyOpkqf271_YJw-EUbQ
+- music_LateNightLukas    https://www.youtube.com/watch?v=9j6lp1OMK3I&list=UUl7AJ7VlnvX01h9I0pS_Buw
+- MindfulMusic    https://www.youtube.com/watch?v=kmJLPZO-oHg&list=UUK7X0kE4vCbOXPi1VPVQYFw
+- music_FasolProd    https://www.youtube.com/watch?v=49vuOqpfgL4&list=UUrJBD5VZtc35wqqfbNV6DZQ
+- Trillion8DMusic    https://www.youtube.com/watch?v=-BQYanOI0Pc&list=UU1kI8ayQzLnvo_ZEDnNrirA
+- DjoenzDjamz    https://www.youtube.com/watch?v=mWnoiaujEyE&list=UUeMwlSaW04xRto-YFNe04WA
+
+
+- CoreySchafer    https://www.youtube.com/watch?v=APOPm01BVrk&list=UUCezIgC97PvUuR4_gbFUs5g
+- Matlab    https://www.youtube.com/watch?v=7cF3VzP5EDI&list=UUgdHSFcXvkN6O3NXvif0-pA
+- SpainKaggle    https://www.youtube.com/watch?v=toGqk2wNz8k&list=UUeq6ZIlvC9SVsfhfKnSvM9w
+- JomaTch    https://www.youtube.com/watch?v=M5v1nXiUaOI&list=UUV0qA-eDDICsRR9rPcnG7tw
+- MachineLearningCasualTalks    https://www.youtube.com/watch?v=G99i2cd9uas&list=UU7DlQeDHft-pQZSntz8DsJw
+- NEDOChannel    https://www.youtube.com/watch?v=1HXReqLsRjo&list=UUd4OTUB8A9PIdNs-vxF5t8g
+- TechWithTim    https://www.youtube.com/watch?v=dTXyCGVmjL8&list=UU4JX40jDee_tINbkjycV4Sg
+- CodeEntrepreneurs    https://www.youtube.com/watch?v=FEBYi8Ia8bk&list=UUWEHue8kksIaktO8KTTN_zg
+- AlenaKruchkova    https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos
+- AugmentedStupsYoloV3    https://www.youtube.com/playlist?list=PL_Nji0JOuXg1gNDFvJ8xU3dAFw27Oqz3J
+- KenbridgeAnaritica    https://www.youtube.com/watch?v=jQNBur5Wxis
+
+
+- 2Broホラー弟者の生放送「デッドバイデイライト」    https://www.youtube.com/watch?v=R88Oqg2epdo&list=PL1Z1KdfmKuebJwZeBiWtRlE4oH60_07gn
+- 2BroE3/2019まとめ    https://www.youtube.com/watch?v=z3ShiUlZ8SM&list=PL1Z1KdfmKueaqPg29THgXl7pItz_oIFe5
+- 2BroFPS弟者の「RAGE 2」    https://www.youtube.com/watch?v=57aS5goFAh4&list=PL1Z1KdfmKueY0dVZbmRZhJDPMWKZxaCP_
+- 2BroFPS弟者の「Fallout 4（フォールアウト４）」    https://www.youtube.com/watch?v=tdGmx-UpJTs&list=PL1Z1KdfmKueZ8pDJ1-xCP5q6G9AMnDh1B
+- 2BroFPS弟者の「メトロ エクソダス」    https://www.youtube.com/watch?v=FFwQ-Jn9SyU&list=PL1Z1KdfmKueZ28kdvYLrPqzJrfoFWtlQE
+- 2BroTPS弟者の「メタルギアソリッドV：TPP」    https://www.youtube.com/watch?v=chaVd3cyglI&list=PL1Z1KdfmKuebmoGVpZyJ-AxzW5HterP0L
+- 2BroTPS弟者の「レッド・デッド・リデンプション2」    https://www.youtube.com/watch?v=sscJpO9kCXE&list=PL1Z1KdfmKuealViuys440YMMQUZOx8eh3
+- 2BroTPS弟者の"こっそり"「フォートナイト バトルロイヤル」    https://www.youtube.com/watch?v=sJJXyirGD2I&list=PL1Z1KdfmKueZzYal4y4d81MpSYA6XF7tq
+- 2Broホラー弟者の「デッドバイデイライト シーズン6」2Bro2BRO.    https://www.youtube.com/watch?v=4LmMo8U-yMs&list=PL1Z1KdfmKueZlvhlbw4PhGPF1tvIEi4-i
+- 2Broドラゴンズクラウン    https://www.youtube.com/watch?v=dF-8Ea_ouAg&list=PL1Z1KdfmKueY7I9Up4wW9zOtUX_lmt8UD
+- yathPSガンパレードマーチ実況    https://www.youtube.com/watch?v=7ZBDsKe5p9Q&list=PLeBYzK3BTHvH5LtWx4sCaagiyMNNqBuCy
+- yathPS2hack感染拡大 Vol1実況    https://www.youtube.com/watch?v=w32kkMRjkYw&list=PLeBYzK3BTHvFpCvWbjRv9Ndy9M6DfhSLN
+- yathPS2hack悪性変異 Vol2実況    https://www.youtube.com/watch?v=ooql8h-xxT0&list=PLeBYzK3BTHvFj-nUiqX51WlEv_g_tgZC4
+
+- gloops    https://www.youtube.com/watch?v=1rOa7zzpYCA&list=UU8AJDQh8HCQA0ERCjGUMXMQ
+- klab    https://www.youtube.com/watch?v=31k2rQFaxZA&list=UU5jKrMQl1H7F3TVXZHnb_eQ
+
+- KLabCG    https://www.youtube.com/channel/UCFwJaXZgwMoqf_fBACEwCSw/videos
+- YuunaバイオRE2    https://www.youtube.com/watch?v=p0URKUhsXIs&list=PLLIfjBtOk1rer0aTSARyOjjqDbnrbHyHs
+- Yuunaバイオ5HD    https://www.youtube.com/watch?v=a5oDOCCU2FI&list=PLLIfjBtOk1rfQGN8aHiCDjQhErrERofq5
+- YuunaDETROIT    https://www.youtube.com/watch?v=wJzSgRkAMNM&list=PLLIfjBtOk1repCAL1IwoYtsRPvQZ3lYHM
+- Yuunaラストオブアス    https://www.youtube.com/watch?v=XWVBVpjNuRU&list=PLLIfjBtOk1reyKWTCV2a0UITMajUGNCLm
+- Yuunaダークソウルリマスター    https://www.youtube.com/watch?v=kTBVs4SdEu8&list=PLLIfjBtOk1rfH5CSvABkC3eApo7c2QePh
+
+- NokyoGamesカップヘッド    https://www.youtube.com/watch?v=U-qCkGXEkrs&list=PLNXIREEVlFe7a3vAYribzfDDFfjk8mkTn
+- NokyoGamesグランドセフトオート5    https://www.youtube.com/watch?v=Q6Sw5sBQ9DE&list=PLNXIREEVlFe5Pkh_Jz35TLQCn6JxrCuCQ
+
+- Sumaho七つの大罪グラクロ生放送    https://www.youtube.com/watch?v=f81PRIOuo30&list=PLd7QSWQYQ9i0nAm2ry2KcrdDzceVrfPZQ
+- Sumaho七つの大罪グラクロ攻略動画    https://www.youtube.com/watch?v=scupS9mH7LU&list=PLd7QSWQYQ9i38C1KxyWP6turXurQxrhhu
+- Sumahoゼロから始めるグラクロ    https://www.youtube.com/watch?v=8BNU3K9NeMc&list=PLd7QSWQYQ9i2NIB-kkn1odkcbLdP0m3s5
+- Sumaho黒い砂漠MOBILE 攻略動画    https://www.youtube.com/watch?v=H8B96mnyk9g&list=PLd7QSWQYQ9i0qMf3OS_oWeWyJnhcob_6g
+- Sumaho黒い砂漠 オススメ動画    https://www.youtube.com/watch?v=H8B96mnyk9g&list=PLd7QSWQYQ9i2ZAkjoZLvCWC_iR_DjfyCQ
+- Sumaho黒い砂漠MOBILE 生放送    https://www.youtube.com/watch?v=2-T0ziIVM5c&list=PLd7QSWQYQ9i3MtnYP_hMnc5_scetbEgDG
+- Sumahoハローヒーロー:Epic Battle    https://www.youtube.com/watch?v=r4eL3CVhlqc&list=PLd7QSWQYQ9i3paWxPf9kGg9V613_B2VT5
+- SumahoメイプルストーリーM 生放送    https://www.youtube.com/watch?v=3CKiASKy8so&list=PLd7QSWQYQ9i3709jnCZH8n4_5MvdluciM
+- Sumahoメイプルストーリー 攻略動画    https://www.youtube.com/watch?v=D0033x9jJLM&list=PLd7QSWQYQ9i22CqwSDAvdKIpPRtJ0FVc9
+- Sumaho禍つヴァールハイト    https://www.youtube.com/watch?v=Qb8chbf1tBc&list=PLd7QSWQYQ9i1J2g7A48Zsl41mzEP-gkPH
+
+- Sumaho七つの大罪グラクロ生放送    https://www.youtube.com/watch?v=f81PRIOuo30&list=PLd7QSWQYQ9i0nAm2ry2KcrdDzceVrfPZQ
+- Sumaho七つの大罪グラクロ攻略動画    https://www.youtube.com/watch?v=scupS9mH7LU&list=PLd7QSWQYQ9i38C1KxyWP6turXurQxrhhu
+- Sumahoゼロから始めるグラクロ    https://www.youtube.com/watch?v=8BNU3K9NeMc&list=PLd7QSWQYQ9i2NIB-kkn1odkcbLdP0m3s5
+- Sumaho黒い砂漠MOBILE 攻略動画    https://www.youtube.com/watch?v=H8B96mnyk9g&list=PLd7QSWQYQ9i0qMf3OS_oWeWyJnhcob_6g
+- Sumaho黒い砂漠 オススメ動画    https://www.youtube.com/watch?v=H8B96mnyk9g&list=PLd7QSWQYQ9i2ZAkjoZLvCWC_iR_DjfyCQ
+- Sumaho黒い砂漠MOBILE 生放送    https://www.youtube.com/watch?v=2-T0ziIVM5c&list=PLd7QSWQYQ9i3MtnYP_hMnc5_scetbEgDG
+- Sumahoハローヒーロー:Epic Battle    https://www.youtube.com/watch?v=r4eL3CVhlqc&list=PLd7QSWQYQ9i3paWxPf9kGg9V613_B2VT5
+- SumahoメイプルストーリーM 生放送    https://www.youtube.com/watch?v=3CKiASKy8so&list=PLd7QSWQYQ9i3709jnCZH8n4_5MvdluciM
+- Sumahoメイプルストーリー 攻略動画    https://www.youtube.com/watch?v=D0033x9jJLM&list=PLd7QSWQYQ9i22CqwSDAvdKIpPRtJ0FVc9
+- Sumaho禍つヴァールハイト    https://www.youtube.com/watch?v=Qb8chbf1tBc&list=PLd7QSWQYQ9i1J2g7A48Zsl41mzEP-gkPH
+- Yuunaプラーグテイル    https://www.youtube.com/watch?v=1tNe4OgWKNU&list=PLLIfjBtOk1rcM2_7u95hEFlD8gd2j3q0y
+- YuunaSEKIRO    https://www.youtube.com/watch?v=r1cO3elzG24&list=PLLIfjBtOk1reNXqqyQ2ik46enJa8jEm_C
+- Yuunaデビルメイクライ5    https://www.youtube.com/watch?v=eal9raA3eow&list=PLLIfjBtOk1rdYtpEYB4MmLK-fZEEdIFi2
+
+- Yuunaドラえもんのび太の牧場物語    https://www.youtube.com/watch?v=qHCkcgnXl_0&list=PLLIfjBtOk1remJ3NAiKdwUZ8vGhoi42RC
+- Yuunaマリオメーカー2 動画    https://www.youtube.com/watch?v=jxtYgC7INCs&list=PLLIfjBtOk1rcfPTqt87hYr0WUb1pm7UPK
+- Yuunaバカゲー    https://www.youtube.com/watch?v=HJs4nSrV6-k&list=PLLIfjBtOk1rdKRxd2CfqsKQZMzCGH3Gxg
+- Yuunaスーパーマリオワールド    https://www.youtube.com/watch?v=sirY6KGzuq8&list=PLLIfjBtOk1re2h8ZlDHp0h9BXRZLtovG-
+- Yuuna妖怪ウォッチ4    https://www.youtube.com/watch?v=6J_d2T-oJ2I&list=PLLIfjBtOk1rd7W-sDt4UNRI3KI4dAxLDL
+- Yuunaプラーグテイル    https://www.youtube.com/watch?v=1tNe4OgWKNU&list=PLLIfjBtOk1rcM2_7u95hEFlD8gd2j3q0y
+- YuunaCCFF7    https://www.youtube.com/watch?v=CbJYccnbBGo&list=PLLIfjBtOk1rf9sVwexoFdv7ql16HLAcat
+- Yuuna超魔界村 ライブ編集版    https://www.youtube.com/watch?v=djithrJso_g&list=PLLIfjBtOk1re2iqudm6GIsR53vJoPpHl8
+- Yuunaドラクエ8    https://www.youtube.com/watch?v=nWzOI9uT_MU&list=PLLIfjBtOk1rctRpwZSAg8B9sOUVNF_Xo1
+- Yuuna大魔界村 ライブ    https://www.youtube.com/watch?v=avTnYeNa-50&list=PLLIfjBtOk1rd18Ggd8RA-ICqHeF5b4Dmb
+- Yuuna実写系    https://www.youtube.com/watch?v=Pr6xZLVBvS4&list=PLLIfjBtOk1rdug_kkcoMz4g8MsrgZMVla
+- Yuuna栄冠ナイン 3年企画 2019    https://www.youtube.com/watch?v=R6-fTYz6z44&list=PLLIfjBtOk1reXYgU2BmRyZk2lTdwf0s7S
+- Yuuna栄冠ナイン パワプロ2019    https://www.youtube.com/watch?v=J75akT5dZBM&list=PLLIfjBtOk1rfg8q6afuR3sD0Df9k8utd2
+- Yuunaゴエモン    https://www.youtube.com/watch?v=IO_nZUeoU9Q&list=PLLIfjBtOk1reDP3eaut4u2qWU6jtkMxcl
+- YuunaFF7    https://www.youtube.com/watch?v=Z_m0Xs6ESuo&list=PLLIfjBtOk1rf05JM5m3DKuc1mdWshlkfG
+- Yuuna名作、レトロゲー    https://www.youtube.com/watch?v=W_s8q1-j-ZQ&list=PLLIfjBtOk1rfvORtRmnswnJOn5a8aJxag
+- Yuunaチョコボ不思議なダンジョンEverybody    https://www.youtube.com/watch?v=AKuUbUKCms4&list=PLLIfjBtOk1reefpA0_FWjqy2gF3tQlMjU
+- YuunaDAYS GONE    https://www.youtube.com/watch?v=J0NUx9DFPt8&list=PLLIfjBtOk1reU9qyqDX_dyI6tzZ8JCq_6
+- Yuuna栄冠ナイン 3年優勝企画 パワプロ2018    https://www.youtube.com/watch?v=9WNTHQGBRLM&list=PLLIfjBtOk1rdYYKyK3wlLTOfMx4rV52WL
+- Yuuna黒い砂漠    https://www.youtube.com/watch?v=GpSQrEr98sE&list=PLLIfjBtOk1rcBxE5UidcWEzEJLYIioU24
+- Yuunaゴエモン3    https://www.youtube.com/watch?v=vZWogB0UcC0&list=PLLIfjBtOk1reTydeFLy-ARjB3EhTAN5LS
+- YuunaSEKIRO    https://www.youtube.com/watch?v=r1cO3elzG24&list=PLLIfjBtOk1reNXqqyQ2ik46enJa8jEm_C
+- Yuunaダークソウル3    https://www.youtube.com/watch?v=tiZfQ5Ht99M&list=PLLIfjBtOk1rc6IMLKPQEpijFNHxCX3HUI
+- YuunaポケモンAS    https://www.youtube.com/watch?v=YrExNHJJwsE&list=PLLIfjBtOk1rfuksJY0WN0dPpQNHRq0wd-
+- Yuunaワンピース ワールドオブシーカー    https://www.youtube.com/watch?v=fENQwh_eu4M&list=PLLIfjBtOk1rf8-3gCaNJA1jHwKymoCML9
+- Yuunaドラクエビルダーズ2 クリア後 1から街づくり    https://www.youtube.com/watch?v=IaVbpNV_x4I&list=PLLIfjBtOk1reGxuTdX2w3NoOGzJTLNJ4H
+- Yuunaデビルメイクライ5    https://www.youtube.com/watch?v=eal9raA3eow&list=PLLIfjBtOk1rdYtpEYB4MmLK-fZEEdIFi2
+- Yuunaドラクエ7    https://www.youtube.com/watch?v=cwbMt-EVTBU&list=PLLIfjBtOk1rfWXEeJvunVpZjSAeg9GTwp
+- Yuunaトルネコの大冒険 3    https://www.youtube.com/watch?v=em4Bl46s55Y&list=PLLIfjBtOk1re_5cbBvEmsP37j0jIquE1y
+- Yuuna信長の野望・大志PK    https://www.youtube.com/watch?v=R2TgU5Sng7U&list=PLLIfjBtOk1rcEv4V5bxSqBBjQWcO-OG-t
+- Yuunaバイオ RE:2    https://www.youtube.com/watch?v=p0URKUhsXIs&list=PLLIfjBtOk1rer0aTSARyOjjqDbnrbHyHs
+- Yuunaキャサリン フルボディ    https://www.youtube.com/watch?v=3j3lp2aswj8&list=PLLIfjBtOk1rcrxTELzaSHjGtmYKTA9yzS
+- YuunaJUDGE EYES：死神の遺言 /キムタクが如く ジャッジアイズ    https://www.youtube.com/watch?v=ClJKBHpuY_E&list=PLLIfjBtOk1rfDhzBp-nOT7eL5uot7u6YG
+- Yuunaバイオ5 HD    https://www.youtube.com/watch?v=a5oDOCCU2FI&list=PLLIfjBtOk1rfQGN8aHiCDjQhErrERofq5
+- Yuunaバイオ1 HDリマスター    https://www.youtube.com/watch?v=H2H2hvmPo2I&list=PLLIfjBtOk1rcz6uxxTICAc9yes_4x1ihY
+- Yuunaバイオ0    https://www.youtube.com/watch?v=6WA8dbt5UuU&list=PLLIfjBtOk1rfOmlB4Q-eDDT9NtpuMJPtM
+- YuunaFF10 リマスター    https://www.youtube.com/watch?v=hZBMkV2o0js&list=PLLIfjBtOk1rfDhFgzQlrI0-UoUsFRZV4q
+- Yuunaキャサリン フルボディ    https://www.youtube.com/watch?v=Eurm2F3JPCA&list=PLLIfjBtOk1rf4DvrsZyT6nuhazplxZt1U
+- Yuunaドラクエビルダーズ2 本編 &攻略    https://www.youtube.com/watch?v=rGPx44ozamA&list=PLLIfjBtOk1rdbcfcw10GKNtSONxUfK-wS
+- Yuunaポケモン レッツゴーピカチュウ/イーブイ    https://www.youtube.com/watch?v=Of5T71I06dQ&list=PLLIfjBtOk1rdN7e2xwkHfGjWUtX-LWTRs
+- Yuunaビルダーズ2。発売前企画 ロト3部作配信    https://www.youtube.com/watch?v=3oQrAA-EkOw&list=PLLIfjBtOk1rf2a6JvqbWe71zCxRC-Q8e7
+- YuunaDQB2 ドラクエビルダーズ2    https://www.youtube.com/watch?v=B97pTxpbrZA&list=PLLIfjBtOk1re-aVXq4fitQgJBCAGdz0Y7
+- YuunaスマブラSP    https://www.youtube.com/watch?v=tYbbf-wyg6M&list=PLLIfjBtOk1rfOgtu2MigbMU6FZdGqGiBP
+- YuunaポケモンSS (ソウルシルバー)    https://www.youtube.com/watch?v=gHaeKx549cQ&list=PLLIfjBtOk1rfnC3DglXzWTr8xyLbiT7ZZ
+- Yuunaポケモン レッツゴーピカチュウ/イーブイ 攻略    https://www.youtube.com/watch?v=FnxkwHN6eTs&list=PLLIfjBtOk1rfzIuvUFWAi2jYGzsoY0QMv
+- YuunaRDR2 動画 短編 攻略    https://www.youtube.com/watch?v=FuaftLYwqc0&list=PLLIfjBtOk1reHbRvudMbQI0paCGooj2sQ
+- Yuunaポケモン リーフグリーン    https://www.youtube.com/watch?v=r-DKtOSJ97A&list=PLLIfjBtOk1rdEYEPeQZ4wB_Phl48uUdQY
+- YuunaRDR2 アーカイブ    https://www.youtube.com/watch?v=DDCfBTyOV7U&list=PLLIfjBtOk1rece5_1k6QRq-yaL9SErjHa
+- Yuunaドラクエ5    https://www.youtube.com/watch?v=EzUPcKYFjxk&list=PLLIfjBtOk1rdXTEakcktLjgH6CVFAcAcD
+- YuunaMOTHER2    https://www.youtube.com/watch?v=YM9GagXNrwI&list=PLLIfjBtOk1rc4VI3V8mzgxLdFZmGxpQQP
+- YuunaスーパーマリオRPG    https://www.youtube.com/watch?v=p3Aqwh1Q6us&list=PLLIfjBtOk1rc487mCLpN5zZL1QlUBgx4m
+- YuunaMHW 動画    https://www.youtube.com/watch?v=SFQwQpk3Ng8&list=PLLIfjBtOk1rdjNEM2Kbzc9Z7B_OMPtNGd
+- YuunaFF6    https://www.youtube.com/watch?v=WNUwcj7hLO8&list=PLLIfjBtOk1rf4YwDEZZvbRHHiwi9mB_FU
+- YuunaFF5    https://www.youtube.com/watch?v=ucl1RWINL5o&list=PLLIfjBtOk1rf_G2qubo-vNTQBkNph1cMo
+- Yuunaドラクエ6    https://www.youtube.com/watch?v=WeeUukcDxbI&list=PLLIfjBtOk1rfyhFiGMQtZwwn-Fpu9M91O
+- Yuunaスーパーマリオメーカー    https://www.youtube.com/watch?v=ZmKbvNiOdSo&list=PLLIfjBtOk1rfqmVAdvYDLdFTjWTjpb-bb
+- Yuunaネタ！爆笑トルネコ成り上がり物語    https://www.youtube.com/watch?v=8T1c9yJL0Go&list=PLLIfjBtOk1rdmdOy4vNGYA6HBm6oRdsZP
+- Yuunaドラクエ2（ザッと観）    https://www.youtube.com/watch?v=NK49FOt2jYE&list=PLLIfjBtOk1rcDFDKpB3qErNcnswS0fOuN
+- Yuunaドラクエ３(ザッと観）    https://www.youtube.com/watch?v=nmzBzkCY1pM&list=PLLIfjBtOk1re2h0wCmWmTedviR4e5Z5I1
+- Yuunaゼルダの伝説 BotW 動画    https://www.youtube.com/watch?v=N9W2FjsbS_w&list=PLLIfjBtOk1rewENRnrTFUe6X1ZUT98Ezg
+- Yuunaクロノトリガー    https://www.youtube.com/watch?v=Z70VnZWY9qU&list=PLLIfjBtOk1re0lGmZ_7tUz8n3x_OYz4fw
+- Yuunaドラクエ4    https://www.youtube.com/watch?v=6DpiSpZ8uis&list=PLLIfjBtOk1rcxalvYVbf7agSaBMph4boM
+- Yuunaコナンエグザイル    https://www.youtube.com/watch?v=Ht-_M3Wh3kw&list=PLLIfjBtOk1rdrqG85xeVzOgBE2P98jLDq
+- Yuuna人狼殺    https://www.youtube.com/watch?v=hD3EQWjF3cA&list=PLLIfjBtOk1rcyxcuajL0Svr_DI-ccanSY
+- Yuunaドラクエ2 寝ないで ぶっ通し配信    https://www.youtube.com/watch?v=fZXJos0ue-w&list=PLLIfjBtOk1rf5lHOzGNpGTCbYdrqRI_hd
+- Yuunaドラクエ3 初見寝ないでクリアできるか？    https://www.youtube.com/watch?v=8NAWGbK3KTo&list=PLLIfjBtOk1rdXW4F1Dg7__REFW_oV3cre
+- Yuunaアンティルドーン    https://www.youtube.com/watch?v=XRXoeIyZmWY&list=PLLIfjBtOk1rdABzbQ9shjU8JNp_trXcZc
+- Yuunaラストオブアス    https://www.youtube.com/watch?v=XWVBVpjNuRU&list=PLLIfjBtOk1reyKWTCV2a0UITMajUGNCLm
+- Yuunaオクトパストラベラー    https://www.youtube.com/watch?v=riw1KWGdc-M&list=PLLIfjBtOk1re47pCn3FPBqNy25Po7bwlG
+- Yuuna信長の野望 大志    https://www.youtube.com/watch?v=1jUEXhQpe9Y&list=PLLIfjBtOk1rf7a--pxgmjrxH6wHeWItPy
+- YuunaTHE FOREST    https://www.youtube.com/watch?v=V9t9uYA9xEM&list=PLLIfjBtOk1re8EzDNPIuIF6l2BI0R3-zc
+- Yuunaパワプロ2018栄冠ナイン    https://www.youtube.com/watch?v=gZlvLIiZpzw&list=PLLIfjBtOk1reEiRbHgfYkQ9TaxR6rdifU
+- Yuuna星のカービィスターアライズ    https://www.youtube.com/watch?v=QBGRdXCaqwY&list=PLLIfjBtOk1rfXvpaohn2Ar4nXNoXi_h0X
+- Yuunaダークソウルリマスター    https://www.youtube.com/watch?v=kTBVs4SdEu8&list=PLLIfjBtOk1rfH5CSvABkC3eApo7c2QePh
+- YuunaDETROIT    https://www.youtube.com/watch?v=wJzSgRkAMNM&list=PLLIfjBtOk1repCAL1IwoYtsRPvQZ3lYHM
+- Yuuna爆笑PUBGシリーズ    https://www.youtube.com/watch?v=D10aiBTEokg&list=PLLIfjBtOk1rctrjzDnlr3u8H7hwhhPjvG
+- YuunaPUBG公式日本スマホ版    https://www.youtube.com/watch?v=xZ3LGgo7iOs&list=PLLIfjBtOk1rfBeV6pPEMI148tBQ0Nh2f_
+- Yuunaゴッドオブウォー    https://www.youtube.com/watch?v=-uYoT2u_2w0&list=PLLIfjBtOk1rcZC1aU3UI7taugQBtuIaSr
+- YuunaPUBG スマホ版    https://www.youtube.com/watch?v=AGrKvQ7M4oc&list=PLLIfjBtOk1relVCBEdKxsG6lzdU7FXuqB
+- Yuunaモンスターハンターワールド 生配信アーカイブ    https://www.youtube.com/watch?v=Y9a178ICaf0&list=PLLIfjBtOk1rfGVJ8I9Pp25R43H-Vz2PKh
+- Yuuna進撃の巨人2    https://www.youtube.com/watch?v=yO2Tq39KRrA&list=PLLIfjBtOk1rdi1NP5L7vN6sFwGsh2udae
+- YuunaASMR    https://www.youtube.com/watch?v=K6lh1ITp5P0&list=PLLIfjBtOk1re1h4Wkmbx3hDESaznJkn9w
+- Yuunaモンスターハンターワールドβ版    https://www.youtube.com/watch?v=LlWN0V6mQ-U&list=PLLIfjBtOk1rc0zX3sfbAlzpKxM1GrZJen
+- Yuuna[ゆうくら] マイクラ    https://www.youtube.com/watch?v=dEAtfudl2Hw&list=PLLIfjBtOk1rdnm_zegM46mDs6t3PRF2GZ
+- Yuunaバイオハザード7 DLC    https://www.youtube.com/watch?v=TexdpsYlyRA&list=PLLIfjBtOk1rcfLd776FlbKwEdznvURY2E
+- Yuunaバイオハザード7    https://www.youtube.com/watch?v=WHaSrOI4sJo&list=PLLIfjBtOk1rfYpVuZwvGV5ZIQMOwFiUK9
+- YuunaFF15 DLC    https://www.youtube.com/watch?v=NBvxym2BFzY&list=PLLIfjBtOk1rfu0n3quXdRf5ab9-0IC02s
+- Yuuna地球防衛軍5    https://www.youtube.com/watch?v=JWbrzAH5iAU&list=PLLIfjBtOk1rf99Ok7RxyL8hY-OFzj6RMF
+- Yuunaゼノブレイド2    https://www.youtube.com/watch?v=yi29bckR5EU&list=PLLIfjBtOk1reIJwemyL_5Q5jVMsHLZA4I
+- Yuunaどうぶつの森    https://www.youtube.com/watch?v=XoheoUp4YQ0&list=PLLIfjBtOk1rcHxT_bzM5XWveFeZvW9dnI
+- Yuunaニーアオートマタ    https://www.youtube.com/watch?v=yC4FC19_imI&list=PLLIfjBtOk1rdf-3VqxyZC_5158Muz4Nl2
+- Yuuna実況集    https://www.youtube.com/watch?v=wTCcFKQWNoU&list=PLLIfjBtOk1rfa3zx_Wsq4EmHC9aEa6-2B
+- Yuunaドラゴンクエストライバルズ アーカイブ    https://www.youtube.com/watch?v=46lwAi3APAw&list=PLLIfjBtOk1reH-Ad3hA_J4iaMkxSGKiJ_
+- Yuunaドラクエライバルズ まとめ動画    https://www.youtube.com/watch?v=8dbiJfCiFeg&list=PLLIfjBtOk1rfO_S7bsmwGXhlERkDrkhlW
+- Yuunaマリオオデッセイ    https://www.youtube.com/watch?v=nLYQYUwW9sQ&list=PLLIfjBtOk1rcmEOueX1OQTwfgquk7YSOQ
+- Yuuna巨影都市    https://www.youtube.com/watch?v=OSyLwaqYojA&list=PLLIfjBtOk1rfZjNfB3XD1QMTKMC11CXhw
+- Yuunaサイコブレイク2    https://www.youtube.com/watch?v=fMeeLY2U5Ig&list=PLLIfjBtOk1rf9Pfa1K8uSPJtzP3Hoo6ml
+- Yuunaリネージュ2レボリューション    https://www.youtube.com/watch?v=XZugt_uXk3I&list=PLLIfjBtOk1rdEG3QSYxcuHKPn8_7zLcXr
+- Yuunaドラゴンクエスト11(生配信)    https://www.youtube.com/watch?v=dntLMzbUfv4&list=PLLIfjBtOk1reCHK9-kABTzfVGH1WRSuo4
+- Yuunaドラクエ11 まとめ    https://www.youtube.com/watch?v=AoQl2zT0aEs&list=PLLIfjBtOk1rcr1iU-KhPLNCMdRvS1KYb_
+- Yuunaドラクエ11 全縛りプレイ    https://www.youtube.com/watch?v=P4unR3oa9-A&list=PLLIfjBtOk1rd00wpxitnbMl42SOKRhVUb
+- Yuuna仁王    https://www.youtube.com/watch?v=EtOSqQ0MtZ4&list=PLLIfjBtOk1re2vJAndgHfsQ4axXj0mUhT
+- YuunaFF12 PS4版    https://www.youtube.com/watch?v=46JbMtNqQBU&list=PLLIfjBtOk1re5ouHJA50g0IuTQhbYVg8b
+- Yuunaネタゲー、ネタプレイ集    https://www.youtube.com/watch?v=paVsz12yy-I&list=PLLIfjBtOk1reoYPrn56-6IPtzRTzAqTiL
+- Yuunaアウトラスト2 Outlast2    https://www.youtube.com/watch?v=uTFYaBfpugc&list=PLLIfjBtOk1rfI_Erasz5bopL4FlgmPpBN
+- Yuunaゴーストリコン ワイルドランズ DLC ナルコロード    https://www.youtube.com/watch?v=v5sAaFRiAF4&list=PLLIfjBtOk1reuUM3cU1Pae7cA_6SdNvYK
+- Yuunaゴーストリコン ワイルドランズ    https://www.youtube.com/watch?v=cv_OBGpYlxQ&list=PLLIfjBtOk1rdy_6VpttsxdZJaliFMGycU
+- Yuuna【UNDER TALE】    https://www.youtube.com/watch?v=9krsOr5vc5A&list=PLLIfjBtOk1re90QLQ3DPOCvMhwEufSq5U
+- Yuunaモンスターハンターダブルクロス 超特殊 視聴者さんと討伐    https://www.youtube.com/watch?v=8AVia0zNcrg&list=PLLIfjBtOk1req72KGED99wWFUhyrXQD45
+- Yuuna[MHXX] モンスターハンターダブルクロス    https://www.youtube.com/watch?v=L_zhLL6ZPgk&list=PLLIfjBtOk1rf1NDhBW0-35t50T33D3k81
+- Yuunaゴーストリコン ワイルドランズ キングスレイヤー集    https://www.youtube.com/watch?v=KTynvR0cdyI&list=PLLIfjBtOk1rdfvkreXNTv8qSuCspuXA3Z
+- Yuunaホライゾン ゼロ•ドーン    https://www.youtube.com/watch?v=7t-Zuci3VKk&list=PLLIfjBtOk1rc6RoXn8IzflEzZRWyivjjm
+- Yuuna超簡単 攻略シリーズ    https://www.youtube.com/watch?v=6A5ZDajQiyg&list=PLLIfjBtOk1rdsAA5Yfkp73B9ggx7J3RuQ
+- Yuunaビヨンド    https://www.youtube.com/watch?v=47wDc5SWdTE&list=PLLIfjBtOk1rco3BHGTddreVscpOdn3isr
+- Yuunaヘビーレイン HEAVY RAIN    https://www.youtube.com/watch?v=3E8IQop0jpg&list=PLLIfjBtOk1renqgz0EZedgYU1ojU_6Bld
+- Yuuna仁王 サブミッション    https://www.youtube.com/watch?v=COIxWwgMyAI&list=PLLIfjBtOk1rdMStBLC66YSdrsX69eG-rC
+- YuunaFOR HONER オープンβ    https://www.youtube.com/watch?v=NIgxddQrrQo&list=PLLIfjBtOk1re5yNAhiHikUoesNj-8EzZm
+- Yuuna実況まとめ動画    https://www.youtube.com/watch?v=xvDK1sMma94&list=PLLIfjBtOk1rdGDIkWukmyU3fKXYJ49szE
+- YuunaFF15 とことんドMプレイ(縛りプレイ)    https://www.youtube.com/watch?v=Y_8CmtdR0hA&list=PLLIfjBtOk1rdcI6nFIv6OmUIuoHrJ85Sq
+- Yuuna仁王 最終体験版    https://www.youtube.com/watch?v=vEfTQRynY2I&list=PLLIfjBtOk1rdJMdfUMiHaILHwbasgriNX
+- YuunaFF15レベル1縛りシリーズ    https://www.youtube.com/watch?v=R4joxXrQ8m8&list=PLLIfjBtOk1rf6asz092QpLIGE9sIX4RHs
+- YuunaFF15 クエスト&裏ダンジョン    https://www.youtube.com/watch?v=jpUUyDwd6vE&list=PLLIfjBtOk1rd0RoXho38dfvA_9ra4QX_P
+- Yuunaバイオハザード7体験版    https://www.youtube.com/watch?v=LNvWDLlhMP4&list=PLLIfjBtOk1rcF8lpEbuq5hpMyo2ewZrxE
+- YuunaTomorrow children    https://www.youtube.com/watch?v=SqY2sK8xRbc&list=PLLIfjBtOk1rekUyD9rKD0ytewn-GOW6gH
+- Yuunaデッド オア アライブ エクストリーム3    https://www.youtube.com/watch?v=o5EZlf-N2OA&list=PLLIfjBtOk1rcHeb0YdVZmYZ9aRqxPgNwT
+- YuunaＦＦ１５　ストーリー    https://www.youtube.com/watch?v=dyIo9d5p_zE&list=PLLIfjBtOk1rdHCsmYKl5Nv2_svGoQA1QZ
+- YuunaＦＦ１５ 「魔導スーツbis」関連    https://www.youtube.com/watch?v=f0JzxQgMPxU&list=PLLIfjBtOk1rebaE-Mck78S3pb_LKya20c
+- 2Bro【FPS】兄者の「Subnautica」2Bro【2BRO.】    https://www.youtube.com/watch?v=Rk79Qd70_Z8&list=PL1Z1KdfmKueY9f6pJtzryS1khfUu0Jqkx
+- 2Bro【FPS】弟者,兄者,おついちの「Apex Legends シーズン2」2Bro【2BRO.】    https://www.youtube.com/watch?v=KtdE1eD0wU0&list=PL1Z1KdfmKueadcrHE5xWoszxOJyO_IBeC
+- 2Bro【ホラー】弟者の「Blame Him」2Bro【2BRO.】    https://www.youtube.com/watch?v=AfOsTinummA&list=PL1Z1KdfmKueZW0YSgzIwgbQD-vS9cuD5s
+- 2Bro【ホラー】弟者の「Duck Season PC」2Bro【2BRO.】END    https://www.youtube.com/watch?v=8DHFX5GmtOg&list=PL1Z1KdfmKuea6ObK7gliw9wLUBqbV_vuL
+- 2Bro【FPS】弟者の「Void Bastards」2Bro【2BRO.】    https://www.youtube.com/watch?v=CO2puflDjsI&list=PL1Z1KdfmKueYEQkdoVCTsrE-qDwQH0cAn
+- 2Bro【アクション】弟者,兄者,おついちの「Human:Fall Flat」2Bro【2BRO.】    https://www.youtube.com/watch?v=aZOFtkOHna8&list=PL1Z1KdfmKueaC-ncYPPdywDaMG-IccHlw
+- 2Bro【ホラー】弟者の「Blame Him」2Bro【2BRO.】    https://www.youtube.com/watch?v=AfOsTinummA&list=PL1Z1KdfmKueZW0YSgzIwgbQD-vS9cuD5s
+- 2Bro【ホラー】弟者の「Duck Season PC」2Bro【2BRO.】END    https://www.youtube.com/watch?v=8DHFX5GmtOg&list=PL1Z1KdfmKuea6ObK7gliw9wLUBqbV_vuL
+- 2Bro【ホラー】弟者,兄者,おついちの「World War Z」2Bro【2BRO.】END    https://www.youtube.com/watch?v=dgRzou-Zl5o&list=PL1Z1KdfmKueYIKOQ9JT5vmsP9QYn73eix
+- 2Bro【ホラー】弟者,兄者,おついちの「Pacify」2Bro【2BRO.】    https://www.youtube.com/watch?v=mhJGkiCxI8o&list=PL1Z1KdfmKuebx5FbKunYabydJ4w5N9CiE
+- 2Bro【ホラー】弟者,おついちの「Friday the 13th: The Game」2Bro【2BRO.】END    https://www.youtube.com/watch?v=Wtd4gYET3jw&list=PL1Z1KdfmKueYxDrlgIA0Sh7TzmTOxT70i
+- 2Bro【FPS】弟者の「Void Bastards」2Bro【2BRO.】    https://www.youtube.com/watch?v=CO2puflDjsI&list=PL1Z1KdfmKueYEQkdoVCTsrE-qDwQH0cAn
+- 2Bro【FPS】弟者,兄者,おついちの「Apex Legends シーズン2」2Bro【2BRO.】    https://www.youtube.com/watch?v=KtdE1eD0wU0&list=PL1Z1KdfmKueadcrHE5xWoszxOJyO_IBeC
+- 2Bro【FPS】弟者の「Apex Legends シーズン1」2Bro【2BRO.】END    https://www.youtube.com/watch?v=fMzR2Zx4fHA&list=PL1Z1KdfmKueY_A2Gmx7olbDNPlMMgL1oa
+- 2Bro【FPS】弟者の「RAGE 2」2Bro【2BRO.】END    https://www.youtube.com/watch?v=57aS5goFAh4&list=PL1Z1KdfmKueY0dVZbmRZhJDPMWKZxaCP_
+- 2Bro【FPS】弟者の「Pandemic Express」2Bro【2BRO.】END    https://www.youtube.com/watch?v=6ukOfBXZo9w&list=PL1Z1KdfmKuebTBjZfkNCno3TlKn2-_Ou4
+- 2Bro【FPS】弟者,兄者,おついちの「レインボーシックス シージ YEAR4」2Bro【2BRO.】END    https://www.youtube.com/watch?v=Nj3q67URnEc&list=PL1Z1KdfmKueYAbplCIJNLTCrxJUct1BqE
+- 2Bro【TPS】弟者,兄者,おついちの「EDF:IR（EARTH DEFENSE FORCE: IRON RAIN）」2Bro【2BRO.】END    https://www.youtube.com/watch?v=NDi0tee7J1M&list=PL1Z1KdfmKueagF23a9SDizTKfdviJbCFK
+- 2Bro【TPS】兄者の「Days Gone」2Bro【2BRO.】    https://www.youtube.com/watch?v=rFNdhmHFWWs&list=PL1Z1KdfmKuea0nJV6jH3sN-dTPgsootSy
+- 2Bro【TPS】弟者の「Risk of Rain 2」2Bro【2BRO.】    https://www.youtube.com/watch?v=83gHqJTyV5M&list=PL1Z1KdfmKueYxu4iX2xx9GP5UD1mwf8iL
+- 2Bro【TPS】2BRO.の「No Man's Sky」2Bro【弟者視点】END    https://www.youtube.com/watch?v=aTZBcr1d42A&list=PL1Z1KdfmKueatL9L8RHz-y98JQ2roLKJ1
+- 2Bro【TPS】弟者の「ウォッチドッグス2」2Bro【2BRO.】END    https://www.youtube.com/watch?v=i48XBl-pwkY&list=PL1Z1KdfmKuea-h_6g0kgoiIRpsbJnvSPT
+- 2Bro【TPS】弟者,兄者,おついちの「THE DIVISION 2（ディビジョン2）」2Bro【2BRO.】END    https://www.youtube.com/watch?v=V4o1JTpc93s&list=PL1Z1KdfmKueZmwadAfhycr0U99wn6Efl0
+- 2Bro【レトロ】弟者の「デカボイス」2Bro【2BRO.】    https://www.youtube.com/watch?v=QUoGOFfEswA&list=PL1Z1KdfmKueZ0wfsjJfihOrHsS5EYuYsp
+- 2Bro【レトロ】兄者,弟者,おついちの「かまいたちの夜 特別編」2Bro【2BRO.】END    https://www.youtube.com/watch?v=QuKMr-Tpfw8&list=PL1Z1KdfmKueYLSa9cKXfn1ixbPrXoPRt3
+- 2Bro【2016/冬休み】弟者,兄者,おついちの「ガチャろく」2Bro【2BRO.】END    https://www.youtube.com/watch?v=PNPIHDPhDZ8&list=PL1Z1KdfmKueaELLzd6hOz_Umbl3y1NYF-
+- 2Bro【2015/冬休み】弟者,兄者,おついちの「ドカポン3・2・1」2Bro【2BRO.】 END    https://www.youtube.com/watch?v=QZe3MN4ABC4&list=PL1Z1KdfmKuebjkePFGlRNfJui7Ixaj3o6
+- 2Bro【レトロ】弟者,兄者,おついちの「ドカポンキングダム」2Bro【2BRO.】END    https://www.youtube.com/watch?v=9omCX7cxXYs&list=PL1Z1KdfmKueZPyE_zfkCZ2ZSoNtlJ2cdd
+- 2Bro【レトロ】弟者の「俺の料理」2Bro【2BRO.】END    https://www.youtube.com/watch?v=ZXaB-iJ-jy4&list=PL1Z1KdfmKueYOgh28ccbybJVnqgNub-fa
+- 2Bro【アクション】弟者,兄者,おついちの「Human:Fall Flat」2Bro【2BRO.】    https://www.youtube.com/watch?v=aZOFtkOHna8&list=PL1Z1KdfmKueaC-ncYPPdywDaMG-IccHlw
+- 2Bro【アクション】弟者,兄者の「Totally Accurate Battle Simulator」」2Bro【2BRO.】END    https://www.youtube.com/watch?v=pergQO2O5Ns&list=PL1Z1KdfmKueYd58Ab1LsJdMfcItmMmxYJ
+- 2Bro【アクション】弟者の「Enter the Gungeon（生放送）」2Bro【2BRO.】END    https://www.youtube.com/watch?v=1giikZed7Zs&list=PL1Z1KdfmKueYCmnb4ii2q2B6q2ujZWMXk
+- 2Bro【アクション】弟者の「Figment（フィグメント）」2Bro【2BRO.】END    https://www.youtube.com/watch?v=pV06IYx67aE&list=PL1Z1KdfmKuebttFTGTFuzw4mplKVIAt_s
+- 2Bro【アクション】弟者,兄者,おついちの「Gang Beasts」2Bro【2BRO.】    https://www.youtube.com/watch?v=WOvdMz4yM9U&list=PL1Z1KdfmKueZ1ja0UPkzoZXOdEdP3VvMb
+- 2Bro【アクション】弟者の「ダークソウル２」2Bro【2BRO.】END    https://www.youtube.com/watch?v=xu3I0dT1Eww&list=PL1Z1KdfmKueZ_SR27RIOlBmYuZS4uPUVm
+- 2Bro【まとめ】2BRO.の「総集編動画」2Bro【2BRO.】    https://www.youtube.com/watch?v=FZLtoWc7CDM&list=PL1Z1KdfmKueY1Q3vApFWQbDg4SwjofVPJ
+- 2Bro【アドベンチャー】弟者の「Detroit: Become Human」2Bro【2BRO.】END    https://www.youtube.com/watch?v=dKDr31LUk3c&list=PL1Z1KdfmKueZl5ZFRUZmTD99ibObBRwrr
+- 2Bro【E3/2019】まとめ    https://www.youtube.com/watch?v=z3ShiUlZ8SM&list=PL1Z1KdfmKueaqPg29THgXl7pItz_oIFe5
+- 2Bro【レース】兄者,弟者,おついちの「ダートラリー2.0」2Bro【2BRO.】END    https://www.youtube.com/watch?v=Qglqqw9mZfA&list=PL1Z1KdfmKueZ2qh8vxpDxxLJAGCKct4Dr
+- 2Bro【2019/GW】2BRO.のゴールデンウィーク特別企画2Bro【2BRO.】    https://www.youtube.com/watch?v=KyWrLY4uo5w&list=PL1Z1KdfmKueaIpT2tHzZKvRh24UVV7ccs
+- 2Bro【レース】兄者,弟者,おついちの「ダートラリー2.0」2Bro【2BRO.】END    https://www.youtube.com/watch?v=Qglqqw9mZfA&list=PL1Z1KdfmKueZ2qh8vxpDxxLJAGCKct4Dr
+- 2Bro【レトロ】弟者の「デカボイス」2Bro【2BRO.】    https://www.youtube.com/watch?v=QUoGOFfEswA&list=PL1Z1KdfmKueZ0wfsjJfihOrHsS5EYuYsp
+- 2Bro【FPS】弟者の「Pandemic Express」2Bro【2BRO.】END    https://www.youtube.com/watch?v=6ukOfBXZo9w&list=PL1Z1KdfmKuebTBjZfkNCno3TlKn2-_Ou4
+- 2Bro【2015/冬休み】2BRO.の冬休み特別動画2Bro【2BRO.】    https://www.youtube.com/watch?v=juDi3oyQ91U&list=PL1Z1KdfmKueYEsIAw3IK6JfQnXtPJm1bp
+- 2Bro【ホラー】弟者,兄者,おついちの「DESOLATE」2Bro【2BRO.】END    https://www.youtube.com/watch?v=ymFz818_Sis&list=PL1Z1KdfmKueZR3A83btDA7YYu_XA7IPZq
+- 2Bro【ホラー】兄者,弟者,おついちの「The Wild Eight」2Bro【2BRO.】END    https://www.youtube.com/watch?v=wzX8rBwg8U0&list=PL1Z1KdfmKueZ27BGhYgKBt8YlfXv-ZLDY
+- 2Bro【ホラー】2BRO.の「SCP」END    https://www.youtube.com/watch?v=8544YD0erdU&list=PL1Z1KdfmKueYKKLyACQ9QmUWxy_Sz1BOJ
+- 2Bro【ホラー】弟者,兄者,おついちの「THE FOREST」2Bro【2BRO.】END    https://www.youtube.com/watch?v=MF7HlUh8Co8&list=PL1Z1KdfmKueYywDUGbNZsXotP90XGd0vP
+- 2Bro【ホラー】弟者,兄者,おついちの「夕闇通り探検隊」2Bro【2BRO.】END    https://www.youtube.com/watch?v=EaRZTxuZfDk&list=PL1Z1KdfmKueYBxPYdCZ01EMVoBSusa1a7
+- 2Bro【ホラー】2BRO.の「トワイライトシンドローム」2Bro【2BRO.】END    https://www.youtube.com/watch?v=yKP-bfHowm4&list=PL1Z1KdfmKueZscSOaBglr_vsr5EKk3Lyy
+- 2Bro【FPS】弟者,兄者の「ファークライ ニュードーン」2Bro【2BRO.】END    https://www.youtube.com/watch?v=WhZ16SbnQ4o&list=PL1Z1KdfmKueYZnD9N4lSAAAFLMlsOk6fO
+- 2Bro【FPS】ゲス４人の「デッドアイランド」2Bro【2BRO.】END    https://www.youtube.com/watch?v=orqNuH91lz0&list=PL1Z1KdfmKuebQ9POq34qv3h4y1Kka4D3R
+- 2Bro【FPS】GESU4の「COD (ゾンビ)」2Bro【2BRO.】END    https://www.youtube.com/watch?v=JyrsxU43F1A&list=PL1Z1KdfmKuebe4BwItDx0iqBC0pu8-HFJ
+- 2Bro【FPS】弟者の"生放送"「オーバーウォッチ」2Bro【2BRO.】    https://www.youtube.com/watch?v=vlwiNMMFsSY&list=PL1Z1KdfmKuebzOoIfI3jvtH_P73KgYqVc
+- 2Bro【TPS】弟者,兄者,おついちの「地球防衛軍5 -DLC1-」2Bro【2BRO.】END    https://www.youtube.com/watch?v=nYqHNbWG-ns&list=PL1Z1KdfmKueZQHGe876y1d5kmbmGubj3C
+- 2Bro【TPS】弟者,兄者,おついちの「地球防衛軍5」2Bro【2BRO.】END    https://www.youtube.com/watch?v=WlCWA4Jhyzk&list=PL1Z1KdfmKueag-Qn77R7YnEv0Xt4d4iB-
+- 2Bro【TPS】2BRO.の「地球防衛軍4.1」2Bro【2BRO.】END    https://www.youtube.com/watch?v=HqhqJDHyR4g&list=PL1Z1KdfmKueY4DEoPZ_nK49h5H3EBkzns
+- 2Bro【レトロ】弟者の「エコーナイト」2Bro【2BRO.】END    https://www.youtube.com/watch?v=5GJqp4K6klI&list=PL1Z1KdfmKueZxMyO7YNAgxXpINGSbvUEN
+- 2Bro【レトロ】弟者の「キングスフィールド4」2Bro【2BRO.】END    https://www.youtube.com/watch?v=3DjvkBigmZ4&list=PL1Z1KdfmKuearolFfLDja-cvsj9Tc9T2G
+- 2Bro【レトロ】弟者の「ゲゲゲの鬼太郎 逆襲!妖魔大血戦」2Bro【2BRO.】END    https://www.youtube.com/watch?v=wcAyq80SJfE&list=PL1Z1KdfmKueZQTkjZ2XF_cKbFXJ3oRokY
+- 2Bro【レトロ】弟者の「悪魔城ドラキュラ」2Bro【2BRO.】END    https://www.youtube.com/watch?v=usvhjWHZ1BQ&list=PL1Z1KdfmKuebw1riI3fHfc1hBuXm92eoY
+- 2Bro【2015/冬休み】弟者,兄者の「T.M.N.T. タートルズインタイム」2Bro【2BRO.】END    https://www.youtube.com/watch?v=juDi3oyQ91U&list=PL1Z1KdfmKueZ8s1KjsmT3r_fTpQvTVPeV
+- 2Bro【2015/冬休み】兄者,おついちの「JOE&MAC 戦え原始人」2Bro【2BRO.】END    https://www.youtube.com/watch?v=qjwE9f2F-WU&list=PL1Z1KdfmKueZtZb5gzEvGX0lu7alyMqGc
+- 2Bro【アクション】弟者,兄者,おついちの「ダークソウル３」2Bro【2BRO.】END    https://www.youtube.com/watch?v=2o9bUu3W7jw&list=PL1Z1KdfmKuebaRiSNxWbMUVZgA3tUrXfE
+- 2Bro【アクション】弟者,兄者,おついちの「New スーパーマリオブラザーズ U デラックス」2Bro【2BRO.】END    https://www.youtube.com/watch?v=ieT-QpQ0szY&list=PL1Z1KdfmKueZmsULU2uE1XzQu8a_wY8ry
+- 2Bro【アクション】弟者の「ヨッシークラフトワールド」2Bro【2BRO.】END    https://www.youtube.com/watch?v=BwO6N6E7k3E&list=PL1Z1KdfmKueaStZ17iqhHbx1sskWVicPy
+- 2Bro【アクション】2BRO. VS 三人称2Bro【2BRO.】    https://www.youtube.com/watch?v=NgLy6t9xZ9E&list=PL1Z1KdfmKueb08cGpXd-ktkPHbkIUwxut
+- 2Bro【アクション】弟者の「Serious Sam: Tormental」2Bro【2BRO.】END    https://www.youtube.com/watch?v=o4HjPFCmPnM&list=PL1Z1KdfmKueaWpoUqHIv7Qgym2kVXuwyo
+- 2Bro【2018/夏休み】GESU4の「Stick Fight: The Game」2Bro【2BRO.】END    https://www.youtube.com/watch?v=GuSctBb6ugE&list=PL1Z1KdfmKueZoni1W9mjIWB8YyLWXjBJE
+- 2Bro【2018/GW】弟者,兄者の「スーパーバニーマン」2Bro【2BRO.】END    https://www.youtube.com/watch?v=1F7nqeQnYTY&list=PL1Z1KdfmKueZfjqK-ykre6jLHYCTNU35r
+- 2Bro【2018/冬休み】GESU4の冬休み特別動画2Bro【2BRO.】    https://www.youtube.com/watch?v=kt1jgArNptI&list=PL1Z1KdfmKueai_kZ1LyvJDH15svSh3mrz
+- 2Bro【単発実況】弟者の「色々なゲームシリーズ」2Bro【2BRO.】    https://www.youtube.com/watch?v=yo5fsO2C5Uw&list=PL1Z1KdfmKueaGQV_ja91pfecQK1nhzSm8
+- 2Bro【2017/冬休み】2BRO.の冬休み特別動画2Bro【2BRO.】    https://www.youtube.com/watch?v=juBkkJDSlKQ&list=PL1Z1KdfmKueYWKy4i-y4qSKfHC9XhCzH6
+- 2Bro【2015/GW】2BRO.の「ゴールデンウィーク特別企画」    https://www.youtube.com/watch?v=QJnIqhDyXAk&list=PL1Z1KdfmKuebspGryhlKCj41kTNUVwOOs
+- 2Bro【2015/冬休み】2BRO.の冬休み特別動画2Bro【2BRO.】    https://www.youtube.com/watch?v=juDi3oyQ91U&list=PL1Z1KdfmKueYEsIAw3IK6JfQnXtPJm1bp
+
+
+- ファイナルファンタジーVII・FINAL FANTASY VII    https://www.youtube.com/watch?v=sH2uDVfn-Ew&list=PL8tC8g-djG7vsdhFYdaXV_TiSEVD5mSRv
+- MGS4    https://www.youtube.com/watch?v=tHjy3HT1fa8&list=PL8tC8g-djG7sx6E8GdR4rrGxlgVwt8x0-
+- 声真似など！    https://www.youtube.com/watch?v=e369B_PDBQw&list=PL8tC8g-djG7scVeop6aALSxNYMySY4-n6
+- バイオハザード3    https://www.youtube.com/watch?v=kSIH8wH9PrI&list=PL8tC8g-djG7vVWG1Ffy8VVWRO6TbMi5cc
+- メタルギアソリッド ツインスネーク    https://www.youtube.com/watch?v=AXx4LlWEark&list=PL8tC8g-djG7v51UzxtxBZapIVB6KpCQva
+- The Forest 建築    https://www.youtube.com/watch?v=u05W3ShrW_A&list=PL8tC8g-djG7su-P-qG1CO6UJe9vm14hJ1
+- ドラクエヒーローズ2    https://www.youtube.com/watch?v=P1Y--Rsg1MQ&list=PL8tC8g-djG7t3LHOSxfxlqp_uob4lqfMp
+- メタルギア サヴァイヴ    https://www.youtube.com/watch?v=_41HXGYdYRM&list=PL8tC8g-djG7tS_q89hVxBBTZCHCyZI6fA
+- MPO    https://www.youtube.com/watch?v=1Xt4KM4uo38&list=PL8tC8g-djG7tz1D7-E7ojnpQR4cjp0rAk
+- サイレントヒル ゼロ    https://www.youtube.com/watch?v=ue_BmBdRkvI&list=PL8tC8g-djG7sR6YOrnxCLH7fH2ko5x-Ob
+- like BGM    https://www.youtube.com/watch?v=NRzvy0KY8Xs&list=PL8tC8g-djG7uXUfDYo_oHc2jJVZvg3tAl
+- アンチャーテッド　海賊王と最後の秘宝    https://www.youtube.com/watch?v=oo4YFnzWatw&list=PL8tC8g-djG7thfq5jwqT8appG4aSqEV9l
+- 声マネ配信 メタルギアソリッド２    https://www.youtube.com/watch?v=zPJLwgEN7Q4&list=PL8tC8g-djG7vWY1NgG71Wcec95Q1KH0CM
+- キングダムハーツ３    https://www.youtube.com/watch?v=ZyfMm3nkpjk&list=PL8tC8g-djG7t3o7Xib46wxxEvdASi118a
+- メタルギアBGM集    https://www.youtube.com/watch?v=7bVR-RDEc7g&list=PL8tC8g-djG7uzz5m9YN3dJGxRwguyFBHx
+- 声マネ　メタルギアソリッド    https://www.youtube.com/watch?v=f7MsK6TBBQg&list=PL8tC8g-djG7v6LR9DanhER2HbqDAdZbfP
+- 声マネ メタルギアソリッドV ファントムペイン    https://www.youtube.com/watch?v=o81G8a46djw&list=PL8tC8g-djG7vWsYDXU3Pp5hBM32dHizNf
+- 声マネ バイオハザード リベレーションズ    https://www.youtube.com/watch?v=-9z6EMgo5Qo&list=PL8tC8g-djG7tS6i4dEVt9Ps2HzhdhV1Rh
+- PS4 PUBG    https://www.youtube.com/watch?v=jymxLr8YdSM&list=PL8tC8g-djG7uN2FZ8LbR5OSSl4x45sbJu
+- 声マネ BIOHAZARD RE2    https://www.youtube.com/watch?v=_vPbdG4BZh0&list=PL8tC8g-djG7v9790l1V7uUL_xEuM99YDa
+- 声マネ メタルギアPW    https://www.youtube.com/watch?v=WOU0iES1wHo&list=PL8tC8g-djG7t5a89A709gdXuUM09b5NIJ
+- 声マネ メタルギアソリッド３    https://www.youtube.com/watch?v=S8IF7zaOwxo&list=PL8tC8g-djG7vOppYDoahlB7Pk-wPH7UQn
+- 声マネ バイオハザード６    https://www.youtube.com/watch?v=Okh0kyVAc7M&list=PL8tC8g-djG7uqMEdn5Mky_ZzajpTEMWh4
+- ドラゴンクエストVI 幻の大地    https://www.youtube.com/watch?v=B06ldUI6wMo&list=PL8tC8g-djG7v04hDC49TSkzW-rnaOK5uV
+- マイクラで街づくり編    https://www.youtube.com/watch?v=qFHuez4TJpY&list=PL8tC8g-djG7uJ8D82covIZGqHbSUiUT61
+- ドラゴンクエストVIII 空と海と大地と呪われし姫君    https://www.youtube.com/watch?v=mTzB2VZj1zI&list=PL8tC8g-djG7vp9XnmDATpJ-DNY-rWcsYe
+- ドラゴンクエストXI 過ぎ去りし時を求めて/ドラクエ１１    https://www.youtube.com/watch?v=mRaGnFIomX4&list=PL8tC8g-djG7s6IqKN1DjPZKksaox4MKQx
+- ドラゴンクエストIV 導かれし者たち    https://www.youtube.com/watch?v=EAMwuQKxL0o&list=PL8tC8g-djG7ufiKogM3ikhjGTyyI6o0I7
+- ポケモン    https://www.youtube.com/watch?v=yobZ-8Kq9GQ&list=PL8tC8g-djG7uJrqp-GRTPrKx5RDuu48Np
+- トルネコの大冒険    https://www.youtube.com/watch?v=d7SNkY2JOSA&list=PL8tC8g-djG7v8yc8TFRvZn_GIjf2kZF4t
+- CoD BGM    https://www.youtube.com/watch?v=ITGzgA5ZnqM&list=PL8tC8g-djG7s_uFtaWJ4rVvobAB0JNM34
+- ドラクエV    https://www.youtube.com/watch?v=Heyyp9nLv6k&list=PL8tC8g-djG7ulsWRxLY8wHn3gZO2SVWny
+- バトオペ2    https://www.youtube.com/watch?v=qOLvlfb2Th0&list=PL8tC8g-djG7suJEPA8PnKr8Ysq2pYZDdb
+- 鉄拳7    https://www.youtube.com/watch?v=myAWVJddT3c&list=PL8tC8g-djG7sdS4VWs8VLMxpxEcCgkEXS
+- 単発実況    https://www.youtube.com/watch?v=3-MZpd65xxc&list=PL8tC8g-djG7vMz0AF7GRQCK8zkj-P5AP1
+- ドラゴンクエストIII そして伝説へ    https://www.youtube.com/watch?v=rycPDu3L2K0&list=PL8tC8g-djG7uQ4-tSb1ZhmAA0gPT5LGuR
+- サイコブレイク2    https://www.youtube.com/watch?v=XXIGVFxRYV8&list=PL8tC8g-djG7sbsxU896JNtalt41xBD-a-
+- 人狼殺    https://www.youtube.com/watch?v=OSikwlOKzq8&list=PL8tC8g-djG7tUIpz9gTpFKIwYQ5s9HZYU
+- MGS Sound    https://www.youtube.com/watch?v=r_KVW_7V7iA&list=PL8tC8g-djG7vHX1jkGyEQJseTgbg463em
+- The Forest/フォレスト    https://www.youtube.com/watch?v=W3ItOCGA7zs&list=PL8tC8g-djG7tC-2ovtZLranCHXs7AyAzJ
+- Fortnite/フォートナイト    https://www.youtube.com/watch?v=bXiO7MyEbN8&list=PL8tC8g-djG7vUAkqwniIe7YSReoH63Z9f
+- GTA5    https://www.youtube.com/watch?v=SOzTddvF7Vk&list=PL8tC8g-djG7tDqsIENrizeEefZ6Pzw95m
+- Sea of Thieves    https://www.youtube.com/watch?v=1wgFMJsFu8A&list=PL8tC8g-djG7v-PyQGW_V5krDLhfs9KPmA
+- 進撃の巨人２    https://www.youtube.com/watch?v=M2fgIuuVw8M&list=PL8tC8g-djG7sIr81tjNfUNKAJTB5H48SB
+- ★★★やんしのPLAYERUNKNOWN'S BATTLEGROUNDS★★★    https://www.youtube.com/watch?v=ICC3Ly_W6Kk&list=PL8tC8g-djG7s2JWSsOAosLsvATSm35icT
+- ★★★やんしのスプラトゥーン２★★★    https://www.youtube.com/watch?v=_gFnxm-iGmY&list=PL8tC8g-djG7uCbRpOgVMzJZ_rpms86skZ
+- プリズンブレイク    https://www.youtube.com/watch?v=j3ltiH23kNI&list=PL8tC8g-djG7uzLvTjm5L6mUKICxsouRbo
+- ★やんしの色々動画    https://www.youtube.com/watch?v=lSkoj0GsLfo&list=PL8tC8g-djG7t6spQt5-7zIfghpBspPxjN
+- ｊaｚｚ    https://www.youtube.com/watch?v=AbWIEBHEb3U&list=PL8tC8g-djG7sZxdSYRLsW6fVV0p9XCOyi
+- silent hill ost    https://www.youtube.com/watch?v=I4J2gBFiM0A&list=PL8tC8g-djG7s9IB-dvLEC4rGoR_oy7BCs
+- アニソン    https://www.youtube.com/watch?v=vssAa7npMKc&list=PL8tC8g-djG7u93Bu3-UlYfmLAm5QQ_ZOg
+- スノボスケボに合うBGM    https://www.youtube.com/watch?v=NUTGr5t3MoY&list=PL8tC8g-djG7sTCWkfn_efvDros4UpD6JV
+- バイオBGM    https://www.youtube.com/watch?v=waE2RVLoHFU&list=PL8tC8g-djG7vjwrNVPNefat7O0Lfr18Wq
+- ベヨネッタBGM    https://www.youtube.com/watch?v=5YjGmTI_fPU&list=PL8tC8g-djG7swS57PXcYZ0LL0NVNDaf5u
+- gtav    https://www.youtube.com/watch?v=xEydtMvYItE&list=PL8tC8g-djG7swkb1pPBCJ5SyceTvH_bHl
+- ガンダム    https://www.youtube.com/watch?v=iXDt-zagulE&list=PL8tC8g-djG7tgyebVucs1SfpGMM7hg-fz
+- J-HIPHOP    https://www.youtube.com/watch?v=3s-SdxS-iFc&list=PL8tC8g-djG7unzTXjzTPOIPopBOHjvsV0
+- スポーツ    https://www.youtube.com/watch?v=LyTYCvFkldE&list=PL8tC8g-djG7vyD9zkJ7pFa4k1Qv-XR1Ex
+- スケボーBGM    https://www.youtube.com/watch?v=vBxq79UwScM&list=PL8tC8g-djG7t1XAB3R8KR9JPiVjCMbwuZ
+- ワイスピサントラ    https://www.youtube.com/watch?v=D_VRSFpUcp0&list=PL8tC8g-djG7svoP8l5L1Zi0SBehwQeztz
+- 洋楽ロック    https://www.youtube.com/watch?v=tChbvW-l5Ao&list=PL8tC8g-djG7u4KH1PVcDyX5QGwJ8JVrKk
+- IWGP BGM    https://www.youtube.com/watch?v=Hp9_plU3ogM&list=PL8tC8g-djG7spIIkB-w1d6Obj5MxdgVXe
+- おもしろ動画    https://www.youtube.com/watch?v=ABLCm88gqYA&list=PL8tC8g-djG7tzj6slSvTLQN7WLqXpR50R
+- ブッダブランド    https://www.youtube.com/watch?v=44I9HRQGSCA&list=PL8tC8g-djG7udzZOLNBVm7EftmBMYAS-q
+- Ｊ－ハードコア    https://www.youtube.com/watch?v=-zriXZMAqsg&list=PL8tC8g-djG7tXpTbsb-uhl_SYBip1xQz-
+- 進撃の巨人BGM    https://www.youtube.com/watch?v=EMQeGubna3E&list=PL8tC8g-djG7txhfYKnLQqXmyyc7neWYMj
+- Charlie    https://www.youtube.com/watch?v=ldflVPwhymk&list=PL8tC8g-djG7sRshpuOXhqpOKBDIFY-8ap
+- メタルギア　BGM    https://www.youtube.com/watch?v=gHAXeXGxlJ0&list=PL8tC8g-djG7tmHnnNkcBf1wggKAh_KkUw
+- マイケルジャクソン    https://www.youtube.com/watch?v=XAi3VTSdTxU&list=PL8tC8g-djG7uKoFxzUYlTweDqrirxgFT5
+- なつかしいCM    https://www.youtube.com/watch?v=92KCU5aBbLo&list=PL8tC8g-djG7vIbk6E-n3w0wzrn1W72lPz
+- BO BGM    https://www.youtube.com/watch?v=sLCByjRb1_E&list=PL8tC8g-djG7sfI3T7Ca1MIpt5Wrgnf6Fh
+- E3 2016    https://www.youtube.com/watch?v=Sl0Sb46g-BE&list=PL8tC8g-djG7vGhfAwgmLRJOMbwgQ54-ei
+- ＧＴＡ強盗　BGM    https://www.youtube.com/watch?v=Rm3YdAHGFcw&list=PL8tC8g-djG7vjDUXw6cXlwNqtZ2k9v_GA
+- ホラー    https://www.youtube.com/watch?v=dzJ4Ntr9V3s&list=PL8tC8g-djG7u3al1nsNjjDR8Ac1_hPVe-
+- Enigma　BGM    https://www.youtube.com/watch?v=b8ri14rw32c&list=PL8tC8g-djG7topV6LKX9av4fJJRF5NbdD
+- サイレントヒルBGM    https://www.youtube.com/watch?v=e8QTDnqWAEk&list=PL8tC8g-djG7vUDSzYzIty1aivy_i9PT-y
+- マイケルジャクソン    https://www.youtube.com/watch?v=_dE4YrrAAGk&list=PL8tC8g-djG7uIaICyEyL8URq1aJmMDH75
+- 韓国ラップ    https://www.youtube.com/watch?v=0oPp2dUyitM&list=PL8tC8g-djG7uZGovccEmkTs-nmny8VX_j
+- 海外ドラマBGM    https://www.youtube.com/watch?v=Wxi96oXIJ-s&list=PL8tC8g-djG7uhuF0IzW3tLB2h3pcC_5vq
+- DISCO HITS    https://www.youtube.com/watch?v=x1S2oreZBWU&list=PL8tC8g-djG7u8dYz9G1PmWUKLPj84wk3t
+- パイレーツオブカリビアンBGM    https://www.youtube.com/watch?v=fyLAeCnvNSE&list=PL8tC8g-djG7vfdHYUpy4t3GnFpo-gksbg
+- いろいろ使えるBGM    https://www.youtube.com/watch?v=jYync6yQYVY&list=PL8tC8g-djG7sRpfV7POqSb21H9oHP3xBy
+- エピックミュージック    https://www.youtube.com/watch?v=rJ8sLgHxa88&list=PL8tC8g-djG7u-ioCot-phxDqLnuHQSlr7
+- 懐メロ    https://www.youtube.com/watch?v=5wCC02E3w3c&list=PL8tC8g-djG7tvuUq6JHiABNUN83cTfYol
+- お料理BGM    https://www.youtube.com/watch?v=pctQp2a_v_w&list=PL8tC8g-djG7vvH258sTVvO_YAL1k46AtK
+- FF BGM    https://www.youtube.com/watch?v=VM5LS9tdBKU&list=PL8tC8g-djG7sK1CMdZDr9i2fcSIS9Oe_h
+- Quantam    https://www.youtube.com/watch?v=2uxvEeQKtBo&list=PL8tC8g-djG7ubGfvHw4ypRMEUsVGuM93A
+- linkin park    https://www.youtube.com/watch?v=PzYH3DNIE_8&list=PL8tC8g-djG7sxtrSpgGnra_Ooixaom2vN
+- splatoon    https://www.youtube.com/watch?v=72h0jiTIaII&list=PL8tC8g-djG7utpqrBQjTTdsgxwbJmWHyx
+- 池袋　BGM    https://www.youtube.com/watch?v=tU0ZF8LCF9w&list=PL8tC8g-djG7uKSHNc1ejENWGQFD5h9JvK
+- ドラミンベース    https://www.youtube.com/watch?v=Aohcsngi6HM&list=PL8tC8g-djG7uShAgTterZFCnV722s3PeT
+- mw bgm    https://www.youtube.com/watch?v=bTD20Hy0ZJI&list=PL8tC8g-djG7vlEUw__PBSUhj_U6hzPtl7
+- でィランのbgm    https://www.youtube.com/watch?v=iY-IFU9LFkY&list=PL8tC8g-djG7trK0_jcMR8QOjn-5qWcBZP
+- ターミネーターBGM    https://www.youtube.com/watch?v=q0zpqxKYPsk&list=PL8tC8g-djG7vmfC-ACPh3pn9Aw-mU7Vp5
+- 24    https://www.youtube.com/watch?v=uubkwrHAXSM&list=PL8tC8g-djG7uE0QyfYgX5LHaRw9CrLPZp
+- ワンピース    https://www.youtube.com/watch?v=8QHmMwqY5Lc&list=PL8tC8g-djG7s3YuJDErN7hYogOerNSslW
+- にッケルバック    https://www.youtube.com/watch?v=BB0DU4DoPP4&list=PL8tC8g-djG7sHqFU7UtVlnhGHpV_esvmc
+- MW3    https://www.youtube.com/watch?v=afs8lcfBY7Q&list=PL8tC8g-djG7tj2QZ-nQmI0NKMfQ0QHxGZ
+- MW3 PV    https://www.youtube.com/watch?v=dxjyQuIKx9k&list=PL8tC8g-djG7s87Z35_tEX0hOtV-Cy9i6t
+- 神BGM    https://www.youtube.com/watch?v=Dovxnn_84N0&list=PL8tC8g-djG7t7hxFd6WRi_SvfkyevX7dr
+- クールな洋楽集    https://www.youtube.com/watch?v=fB63ztKnGvo&list=PL8tC8g-djG7tKIV0rRX8he7TLz2y9DgK8
+- F.O.H    https://www.youtube.com/watch?v=-ykoTvNc0tg&list=PL8tC8g-djG7urpKK5E-MSUJNucGCpGzub
+- スターウォーズBGM    https://www.youtube.com/watch?v=V1wA3Z7xrq0&list=PL8tC8g-djG7unmj9dZbyOK6olWyiDvLbe
+- ジャスティン    https://www.youtube.com/watch?v=JC2yu2a9sHk&list=PL8tC8g-djG7vw9K3Y9qscjTslvriYGuMf
+- 世界の不思議    https://www.youtube.com/watch?v=NVLjQmhIlOg&list=PL8tC8g-djG7uHVFOAShmyMFutv_sF_P_r
+- イケニエノヨルCM    https://www.youtube.com/watch?v=eg7l37WR5-s&list=PL8tC8g-djG7sKou9SrM88uvAdvga-iq6p
+- 攻殻機動隊BGM    https://www.youtube.com/watch?v=MESmmmrgEUQ&list=PL8tC8g-djG7tfoeY5OeFBJyp68N1EoSsx
+- AK 女性アーティスト    https://www.youtube.com/watch?v=9pCjW37EruQ&list=PL8tC8g-djG7uOvHUoMuY00G0ykfzkOppe
+- ロック    https://www.youtube.com/watch?v=AHzU-9iozmo&list=PL8tC8g-djG7seY4bdtCAle9VwajxItKvG
+- イノセンス　BGM    https://www.youtube.com/watch?v=E5IIus4r-GQ&list=PL8tC8g-djG7vGEjKKQ7em_VflInxg4fZI
+- Three Days Grace    https://www.youtube.com/watch?v=xqds0B_meys&list=PL8tC8g-djG7t5AmSF-BgZhBDB10E0oaed
+- TBH Sound    https://www.youtube.com/watch?v=jlE8jjg_-jM&list=PL8tC8g-djG7sKo-PccbVrVJhLTn7tK4H3
+
+
+- ストリートファイター2 難易度MAXクリア    https://www.youtube.com/watch?v=tXq2UCDo2sg&list=PLNXIREEVlFe6nB_jJH8eOK7DxKI9x0NgU
+- サムライスピリッツ アーケード 難易度MAX ストーリークリア    https://www.youtube.com/watch?v=KBkIrXkl71U&list=PLNXIREEVlFe7QYXZOQzZeqh51a35bQ1Q5
+- モータルコンバット11 クラシックタワー全クリア 最高画質ゲームプレイ    https://www.youtube.com/watch?v=LPpxTQDryH4&list=PLNXIREEVlFe4Qhbk8YBmXuR0xFoRW2XtP
+- サムライスピリッツ 無限試合 全キャラプレイ    https://www.youtube.com/watch?v=kMV5vMplp-Y&list=PLNXIREEVlFe5I05j4A1qRNSbOUh7w7hgm
+- ストリートファイター5 MODプレイ 高画質 Street Fighter V - MOD Gameplay    https://www.youtube.com/watch?v=bKB6g3V0p8M&list=PLNXIREEVlFe65jiz_LJX9xyoZX4BLswvx
+- スト5AE エクストラバトル 高画質ゲームプレイ    https://www.youtube.com/watch?v=9QBAVtBp7U8&list=PLNXIREEVlFe70Nocf9JV-d4FjGpm31O__
+- ウルトラストリートファイター4 最高画質 難易度MAXクリア アーケードストーリー    https://www.youtube.com/watch?v=ch2TGBSzebk&list=PLNXIREEVlFe4oY2pBN0PFMy6jOUJ9HFYJ
+- スト5 アレンジコスチュームで高画質プレイ    https://www.youtube.com/watch?v=on6ctJi4IOk&list=PLNXIREEVlFe5nPE668Avr0qmL-RKgBnKW
+- ストライダー飛竜 全クリア Strider Playthrough    https://www.youtube.com/watch?v=imk-YmhWzC0&list=PLNXIREEVlFe4N3OGPIqMIwW3w08bIju4I
+- 楽しむゲームプレイ 色んなタイトル盛りだくさん Enjoy Gameplay 60fps    https://www.youtube.com/watch?v=joTD9fNZb-Y&list=PLNXIREEVlFe5UDOqoeYGP4DXIc5VnwF5W
+- モータルコンバット11 えんじょいゲームプレイ 最高画質    https://www.youtube.com/watch?v=FXEMKRkfgZE&list=PLNXIREEVlFe6PPhjH1DU4T1AlAlXhLfzm
+- サムライスピリッツ アレンジコスチューム 高画質ゲームプレイ    https://www.youtube.com/watch?v=GVxx7iEfeUk&list=PLNXIREEVlFe7kmSTSs-yHWqSo41ABnBh9
+- DOA6 アレンジコスチューム 最高画質ゲームプレイ    https://www.youtube.com/watch?v=9OK9xpWfPEU&list=PLNXIREEVlFe5y0vWBfo9BpfKsKcpCmEof
+- デッドオアアライブ6 全キャラ アーケードクリア 高画質    https://www.youtube.com/watch?v=-Z3Gt0mlUoY&list=PLNXIREEVlFe72muofgmhg0iekU5_i3KgD
+- スト5AE アーケード 全コース 難易度MAXハードクリア    https://www.youtube.com/watch?v=OLPD2haSkLA&list=PLNXIREEVlFe5Oh_pUctJY5Rm1I62Y6lQN
+- 高く評価した動画    https://www.youtube.com/watch?v=Itw46dzJ77Q&list=LLkhb6GwIna_aL1JnQj484Cg
+- メタル・レボリューション 【開発中】高画質ゲームプレイ    https://www.youtube.com/watch?v=nYFLYRvxRc0&list=PLNXIREEVlFe7Yt680CG0UPDTm-g22k9Jc
+- セインツロウ3 色々ゲームプレイ【ギャングゲーム】    https://www.youtube.com/watch?v=_o2YZmsoR14&list=PLNXIREEVlFe4jUT58sdITZNH19Ls1VyfT
+- ドラゴンボール ファイターズ 全キャラアーケード攻略    https://www.youtube.com/watch?v=hUnXqre4aEs&list=PLNXIREEVlFe7JFID-Qi6J-qIRu30sYUii
+- 高画質！色んなゲームの超必殺技集 Super Arts Moment    https://www.youtube.com/watch?v=ID-rW_11RFU&list=PLNXIREEVlFe7SqkHmDpTH6uG0OpUZfwfq
+- 大作ゲームのストーリーモードを完全クリア    https://www.youtube.com/watch?v=W0ePy6rEZ2o&list=PLNXIREEVlFe7zn-Zwnr4YMnCYyoKgZqrK
+- WWE 2K19 最高画質でゲームプレイ    https://www.youtube.com/watch?v=Lr8d86Q7cbM&list=PLNXIREEVlFe7oFgqmdxjiHc6LJig6exTx
+- スマブラスペシャル ネタプレイ特集 最高画質    https://www.youtube.com/watch?v=iT2DRenWTuI&list=PLNXIREEVlFe5gSB-IStnT0i1fXFQhJfo5
+- ファイティングEXレイヤー アーケード全クリア 高画質ゲームプレイ    https://www.youtube.com/watch?v=EaZIlm3SHeM&list=PLNXIREEVlFe408SZ2IpIMlB8kCPZccGBq
+- ソウルキャリバーVI アーケード攻略 高画質ゲームプレイ    https://www.youtube.com/watch?v=TDOvyQ3qocY&list=PLNXIREEVlFe4t4wQBhSD9l2_lSzK7kGxp
+- アルティメット鉄拳ボウル 色んなキャラでボウリング    https://www.youtube.com/watch?v=xqIz7HYSTcw&list=PLNXIREEVlFe7ROkAWkITMyb2_Izh_lG9V
+- 鉄拳7 アーケード難易度MAXクリア Steam版 最高画質    https://www.youtube.com/watch?v=fNjtVrzCuHE&list=PLNXIREEVlFe5v8wNxv9bC2KESEfWtBb1r
+- おすすめゲーム 一気に全クリア集 Nice Game Complete    https://www.youtube.com/watch?v=sMO8S46j1yI&list=PLNXIREEVlFe4A1wVUUlgzbWgVdoDStP9I
+- ポリスVS犯人 「バーディクト・ギルティ」 アーケード全キャラクリア Verdict Guilty Arcade Playthrough Complete HD 60fps    https://www.youtube.com/watch?v=Jc9yMzeMgEY&list=PLNXIREEVlFe7DYpVnVB7T9Dtv4fwAuqZO
+- モータルコンバットXL 色んなキャラで攻略プレイ バリエーションプレイ    https://www.youtube.com/watch?v=EoMR_Lg9qzw&list=PLNXIREEVlFe4u2wW9RHGAiTHA_Cr4axIT
+- ゲームの色々なランキング    https://www.youtube.com/watch?v=kQbDyHsXpZM&list=PLNXIREEVlFe5v1qZGeMZpbe9Jrkrd1CLa
+- Verdict Guilty Story Playthrough Complete HD 60fps    https://www.youtube.com/watch?v=0lmq5fZTfzI&list=PLNXIREEVlFe45QIS63qOoFe6nq3DMGnwd
+- ソウルキャリバーVI 全キャラ ストーリークリア    https://www.youtube.com/watch?v=_FcYg9eCkNc&list=PLNXIREEVlFe67LowUVs2Qt8oSWhUvKEDw
+- 色んなゲームを高画質にスローモーションする集    https://www.youtube.com/watch?v=_Rp5FSD7h24&list=PLNXIREEVlFe5XgR2vemFI3Hkw5roOpJQF
+- 鉄拳7 Mod ゲームプレイ 最高画質    https://www.youtube.com/watch?v=-jmj7sVxs0A&list=PLNXIREEVlFe7YIAz0X_qO6veB2B5kq7aU
+- ファミコン エンジョイプレイ NES Enjoy Gameplay    https://www.youtube.com/watch?v=0WYV2mg9qQ4&list=PLNXIREEVlFe4bkVLq7nzwpc1RdNx0XtMi
+- ストリートファイター5 「全キャラストーリークリア」 SF5 Story Playthrough    https://www.youtube.com/watch?v=8jaCHMAGAi8&list=PLNXIREEVlFe6FfHidwrCbcI19Pnc-TvP5
+- ストリートファイター リアルバトル オンフィルム 全クリア 高画質ゲームプレイ    https://www.youtube.com/watch?v=tz8Bo9kH3b0&list=PLNXIREEVlFe6FYSwaR1LpKfAshLtsHqXP
+- SNKヒロインズ 全キャラ ストーリークリア 高画質ゲームプレイ    https://www.youtube.com/watch?v=BAMibQtbCa4&list=PLNXIREEVlFe5RhFDqw0KmSjzJPQ1AJGOD
+- SNES Gameplay スーパーファミコン ゲームプレイ SFC    https://www.youtube.com/watch?v=hGtAkkkkhEY&list=PLNXIREEVlFe4rCudSkhygaHY72xUSpGGz
+- 鉄拳7 ストーリー全クリア Steam版 最高画質    https://www.youtube.com/watch?v=a-hVxpXKlcE&list=PLNXIREEVlFe78Iw8tCjVQmQ-CGKwqKU3i
+- パラッパラッパー2 全面ハードクリア 高画質ゲームプレイ Parappa the Rapper 2 Hard Playthrough Gameplay 60fps    https://www.youtube.com/watch?v=25oC3vUcKX0&list=PLNXIREEVlFe4akFhCpsRKi2gVgf8WNeIm
+- カルトゲーム 「LSD」 プレイ記 LSD - Playthrough    https://www.youtube.com/watch?v=pWUetz4FEKs&list=PLNXIREEVlFe6E8Eg6DX29vDOLF5QPd8u7
+- Grand Theft Auto V PC Gameplay    https://www.youtube.com/watch?v=ONbaJOesmPg&list=PLNXIREEVlFe5VBfIwQemCn2K5EJZCAtjw
+- DOOM アーケード 全ステージクリア 高画質ゲームプレイ    https://www.youtube.com/watch?v=CbR1C3hls4I&list=PLNXIREEVlFe55gZ8Zv752SEDmv9kc2ei9
+- ファイティングEXレイヤー 組み手モード 高画質ゲームプレイ    https://www.youtube.com/watch?v=uT5FZmvxAS4&list=PLNXIREEVlFe7dbf2g9_ExYCUsJW3ru7Bm
+- シャインG イン・ザ・ゾンビーズ 全キャラプレイ レベルマックス・ゲームオーバー    https://www.youtube.com/watch?v=13MgxWKp-WE&list=PLNXIREEVlFe6X_pCNIYxWNGbLdnJxkdia
+- カーマゲドン リインカーネーション 全コースクリア    https://www.youtube.com/watch?v=GkqYPI0zGK0&list=PLNXIREEVlFe488-JMMYLTkScaYG_hHDc7
+- ゲーセンのゲームをワンコインプレイ Arcade Game 1Credit Play    https://www.youtube.com/watch?v=l7g9Q2sohbg&list=PLNXIREEVlFe6dMLznVhYSu5pQ20DhzlsI
+- ジョジョの奇妙な冒険 黄金の旋風 全クリア    https://www.youtube.com/watch?v=EENIslxQe4I&list=PLNXIREEVlFe4t5W4j07o61Olqw8zyfo9-
+- ストリートファイター5 高額ファイトマネーターゲット 高画質ゲームプレイ    https://www.youtube.com/watch?v=KjoVW7V3X5o&list=PLNXIREEVlFe79qJskPY2MCUAfZHRWNlGk
+- らんま1/2 超技乱舞篇 ストーリー全クリア    https://www.youtube.com/watch?v=LXYNhMtnAkc&list=PLNXIREEVlFe5iii3izi4p03-s7hyb7MHZ
+- クソゲープレイ Kusoge Play    https://www.youtube.com/watch?v=xLHY-XaVO6o&list=PLNXIREEVlFe7pCGpdc5IFUwil7JTeyvQ0
+- メガドライブ 高画質ゲームプレイ えんじょいプレイ    https://www.youtube.com/watch?v=_ntWeRlxx9w&list=PLNXIREEVlFe5cUBHd6lYGe7rYv0qSLJfJ
+- Kung Fury Gameplays カンフューリー スコアアタック    https://www.youtube.com/watch?v=Lj_f79T4gkU&list=PLNXIREEVlFe43Pe5uqxKJFiBQ6LVaqPFs
+- Steep ゴールドメダル 全コース制覇 高画質ゲームプレイ    https://www.youtube.com/watch?v=w_GtU4uaHDA&list=PLNXIREEVlFe6Hc4rkO5h_7tLHgF2-u3kS
+- ゲームボーイアドバンス えんじょいゲームプレイ【GBA】    https://www.youtube.com/watch?v=M5_es3ogaCc&list=PLNXIREEVlFe7SncQQM9UfW8QH70IO1sbd
+- カルトゲームプレイ Cultgame Play    https://www.youtube.com/watch?v=cfBFFRXuZ-Q&list=PLNXIREEVlFe5t9XhObfb308HLstSJU8-f
+- せがれいじり 全クリア    https://www.youtube.com/watch?v=Q9ANj4FMrC4&list=PLNXIREEVlFe7-rnXXHDDa4rsdfL_JZe4c
+- Audiosurf 2 Gameplay 神音ゲー オーディオサーフ2    https://www.youtube.com/watch?v=pc7GsVIiTbM&list=PLNXIREEVlFe6CAMijIqb0YLjgFQfYoZAP
+- ドラゴンボール ファイターズ ストーリー全クリア    https://www.youtube.com/watch?v=HPdPTNBzdaA&list=PLNXIREEVlFe4JHUurxRnbWp5c_ascNIjO
+- クローズ バーニングエッジ 完全クリア 高画質    https://www.youtube.com/watch?v=-Us3g61nLEY&list=PLNXIREEVlFe4AYekg_8mhOoHn4qDUh0mT
+- Strafe Murder Zone All Stage Gameplay HD    https://www.youtube.com/watch?v=q5PAbzxI05w&list=PLNXIREEVlFe6AlhmHb8nvyGrtETxzo7tS
+- KOF14 チームストーリー全クリア 【キングオブファイターズ XIV】 KOF XIV    https://www.youtube.com/watch?v=wCSyl2nAc94&list=PLNXIREEVlFe6JkqVjslU5JwCNTvNUMBPV
+- PS2 プレステ2 えんじょいゲームプレイ PlayStation 2 Gameplay    https://www.youtube.com/watch?v=YLJmyrq5kWI&list=PLNXIREEVlFe452W_yaUQaSZU1WZNwUwKx
+- ウルトラストリートファイター2 バディファイト ゲームプレイ    https://www.youtube.com/watch?v=9IwrqfxL_nM&list=PLNXIREEVlFe7FgRMOytXXVHPv80mDvB-E
+- Nyan Cat Lost in Space 高画質にゃんゲームプレイ    https://www.youtube.com/watch?v=rUKH77K0MFI&list=PLNXIREEVlFe52jjC7m2YkQGmIyYXIdQ1v
+- マーベル VS カプコン インフィニット 全キャラアーケード攻略 高画質    https://www.youtube.com/watch?v=0kLO8tX5gns&list=PLNXIREEVlFe5C5eE9cNgNIhqyOJoYs2Z_
+- 色んなゲームのボス戦 高画質ゲームプレイ    https://www.youtube.com/watch?v=B3qLvwOAHM8&list=PLNXIREEVlFe55_IUoEFIhF5YlPJAkHsoF
+- ウルトラマン ファイティング エボリューション2 ウルトラモード攻略プレイ    https://www.youtube.com/watch?v=mJpGQkPkLkM&list=PLNXIREEVlFe5FcicUl3d9Sq2d_QD_uYFI
+- ストリートファイターV サバイバル攻略 SF5 Survival Walkthrough    https://www.youtube.com/watch?v=QmUI8sblohE&list=PLNXIREEVlFe6ot-e0VXVnD4EhA7S4lNOw
+- ポケットファイター 全クリア Pocket Fighter - Game Complete    https://www.youtube.com/watch?v=b5J2FQEFs64&list=PLNXIREEVlFe5eN2LaI5NtGG-VP_fPeCma
+- メルティブラッドAACC ストーリー全クリア MELTY BLOOD Actress Again Current Code    https://www.youtube.com/watch?v=LD_ENx2aqrM&list=PLNXIREEVlFe6pgeq1_wcyribDab5-akI4
+- PlayStation 4 Gameplay プレステ4 ゲームプレイ    https://www.youtube.com/watch?v=5E0UjfpG8Mc&list=PLNXIREEVlFe5KSLJ4vvn-N0SITgloTJHu
+- ウルトラストリートファイター2 アーケード攻略 全クリア    https://www.youtube.com/watch?v=rljGv35H6x0&list=PLNXIREEVlFe7P49ROLNW6Jb-fxA4vIIKz
+- PS1 プレイステーション ゲームプレイ PlayStation Gameplay    https://www.youtube.com/watch?v=Tls85MDqFyw&list=PLNXIREEVlFe4gDwOFRPGWE_Kqp-FfYvGp
+- モータルコンバットXL カオスすぎる運試し Test Your Luck    https://www.youtube.com/watch?v=RfxNAyyjjfI&list=PLNXIREEVlFe7yS3q4FxT7Kb8JJnQHrgvt
+- ガンダムバーサス トライアルバトル 全ステージクリア    https://www.youtube.com/watch?v=BQN1fJ3UBV4&list=PLNXIREEVlFe4S8slGHPXe9riSlmkfw3S4
+- ネコネイビー 全クリア    https://www.youtube.com/watch?v=Ya1jaOxrSs8&list=PLNXIREEVlFe6pYWUllHVJG5j1Ahx0Q8_8
+- 俺の料理 ストーリー全クリア    https://www.youtube.com/watch?v=OKm3eQTyU0M&list=PLNXIREEVlFe4MvJ-Uejm6IT6Uh-l7obUZ
+- ストリートファイター4 Mod 高画質ゲームプレイ Street Fighter IV Mod Gameplay Walkthrough 60fps    https://www.youtube.com/watch?v=LT-oo6utuNI&list=PLNXIREEVlFe6qrbkjcYUvw7v5twQNpNrv
+- 放て！波Do拳 攻略プレイ    https://www.youtube.com/watch?v=wFgUXxs_5tg&list=PLNXIREEVlFe42hpsrVwTRjxLyp4zHYsXn
+- デッドオアアライブ5LR 色んなコスチュームで高画質ゲームプレイ    https://www.youtube.com/watch?v=pE4-5whuyJw&list=PLNXIREEVlFe6g-9QHhpMGv5GGAwfNibfS
+- クローズ バーニングエッジ ストーリー完全クリア    https://www.youtube.com/watch?v=U8qaG4c90mM&list=PLNXIREEVlFe6F9RpwLEPlq74ZoUqIbPXF
+- ブラッド＆ベーコン 攻略プレイ Blood and Bacon Gameplay Walkthrough    https://www.youtube.com/watch?v=9dmcSgnIF40&list=PLNXIREEVlFe5wDk1-oYNGRyraBMiMWQ6o
+- YAIBA ニンジャガイデン Z 高画質ストーリー Yaiba Ninja Gaiden Z Story Gameplay All    https://www.youtube.com/watch?v=HEtrl7MB4kg&list=PLNXIREEVlFe6LnRO8qwnyC6-fTBZp6J_i
+- スクールガール ゾンビハンター 「ストーリー全クリア」 高画質 SGZH All Stage Gameplay 60fps    https://www.youtube.com/watch?v=TisfGRROBNM&list=PLNXIREEVlFe4zRPoOBmr9IePRdDE9I5ut
+- モータルコンバットXL 命がけの試し割    https://www.youtube.com/watch?v=WsV7lZKaCD0&list=PLNXIREEVlFe5DkJSvkbjrPaZssEpvFAqs
+- スト5 MODでゼネラルストーリー 超高画質 SFV Story with Mod Costume HQ    https://www.youtube.com/watch?v=frEek8HZOsM&list=PLNXIREEVlFe6himaIA2TorGDhjc24LX9y
+- みんなでスペランカーZ 全クリア Spelunker Z Walkthrough    https://www.youtube.com/watch?v=5q99wQkcPLA&list=PLNXIREEVlFe6PjdF3fJPt4UbbdX40A5bv
+- DOA5 LR 全クリア Dead or Alive 5 Last Round Arcade Complete    https://www.youtube.com/watch?v=xMNk9-UEQjk&list=PLNXIREEVlFe7XAZXb7vt1Kzd-YLXiJH84
+- Hotline Miami Playthrough ホットライン・マイアミ 「全クリ」    https://www.youtube.com/watch?v=-m5OqI1jHCk&list=PLNXIREEVlFe7DV92JfXnwVizkjNCUhi8R
+- 「俺はパン」 プレイ I am Bread Playthrough    https://www.youtube.com/watch?v=W0_YbSuRqsg&list=PLNXIREEVlFe6FCs9rV0SaoCzmTSETjH5-
+- 新宿の狼 ストーリー PS2 Sinjuku Wolfe - Japanese GTA    https://www.youtube.com/watch?v=0Om8s0rSO6Q&list=PLNXIREEVlFe7ddGIMRFQlLnsjusy8QWXk
+- ベルセルク無双 ストーリー全クリア Berserk Musou Story Gameplay    https://www.youtube.com/watch?v=rAex9uzSpfU&list=PLNXIREEVlFe7xKKSKcyeELQNTqC52hP1f
+- Mother Russia Bleeds バイオレンスアクション    https://www.youtube.com/watch?v=jbI-7U_B_iw&list=PLNXIREEVlFe727wdcE3b07NWM0hABLdH7
+- 東方シリーズ 全クリア    https://www.youtube.com/watch?v=dSweTzOl6JY&list=PLNXIREEVlFe51IXpt_IrTBCP45rKSrRAe
+- リズム天国ゴールド Rhythm Heaven    https://www.youtube.com/watch?v=-Y8TvBHGmEs&list=PLNXIREEVlFe4T6PyI80XqUPrwJIINohBo
+- リズム天国 [Rhythm Tengoku]    https://www.youtube.com/watch?v=YCxfCgMuozo&list=PLNXIREEVlFe6pW5VbZtD3TR6ER9RNgfFd
+- カービィボウル 全クリア Kirby Bowl - Complete    https://www.youtube.com/watch?v=j6jnw6uVjIo&list=PLNXIREEVlFe4YTXjSJkOd0NXg-VGyMWBq
+- ニトロプラス ブラスターズ ストーリー全クリア Nitroplus Blasterz PC Story    https://www.youtube.com/watch?v=OE5aBRWOnNc&list=PLNXIREEVlFe4Wvck8GI-7CqWV27p71g0X
+- ベルセルク無双 全キャラゲームプレイ 高画質 Berserk Musou All Character Gameplay 60fps    https://www.youtube.com/watch?v=xsF-LQAfVoU&list=PLNXIREEVlFe5Gow4aGa2007firdGtHiUF
+- ドラゴンボール ゼノバース2 先生ミッション 攻略 Dragonball Xenoverse 2 Sensei Complete    https://www.youtube.com/watch?v=ebWvHbC3GJE&list=PLNXIREEVlFe6S4qlwQ2WnzvXvEb9MVDqe
+- ドラゴンボール ゼノバース2 攻略配信 高画質ゲームプレイ Dragon Ball Xenoverse 2    https://www.youtube.com/watch?v=vQ7om-Ydrew&list=PLNXIREEVlFe4RUSTKdOeyUoAjvLCu6A-6
+- デッド・オア・アライブ 5 PC版プレイ    https://www.youtube.com/watch?v=pgdR7SwQ4R8&list=PLNXIREEVlFe4vmAl_j1JYyp-KKCrHU7sZ
+- NOT A HERO Playthrough    https://www.youtube.com/watch?v=l5Kty_d0HV8&list=PLNXIREEVlFe6nRURMo_QMCicppUgAgYRw
+- Minecraft High-spec Gameplay マイクラ ハイスペックPC プレイ    https://www.youtube.com/watch?v=ao8Y8ZSJx9Q&list=PLNXIREEVlFe5d3shx1wfEbQPHsdHWOXRE
+- Mortal Kombat X - Klassic Tower Walkthrough    https://www.youtube.com/watch?v=FR-NWOHiT7k&list=PLNXIREEVlFe69YVdWm6E01Veuqf8qPcCt
+- アーケードゲーム 全クリ Arcade Game Completion    https://www.youtube.com/watch?v=BGNkCiNiizY&list=PLNXIREEVlFe4KhfPCJ-MwXB01oSP3R3DT
+- ルーマニア #203 「シナリオ全クリア」    https://www.youtube.com/watch?v=WulBzG45ytg&list=PLNXIREEVlFe6K5g00uAK1eXHwQrVEyEb-
+- ワンピース バーニングブラッド 「手配書ミッション」 全攻略 One-piece Burning Blood Gameplay    https://www.youtube.com/watch?v=2uamAetPoi0&list=PLNXIREEVlFe5uzVDk6f8IH74D6fVPwOwc
+- ライブ配信で生ゲーム Live Streaming Gameplay    https://www.youtube.com/watch?v=TP-UJaK4eZo&list=PLNXIREEVlFe4lFwcGldjmrCvr1-xhHjlP
+- ワンピース バーニングブラッド エピソード全クリア    https://www.youtube.com/watch?v=QisI5cLbolk&list=PLNXIREEVlFe7PvPRNGtIcCztEfQYnH-E7
+- デッドオアアライブ エクストリーム3 全クリア Dead or Alive Xtreme 3    https://www.youtube.com/watch?v=S9n4q315Zas&list=PLNXIREEVlFe5aMkFJcleALlaccuEsRHnS
+- カスタムメイド3D2 まったりプレイ Custom Made 3D 2    https://www.youtube.com/watch?v=LUs3tENULqk&list=PLNXIREEVlFe5f8GL2eiYsXzi3ffKaWAtk
+- ナルティメットストーム4 「ストーリーモード 全クリア」 Naruto Storm 4 Story Walkthrough    https://www.youtube.com/watch?v=2EnVCxtzOE0&list=PLNXIREEVlFe4jvfJbDclIb7yn7EcqDo0W
+- Mortal Kombat X Gameplay    https://www.youtube.com/watch?v=sTbK0-kkvcg&list=PLNXIREEVlFe7a5eJrYNWkIYGGOsv_rxWh
+- ストリートファイター 5 Beta プレイ Street Fighter V Beta Gameplay    https://www.youtube.com/watch?v=wgrmdLGr_XU&list=PLNXIREEVlFe7OxcntwwTAQ437RYV5Qphg
+- メイドイン俺 全クリア    https://www.youtube.com/watch?v=ijMSsTT0kGI&list=PLNXIREEVlFe7mneyFxaYBejKml3lDmQUV
+- USF4 Mod Ranked Match ウル4 PCランクマ対戦記 #1~    https://www.youtube.com/watch?v=h7PoaFgWfFU&list=PLNXIREEVlFe7KDbDocqMFKJciHbkPiUpq
+- もぎたて水着！女まみれの THE 水泳大会 Japanese Swimming Game    https://www.youtube.com/watch?v=cwy7Z0I-rRg&list=PLNXIREEVlFe7joqln5GMU5r7JvZ1-ntPB
+- 塊魂 全クリア Katamari Damacy Playthrough    https://www.youtube.com/watch?v=Il04Cp0gDc0&list=PLNXIREEVlFe4KYmiRCkMlAEWoAbev9laY
+- ビブリボン ゲームプレイ Vib-Ribbon Gameplay    https://www.youtube.com/watch?v=REp7HWI1Evo&list=PLNXIREEVlFe644jGNUj9NTDyYAYZSH36D
+- Battlefield Hardline Multiplay BFHマルチプレイ戦記    https://www.youtube.com/watch?v=_2QbXjYA7iw&list=PLNXIREEVlFe5r92QrLhPlvdwXYYwHKz-i
+- 【海外製純和風シューティング】なんでやねん Nandeyanen⁉ Playthrough    https://www.youtube.com/watch?v=WdeK_2s6RxI&list=PLNXIREEVlFe6NThttFvNylfCYxJ-INRLp
+- Mortal Kombat - Game Completion    https://www.youtube.com/watch?v=VG9RFpDXFYk&list=PLNXIREEVlFe4sxbxwdX0r7OP4kb-aJENI
+- きみのためなら死ねる Feel the Magic: XY/XX    https://www.youtube.com/watch?v=CwIJNx-ZDOQ&list=PLNXIREEVlFe4vvXeRPcPwRpIwDxo9KtHq
+- ピューと吹く！ジャガー ~明日のジャンプ~ ゲームプレイ    https://www.youtube.com/watch?v=vdYcfuQLpT0&list=PLNXIREEVlFe76bMOpZAfs4xRi3OL_qIPr
+- 巫剣神威控 全クリア Mitsurugi Kamui Hikae - GameComplete    https://www.youtube.com/watch?v=lwk4sekOBnk&list=PLNXIREEVlFe6I_mX433WLXhCdP7LNY-jf
+- SFC版 「幽☆遊☆白書」 ストーリークリア    https://www.youtube.com/watch?v=jxRpVp6pZqU&list=PLNXIREEVlFe7xhgjfKFw5WD3r-U_Sy8MH
+- UmJammer Lammy ウンジャマ・ラミー 全クリア    https://www.youtube.com/watch?v=B-CJNkwnr0g&list=PLNXIREEVlFe5nPO6itptMVrwllJO9fEAE
+- PaRappa the Rapper パラッパラッパー 全クリア    https://www.youtube.com/watch?v=PXpeaamJczE&list=PLNXIREEVlFe405MGT9ydBnLmF-hXu3RwW
+- PaRappa the Rapper 2 パラッパラッパー2 全クリア    https://www.youtube.com/watch?v=M7u0xUiewb0&list=PLNXIREEVlFe4JM-aFV97aOBpSPPdCDknw
+- ヨッシーアイランド 全クリア Yoshi Island Playthrough    https://www.youtube.com/watch?v=8MOvkX_bZNI&list=PLNXIREEVlFe7SeL8R8WwthTlHPyYg4RNX
+- チームフォートレス2 プレイ Team Fortress 2 Playthrough    https://www.youtube.com/watch?v=5Jg60JE-hOY&list=PLNXIREEVlFe5HJOso_BYoMPzGpUhk42P3
+- Hello Kitty and Sanrio Friends Racing    https://www.youtube.com/watch?v=O4Xv704yceg&list=PLNXIREEVlFe5qE5y1D6vozJu5NKj7WWOb
+- Superstar Dance Club [LOVE★パラ] Gameplay    https://www.youtube.com/watch?v=hQrhUKCE1p0&list=PLNXIREEVlFe4ekycJXzQzgunzUHs4q0f5
+- SFC クレヨンしんちゃん 嵐を呼ぶ園児 全クリア    https://www.youtube.com/watch?v=UZ2PjIzi-7I&list=PLNXIREEVlFe5CFajtNSQ3qPXysMVcM7OO
+- ラブプラス＋ ゲームプレイ    https://www.youtube.com/watch?v=WDEXmj_ny8I&list=PLNXIREEVlFe5J7yi7cwX58ICo96YCBT2S
+- ちゅぼ～ん 全クリ Chu-Booooomb Playthrough    https://www.youtube.com/watch?v=MSjm1oBFyLw&list=PLNXIREEVlFe4xviqNhY7xoBoRHVe5ReLn
+- Devil May Cry 4 SE Playthrough    https://www.youtube.com/watch?v=r3VZHQfn7y4&list=PLNXIREEVlFe6l6RGs48zq0larzaUvSESL
+- ウル４ オールクリア USF4 Hardest Game Completion    https://www.youtube.com/watch?v=G6-bnE4D3ok&list=PLNXIREEVlFe6Rx62Hw8Rhno1aho6bKD7p
+- ウル4 オメガ対戦記 USF4 Omega Edition gameplays    https://www.youtube.com/watch?v=SBqCRK7-Z9A&list=PLNXIREEVlFe5YyWDHMk9-NkFMKI619evh
+- ヴァンガードプリンセス 難易度MAXクリア Vanguard Princess Hard game complete    https://www.youtube.com/watch?v=KzLrri921ek&list=PLNXIREEVlFe5P-B8TMQAiy8btQH-F0Znc
+- STREET FIGHTER X MEGA MAN ストリートファイターXメガマン    https://www.youtube.com/watch?v=1utKYZuQ9ik&list=PLNXIREEVlFe5Tv3EUPnC8Ja1xYKg1qSh5
+- おやじの挑戦 男のタイピング術    https://www.youtube.com/watch?v=Jnc25pAs3gs&list=PLNXIREEVlFe49PkY_xqNnQd_DWe54JhSI
+- MAX PAYNE 3 Burst Bullets Gameplay マックス・ペイン３ 炸裂弾最強プレイ    https://www.youtube.com/watch?v=jXDWoX6cc10&list=PLNXIREEVlFe7UKYGgUsnSJOwvWKpTiKxv
+- MAX PAYNE 3 Game Completion マックス・ペイン3 全クリ    https://www.youtube.com/watch?v=lQt08O62rxE&list=PLNXIREEVlFe4NRhhYksEeAVFaJ87fnmUx
+- シリアスサム3 BFE 全クリ [Serious Sam 3 Game Completion]    https://www.youtube.com/watch?v=VPHV7Fgouzc&list=PLNXIREEVlFe5jop7SbFAlpPif9cBpiBJM
+- STREET FIGHTER IV ver.2014 Hardest Allclear    https://www.youtube.com/watch?v=qmPjMDxIyG4&list=PLNXIREEVlFe5CPU70EhDilTtF9jvNUVPX
+- メイドインワリオ 全クリ [Wario Ware Game Completion]    https://www.youtube.com/watch?v=3Vg9Blpt5dQ&list=PLNXIREEVlFe7OWfuGTnTdBaB_D-rJvQQS
+- DEAD RISING 2 OTR Game Play! デッドライジング2 オフ・ザ・レコード    https://www.youtube.com/watch?v=-fL57GkJwFs&list=PLNXIREEVlFe7CXdnbzuG7vPaiA2NS54mD
+- PAC-MAN Championship Edition DX+ [Expert Game Completion]    https://www.youtube.com/watch?v=CDOf98FYUag&list=PLNXIREEVlFe6D96S30B7-jgKBHUsh8-la
+
+- 【PS4】UNRAVEL【実況】    https://www.youtube.com/watch?v=CevvkWUO1NM&list=PLeBYzK3BTHvFIFA0fwCPOi88XppJF_RtZ
+- 【PS】デュープリズム ルウ編【実況】    https://www.youtube.com/watch?v=z4XEeVVSuLE&list=PLeBYzK3BTHvFOb_HOQPwX7MTwGf3ZdTaM
+- 【PS】デュープリズム ミント編【実況】    https://www.youtube.com/watch?v=oJ1IVkXkyqY&list=PLeBYzK3BTHvEJkL1iatEDC9t903FgHTiu
+-     https://www.youtube.com/watch?v=RyGQxtdNl9c&list=PLeBYzK3BTHvHEh0CfCYnjiYnempdn3QSU
+-     https://www.youtube.com/watch?v=LGljJ0qpi9E&list=PLeBYzK3BTHvHLdculvuKplHZGnXyvIFzk
+-     https://www.youtube.com/watch?v=2NX8DS9V9ts&list=PLeBYzK3BTHvFojYnU2HkW8mCXeRC7zZgt
+- 【PS4】FIRE WATCH【実況】    https://www.youtube.com/watch?v=RyGQxtdNl9c&list=PLeBYzK3BTHvHEh0CfCYnjiYnempdn3QSU
+- 【PS4】少女とロボット【実況】    https://www.youtube.com/watch?v=2NX8DS9V9ts&list=PLeBYzK3BTHvFojYnU2HkW8mCXeRC7zZgt
+- 【PS4】RiME【実況】    https://www.youtube.com/watch?v=Kg_tudznge8&list=PLeBYzK3BTHvEBWJOQbZ7fy8366F8GWMIn
+-     https://www.youtube.com/watch?v=lBfbkMe6rxY&list=PLeBYzK3BTHvGSWGrA5FrDFNOKhKg7TWhV
+-     https://www.youtube.com/watch?v=XYZE8fls4X4&list=PLeBYzK3BTHvFuwXNie19ZDsv9m8mO-ilN
+-     https://www.youtube.com/watch?v=52qyiIN_XiQ&list=PLeBYzK3BTHvECveXoK0WYQgDaKHh129J4
+- 【PS2】「戦友と共に!!」ダイナマイト刑事【実況】    https://www.youtube.com/watch?v=__pOu2lSiRY&list=PLeBYzK3BTHvHu1C3-wW2po8DEsstRTKtA
+- 【PS4】「戦友と共に!!」スターウォーズBF【生放送】    https://www.youtube.com/watch?v=zEawgXCkggU&list=PLeBYzK3BTHvH6gNuHYqU0vkjtX9LHwylc
+- 【PS2】「戦友と共に!!」零～zero～【実況】    https://www.youtube.com/watch?v=dxrIM5KcZgA&list=PLeBYzK3BTHvGAe3N3JH-jd28qpj0NlKtp
+- 【PS4】巨影都市【実況】    https://www.youtube.com/watch?v=TaaotIb5B5o&list=PLeBYzK3BTHvGCR1eCQex_W9oRfJ5YrQRR
+- 【PS3】 アンチャーテッド‐エル・ドラドの秘宝‐ 【実況】    https://www.youtube.com/watch?v=pDPXle2iISI&list=PLeBYzK3BTHvFbO8m8Az_6r0LvloVS-5IC
+- 【PS】トロンにコブン【実況】    https://www.youtube.com/watch?v=ShtQQzEcJjw&list=PLeBYzK3BTHvEQbgUxycKLgDsmyAX7PdBS
+-     https://www.youtube.com/watch?v=RHaJC3tuBxw&list=PLeBYzK3BTHvFhaDc1Z2yvIl4FR12fM8fJ
+-     https://www.youtube.com/watch?v=s4hQ1hVBdcA&list=PLeBYzK3BTHvGX3Hdft8qmgYDH8yP8KL5d
+-     https://www.youtube.com/watch?v=toZLEg8FHHY&list=PLeBYzK3BTHvF9sQaeouD8V8bVeDqRRSBL
+- 【PS】ガンパレード・マーチ【実況】    https://www.youtube.com/watch?v=7ZBDsKe5p9Q&list=PLeBYzK3BTHvH5LtWx4sCaagiyMNNqBuCy
+- 【PS2】.hack//感染拡大 Vol.1 【実況】    https://www.youtube.com/watch?v=w32kkMRjkYw&list=PLeBYzK3BTHvFpCvWbjRv9Ndy9M6DfhSLN
+- 【PS2】.hack//悪性変異 Vol.2 【実況】    https://www.youtube.com/watch?v=ooql8h-xxT0&list=PLeBYzK3BTHvFj-nUiqX51WlEv_g_tgZC4
+-     https://www.youtube.com/watch?v=mDYI8nuyTz8&list=PLeBYzK3BTHvGavN6LMN9GgdnsUCbwfWIe
+-     https://www.youtube.com/watch?v=oDqkRrGWRmY&list=PLeBYzK3BTHvEhtfFFvNfy0eNIU9eEhMOs
+- 【PS】リモートコントロール・ダンディ【実況】    https://www.youtube.com/watch?v=XHF0NwJGv8Y&list=PLeBYzK3BTHvG5d6Q8nLvdsB1x7UieF1R9
+- 【PS2】リモートコントロール・ダンディSF【実況】    https://www.youtube.com/watch?v=ERTfBS2hrww&list=PLeBYzK3BTHvE0etLovpFVEMw1-P2Ljbws
+- 【PS2】ギガンティックドライブ【実況】    https://www.youtube.com/watch?v=S1bTvFkG03A&list=PLeBYzK3BTHvHj-N6jKOKNZXisak5EaKbq
+-     https://www.youtube.com/watch?v=Lsw7dbF_Tj0&list=PLeBYzK3BTHvFBmMhoQo22hIhBr-pZHh62
+- 【PS3】 Red Johnson`s Chronicles 【実況】    https://www.youtube.com/watch?v=dwL16UvZtlc&list=PLeBYzK3BTHvE6bibAO-mtVL7l8DEYExZL
+- 【PS】ATHENA-アテナ-【実況】    https://www.youtube.com/watch?v=cshC0gVKVNY&list=PLeBYzK3BTHvEMAdUcurs8kJlH330jYY6J
+- 【PS2】DEATH BY DEGREES【実況】    https://www.youtube.com/watch?v=vR5y-WHrBzM&list=PLeBYzK3BTHvE3v4cZMPjJo1FrIwvOj47k
+- Cover of my favorite song.    https://www.youtube.com/watch?v=osUyweO7bsA&list=PLeBYzK3BTHvGXl4iRb9VCr95i83PYM_Y5
+- Playing of my original song.    https://www.youtube.com/watch?v=QV9J4vDF_D8&list=PLeBYzK3BTHvFVUD9d0ctJu_mChlBg3onC

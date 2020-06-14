@@ -1,0 +1,788 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Coursera Downloader &mdash; All-Tool-Manual 0.00 ドキュメント</title>
+  
+
+  
+  
+    <link rel="shortcut icon" href="../../_static/showreel.ico"/>
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+        <link rel="index" title="索引"
+              href="../../genindex.html"/>
+        <link rel="search" title="検索" href="../../search.html"/>
+    <link rel="top" title="All-Tool-Manual 0.00 ドキュメント" href="../../index.html"/> 
+
+  
+  <script src="../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> All-Tool-Manual
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.00
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../CPlus/CPlus.html">C++</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Csharp/csharp.html">C#</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Render/Rendaring.html">Rendaring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ZScript/Zscript.html">ZScript</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../algorithm/algorytm.html">algorytm</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../game/game.html">game memo</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../git/git.html">git</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../houdini/houdini.html">Houdini</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../javascript/javascript.html">javascript</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../linux/linux.html">Linux</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../maya/maya.html">maya Tool manual</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../mindmap - コピー/mindmap.html">manual mindmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../mindmap/mindmap.html">manual mindmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../python/index.html">Python</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../shader/shader.html">shader</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../shotgun/shotgun.html">Shotgun</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../showreel/showreel.html">showreel</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tutorial/com.html">tutorial</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../web/web.html">web application framework etc</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../../index.html">All-Tool-Manual</a>
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+ 
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../../index.html">Docs</a> &raquo;</li>
+      
+    <li>Coursera Downloader</li>
+    <li class="wy-breadcrumbs-aside">
+      
+          <a href="https://github.com/bat/coursera-dl/README.rst" class="fa fa-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="coursera-downloader">
+<h1>Coursera Downloader<a class="headerlink" href="#coursera-downloader" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p><a class="reference external" href="https://travis-ci.org/coursera-dl/coursera-dl"><img alt="Build Status" src="https://travis-ci.org/coursera-dl/coursera-dl.svg?branch=master" /></a>
+<a class="reference external" href="https://ci.appveyor.com/project/balta2ar/coursera-dl/branch/master"><img alt="Build status" src="https://ci.appveyor.com/api/projects/status/3hru0ycv5fbny5k8/branch/master?svg=true" /></a>
+<a class="reference external" href="https://coveralls.io/r/coursera-dl/coursera-dl"><img alt="Coverage Status" src="https://coveralls.io/repos/coursera-dl/coursera-dl/badge.svg" /></a>
+<a class="reference external" href="https://pypi.python.org/pypi/coursera-dl"><img alt="Latest version on PyPI" src="https://img.shields.io/pypi/v/coursera-dl.svg" /></a>
+<a class="reference external" href="https://codeclimate.com/github/coursera-dl/coursera-dl"><img alt="Code Climate" src="https://codeclimate.com/github/coursera-dl/coursera-dl/badges/gpa.svg" /></a></p>
+<!-- TOC --><ul class="simple">
+<li><p><a class="reference external" href="#coursera-downloader">Coursera Downloader</a></p></li>
+<li><p><a class="reference external" href="#introduction">Introduction</a></p></li>
+<li><p><a class="reference external" href="#features">Features</a></p></li>
+<li><p><a class="reference external" href="#disclaimer">Disclaimer</a></p></li>
+<li><p><a class="reference external" href="#installation-instructions">Installation instructions</a></p>
+<ul>
+<li><p><a class="reference external" href="#recommended-installation-method-for-all-operating-systems">Recommended installation method for all Operating Systems</a></p></li>
+<li><p><a class="reference external" href="#alternative-ways-of-installing-missing-dependencies">Alternative ways of installing missing dependencies</a></p>
+<ul>
+<li><p><a class="reference external" href="#alternative-installation-method-for-unix-systems">Alternative installation method for Unix systems</a></p></li>
+<li><p><a class="reference external" href="#archlinux">ArchLinux</a></p></li>
+<li><p><a class="reference external" href="#installing-dependencies-on-your-own">Installing dependencies on your own</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="#docker">Docker</a></p></li>
+<li><p><a class="reference external" href="#windows">Windows</a></p></li>
+<li><p><a class="reference external" href="#create-an-account-with-coursera">Create an account with Coursera</a></p></li>
+<li><p><a class="reference external" href="#running-the-script">Running the script</a></p></li>
+<li><p><a class="reference external" href="#resuming-downloads">Resuming downloads</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="#troubleshooting">Troubleshooting</a></p>
+<ul>
+<li><p><a class="reference external" href="#china-issues">China issues</a></p></li>
+<li><p><a class="reference external" href="#found-0-sections-and-0-lectures-on-this-page">Found 0 sections and 0 lectures on this page</a></p></li>
+<li><p><a class="reference external" href="#download-timeouts">Download timeouts</a></p></li>
+<li><p><a class="reference external" href="#windows-proxy-support">Windows: proxy support</a></p></li>
+<li><p><a class="reference external" href="#windows-failed-to-create-process">Windows: Failed to create process</a></p></li>
+<li><p><a class="reference external" href="#sslerror-errno-1-_sslc504-error14094410ssl-routinesssl3_read_bytessslv3-alert-handshake-failure">SSLError: [Errno 1] _ssl.c:504: error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure</a></p></li>
+<li><p><a class="reference external" href="#alternative-cdn-for-mathjaxjs">Alternative CDN for <code class="docutils literal notranslate"><span class="pre">MathJax.js</span></code></a></p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="#reporting-issues">Reporting issues</a></p></li>
+<li><p><a class="reference external" href="#filing-an-issuereporting-a-bug">Filing an issue/Reporting a bug</a></p></li>
+<li><p><a class="reference external" href="#feedback">Feedback</a></p></li>
+<li><p><a class="reference external" href="#contact">Contact</a></p></li>
+</ul>
+<!-- /TOC --></div>
+<div class="section" id="introduction">
+<h1>Introduction<a class="headerlink" href="#introduction" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p><a class="reference external" href="https://www.coursera.org">Coursera</a> is arguably the leader in <em>massive open online courses</em> (MOOC)
+with a selection of more than 300 classes from 62 different institutions <a class="reference external" href="http://techcrunch.com/2013/02/20/coursera-adds-29-schools-90-courses-and-4-new-languages-to-its-online-learning-platform/">as of
+February 2013</a>. Generous contributions by educators and institutions are
+making excellent education available to many who could not afford it otherwise.
+There are even non-profits with &quot;feet on the ground&quot; in remote areas of the
+world who are helping spread the wealth (see the feedback below from <a class="reference external" href="http://www.tunapanda.org">Tunapanda</a>).</p>
+<p>This script makes it easier to batch download lecture resources (e.g., videos, ppt,
+etc) for Coursera classes.  Given one or more class names and account credentials,
+it obtains week and class names from the <em>lectures</em> page, and then downloads
+the related materials into appropriately named files and directories.</p>
+<p>Why is this helpful?  A utility like <a class="reference external" href="https://sourceforge.net/projects/gnuwin32/files/wget/1.11.4-1/wget-1.11.4-1-setup.exe">wget</a> can work, but has the
+following limitations:</p>
+<ol class="simple">
+<li><p>Video names have numbers in them, but this does not correspond to
+the actual order.  Manually renaming them is a pain that is best left
+for computers.</p></li>
+<li><p>Using names from the syllabus page provides more informative names.</p></li>
+<li><p>Using <code class="docutils literal notranslate"><span class="pre">wget</span></code> in a for loop picks up extra videos which are not
+posted/linked, and these are sometimes duplicates.</p></li>
+</ol>
+<p>Browser extensions like <em>DownloadThemAll</em> is another possibility, but
+<code class="docutils literal notranslate"><span class="pre">coursera-dl</span></code> provides more features such as appropriately named files.</p>
+<p>This work was originally inspired in part by <a class="reference external" href="http://rg3.github.io/youtube-dl">youtube-dl</a> by which
+I've downloaded many other good videos such as those from Khan Academy.</p>
+</div>
+<div class="section" id="features">
+<h1>Features<a class="headerlink" href="#features" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<ul class="simple">
+<li><p>Support for all kinds of courses (i.e., &quot;Old Platform&quot;/time-based as
+well as &quot;New Platform&quot;/on-demand courses).</p></li>
+<li><p>Intentionally detailed names, so that it will display and sort properly
+on most interfaces (e.g., <a class="reference external" href="https://f-droid.org/repository/browse/?fdid=org.videolan.vlc">VLC</a> or MX Video on Android devices).</p></li>
+<li><p>Regex-based section (week) and lecture name filters to download only
+certain resources.</p></li>
+<li><p>File format extension filter to grab resource types you want.</p></li>
+<li><p>Login credentials accepted on command-line or from <code class="docutils literal notranslate"><span class="pre">.netrc</span></code> file.</p></li>
+<li><p>Default arguments loaded from <code class="docutils literal notranslate"><span class="pre">coursera-dl.conf</span></code> file.</p></li>
+<li><p>Core functionality tested on Linux, Mac and Windows.</p></li>
+</ul>
+</div>
+<div class="section" id="disclaimer">
+<h1>Disclaimer<a class="headerlink" href="#disclaimer" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p><code class="docutils literal notranslate"><span class="pre">coursera-dl</span></code> is meant to be used only for your material that Coursera gives
+you access to download.</p>
+<p>We do not encourage any use that violates their <a class="reference external" href="https://www.coursera.org/about/terms">Terms Of Use</a>. A
+relevant excerpt:</p>
+<blockquote>
+<div><p>&quot;[...] Coursera grants you a personal, non-exclusive, non-transferable
+license to access and use the Sites. You may download material from the
+Sites only for your own personal, non-commercial use. You may not
+otherwise copy, reproduce, retransmit, distribute, publish, commercially
+exploit or otherwise transfer any material, nor may you modify or create
+derivatives works of the material.&quot;</p>
+</div></blockquote>
+</div>
+<div class="section" id="installation-instructions">
+<h1>Installation instructions<a class="headerlink" href="#installation-instructions" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p><code class="docutils literal notranslate"><span class="pre">coursera-dl</span></code> requires Python 2 or Python 3 and a free Coursera account
+enrolled in the class of interest. (As of February of 2016, we test
+automatically the execution of the program with Python versions 2.6, 2.7,
+Pypy, 3.4, 3.5, and 3.6).</p>
+<p><strong>Note:</strong> We <em>strongly</em> recommend that you use a Python 3 interpreter (3.4
+or later).</p>
+<p>On any operating system, ensure that the Python executable location is added
+to your <code class="docutils literal notranslate"><span class="pre">PATH</span></code> environment variable and, once you have the dependencies
+installed (see next section), for a <em>basic</em> usage, you will need to invoke
+the script from the main directory of the project and prepend it with the
+word <code class="docutils literal notranslate"><span class="pre">python</span></code>.  You can also use more advanced features of the program by
+looking at the &quot;Running the script&quot; section of this document.</p>
+<p><em>Note:</em> You must already have (manually) agreed to the Honor of Code of the
+particular courses that you want to use with <code class="docutils literal notranslate"><span class="pre">coursera-dl</span></code>.</p>
+<div class="section" id="recommended-installation-method-for-all-operating-systems">
+<h2>Recommended installation method for all Operating Systems<a class="headerlink" href="#recommended-installation-method-for-all-operating-systems" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>From a command line (preferably, from a virtual environment), simply issue
+the command:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="n">coursera</span><span class="o">-</span><span class="n">dl</span>
+</pre></div>
+</div>
+<p>This will download <a class="reference external" href="https://pypi.python.org/pypi/coursera-dl">the latest released version</a> of the program from the
+<a class="reference external" href="https://pypi.python.org/">Python Package Index (PyPI)</a> along with <em>all</em> the necessary
+dependencies. At this point, you should be ready to start using it.</p>
+<p>If this does not work, because your Python 2 version is too old (e.g. 2.7.5
+on Ubuntu 14.4), try:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">python3</span> <span class="n">python3</span><span class="o">-</span><span class="n">pip</span>
+<span class="n">pip3</span> <span class="n">install</span> <span class="n">coursera</span><span class="o">-</span><span class="n">dl</span>
+</pre></div>
+</div>
+<p>instead.</p>
+<p><strong>Note 1:</strong> We strongly recommend that you <em>don't</em> install the package
+globally on your machine (i.e., with root/administrator privileges), as the
+installed modules may conflict with other Python applications that you have
+installed in your system (or they can interfere with <code class="docutils literal notranslate"><span class="pre">coursera-dl</span></code>).  Prefer
+to use the option <code class="docutils literal notranslate"><span class="pre">--user</span></code> to <code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span></code>, if you need can.</p>
+<p><strong>Note 2:</strong> As already mentioned, we <em>strongly</em> recommend that you use a new
+Python 3 interpreter (e.g., 3.4 or later), since Python 3 has better support
+for SSL/TLS (for secure connections) than earlier versions.<br/>
+If you must use Python 2, be sure that you have at least Python 2.7.9 (later
+versions are OK).<br/>
+Otherwise, you can still use <code class="docutils literal notranslate"><span class="pre">coursera-dl</span></code>, but you will have to install the
+extra package <code class="docutils literal notranslate"><span class="pre">ndg-httpsclient</span></code>, which may involve compilation (at least on
+Linux systems).</p>
+</div>
+<div class="section" id="alternative-ways-of-installing-missing-dependencies">
+<h2>Alternative ways of installing missing dependencies<a class="headerlink" href="#alternative-ways-of-installing-missing-dependencies" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>We strongly recommend that you consider installing Python packages with
+<a class="reference external" href="https://pip.pypa.io/en/latest/">pip</a>, as in it is the current <a class="reference external" href="http://ww45.python-distribute.org/pip_distribute.png">preferred method</a>, unless directed
+otherwise by one of the project members (for instance, when testing or
+debugging a new feature or using the source code directly from our git
+repository).  If you are using <code class="docutils literal notranslate"><span class="pre">pip</span></code>, you can directly install all the
+dependencies from the requirements file using <code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">-r</span> <span class="pre">requirements.txt</span></code>.</p>
+<div class="section" id="alternative-installation-method-for-unix-systems">
+<h3>Alternative installation method for Unix systems<a class="headerlink" href="#alternative-installation-method-for-unix-systems" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<p>We strongly recommend that you install <code class="docutils literal notranslate"><span class="pre">coursera-dl</span></code> and all its
+dependencies in a way that does <em>not</em> interfere with the rest of your Python
+installation. This is accomplished by the creation of a <em>virtual
+environment</em>, or &quot;virtualenv&quot;.</p>
+<p>For the initial setup, in a Unix-like operating system, please use the
+following steps (create/adapt first the directory
+<code class="docutils literal notranslate"><span class="pre">/directory/where/I/want/my/courses</span></code>):</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">directory</span><span class="o">/</span><span class="n">where</span><span class="o">/</span><span class="n">I</span><span class="o">/</span><span class="n">want</span><span class="o">/</span><span class="n">my</span><span class="o">/</span><span class="n">courses</span>
+<span class="n">virtualenv</span> <span class="n">my</span><span class="o">-</span><span class="n">coursera</span>
+<span class="n">cd</span> <span class="n">my</span><span class="o">-</span><span class="n">coursera</span>
+<span class="n">source</span> <span class="nb">bin</span><span class="o">/</span><span class="n">activate</span>
+<span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">coursera</span><span class="o">-</span><span class="n">dl</span><span class="o">/</span><span class="n">coursera</span><span class="o">-</span><span class="n">dl</span>
+<span class="n">cd</span> <span class="n">coursera</span><span class="o">-</span><span class="n">dl</span>
+<span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="n">requirements</span><span class="o">.</span><span class="n">txt</span>
+<span class="o">./</span><span class="n">coursera</span><span class="o">-</span><span class="n">dl</span> <span class="o">...</span>
+</pre></div>
+</div>
+<p>To further download new videos from your classes, simply perform:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">directory</span><span class="o">/</span><span class="n">where</span><span class="o">/</span><span class="n">I</span><span class="o">/</span><span class="n">want</span><span class="o">/</span><span class="n">my</span><span class="o">/</span><span class="n">courses</span><span class="o">/</span><span class="n">my</span><span class="o">-</span><span class="n">coursera</span>
+<span class="n">source</span> <span class="nb">bin</span><span class="o">/</span><span class="n">activate</span>
+<span class="n">cd</span> <span class="n">coursera</span><span class="o">-</span><span class="n">dl</span>
+<span class="o">./</span><span class="n">coursera</span><span class="o">-</span><span class="n">dl</span> <span class="o">...</span>
+</pre></div>
+</div>
+<p>We are working on streamlining this whole process so that it is as simple as
+possible, but to support older versions of Python and to cope with Coursera
+disabling SSLv3, we have to take a few extra steps.  In any case, it is
+<em>highly</em> recommended that you always install the latest version of the
+Python interpreter that you can.</p>
+</div>
+<div class="section" id="archlinux">
+<h3>ArchLinux<a class="headerlink" href="#archlinux" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<p>AUR package: <a class="reference external" href="https://aur.archlinux.org/packages/coursera-dl/">coursera-dl</a></p>
+</div>
+<div class="section" id="installing-dependencies-on-your-own">
+<h3>Installing dependencies on your own<a class="headerlink" href="#installing-dependencies-on-your-own" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<p><strong>Warning:</strong> This method is not recommended unless you have experience
+working with multiple Python environments.</p>
+<p>You can use the <code class="docutils literal notranslate"><span class="pre">pip</span></code> program to install the dependencies on your own.  They
+are all listed in the <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code> file (and the extra dependencies
+needed for development are listed in the <code class="docutils literal notranslate"><span class="pre">requirements-dev.txt</span></code> file).</p>
+<p>To use this method, you would proceed as:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="n">requirements</span><span class="o">.</span><span class="n">txt</span>
+<span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="n">requirements</span><span class="o">-</span><span class="n">dev</span><span class="o">.</span><span class="n">txt</span>
+</pre></div>
+</div>
+<p>The second line above should only be needed if you intend to help with
+development (and help is <em>always</em> welcome) or if a maintainer of the project
+asks you to install extra packages for debugging purposes.</p>
+<p>Once again, before filing bug reports, if you installed the dependencies on
+your own, please check that the versions of your modules are at least those
+listed in the <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code> file (and, <code class="docutils literal notranslate"><span class="pre">requirements-dev.txt</span></code> file, if
+applicable).</p>
+</div>
+</div>
+<div class="section" id="docker">
+<h2>Docker<a class="headerlink" href="#docker" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>If you prefer you can run this software inside Docker:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docker</span> <span class="n">run</span> <span class="o">--</span><span class="n">rm</span> <span class="o">-</span><span class="n">it</span> <span class="o">-</span><span class="n">v</span> \
+    <span class="s2">&quot;$(pwd):/courses&quot;</span> \
+    <span class="n">courseradl</span><span class="o">/</span><span class="n">courseradl</span> <span class="o">-</span><span class="n">u</span> <span class="o">&lt;</span><span class="n">USER</span><span class="o">&gt;</span> <span class="o">-</span><span class="n">p</span> <span class="o">&lt;</span><span class="n">PASSWORD</span><span class="o">&gt;</span>
+</pre></div>
+</div>
+<p>Or using netrc file:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docker</span> <span class="n">run</span> <span class="o">--</span><span class="n">rm</span> <span class="o">-</span><span class="n">it</span> \
+    <span class="o">-</span><span class="n">v</span> <span class="s2">&quot;$(pwd):/courses&quot;</span> <span class="o">-</span><span class="n">v</span> <span class="s2">&quot;$HOME/.netrc:/netrc&quot;</span> \
+    <span class="n">courseradl</span><span class="o">/</span><span class="n">courseradl</span> <span class="o">-</span><span class="n">n</span> <span class="o">/</span><span class="n">netrc</span>
+</pre></div>
+</div>
+<p>The actual working dir for coursera-dl is /courses, all courses will be
+downloaded there if you don't specify otherwise.</p>
+</div>
+<div class="section" id="windows">
+<h2>Windows<a class="headerlink" href="#windows" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p><code class="docutils literal notranslate"><span class="pre">python</span> <span class="pre">-m</span> <span class="pre">pip</span> <span class="pre">install</span> <span class="pre">coursera-dl</span></code></p>
+<p>Be sure that the Python install path is added to the PATH system environment
+variables. This can be found in Control Panel &gt; System &gt; Advanced System
+Settings &gt; Environment Variables.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Example</span><span class="p">:</span>
+<span class="n">C</span><span class="p">:</span>\<span class="n">Python35</span>\<span class="n">Scripts</span>\<span class="p">;</span><span class="n">C</span><span class="p">:</span>\<span class="n">Python35</span>\<span class="p">;</span>
+</pre></div>
+</div>
+<p>Or if you have restricted installation permissions and you've installed Python
+under AppData, add this to your PATH.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Example</span><span class="p">:</span>
+<span class="n">C</span><span class="p">:</span>\<span class="n">Users</span>\<span class="o">&lt;</span><span class="n">user</span><span class="o">&gt;</span>\<span class="n">AppData</span>\<span class="n">Local</span>\<span class="n">Programs</span>\<span class="n">Python</span>\<span class="n">Python35</span><span class="o">-</span><span class="mi">32</span>\<span class="n">Scripts</span><span class="p">;</span><span class="n">C</span><span class="p">:</span>\<span class="n">Users</span>\<span class="o">&lt;</span><span class="n">user</span><span class="o">&gt;</span>\<span class="n">AppData</span>\<span class="n">Local</span>\<span class="n">Programs</span>\<span class="n">Python</span>\<span class="n">Python35</span><span class="o">-</span><span class="mi">32</span><span class="p">;</span>
+</pre></div>
+</div>
+<p>Coursera-dl can now be run from commandline or powershell.</p>
+</div>
+<div class="section" id="create-an-account-with-coursera">
+<h2>Create an account with Coursera<a class="headerlink" href="#create-an-account-with-coursera" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>If you don't already have one, create a <a class="reference external" href="https://www.coursera.org">Coursera</a> account and enroll in
+a class. See https://www.coursera.org/courses for the list of classes.</p>
+</div>
+<div class="section" id="running-the-script">
+<h2>Running the script<a class="headerlink" href="#running-the-script" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>Run the script to download the materials by providing your Coursera account
+credentials (e.g. email address and password or a <code class="docutils literal notranslate"><span class="pre">~/.netrc</span></code> file), the
+class names, as well as any additional parameters:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">General</span><span class="p">:</span>                     <span class="n">coursera</span><span class="o">-</span><span class="n">dl</span> <span class="o">-</span><span class="n">u</span> <span class="o">&lt;</span><span class="n">user</span><span class="o">&gt;</span> <span class="o">-</span><span class="n">p</span> <span class="o">&lt;</span><span class="k">pass</span><span class="o">&gt;</span> <span class="n">modelthinking</span><span class="o">-</span><span class="mi">004</span>
+</pre></div>
+</div>
+<p>If you don't want to type your password in command line as plain text, you can use the script without <code class="docutils literal notranslate"><span class="pre">-p</span></code> option. In this case you will be prompted for password  once the script is run.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>Without -p field:            coursera-dl -u &lt;user&gt; modelthinking-004
+Multiple classes:            coursera-dl -u &lt;user&gt; -p &lt;pass&gt; saas historyofrock1-001 algo-2012-002
+Filter by section name:      coursera-dl -u &lt;user&gt; -p &lt;pass&gt; -sf &quot;Chapter_Four&quot; crypto-004
+Filter by lecture name:      coursera-dl -u &lt;user&gt; -p &lt;pass&gt; -lf &quot;3.1_&quot; ml-2012-002
+Download only ppt files:     coursera-dl -u &lt;user&gt; -p &lt;pass&gt; -f &quot;ppt&quot; qcomp-2012-001
+Use a ~/.netrc file:         coursera-dl -n -- matrix-001
+Get the preview classes:     coursera-dl -n -b ni-001
+Specify download path:       coursera-dl -n --path=C:\Coursera\Classes\ comnetworks-002
+Display help:                coursera-dl --help
+
+Maintain a list of classes in a dir:
+  Initialize:              mkdir -p CURRENT/{class1,class2,..classN}
+  Update:                  coursera-dl -n --path CURRENT `\ls CURRENT`
+</pre></div>
+</div>
+<p><strong>Note:</strong> If your <code class="docutils literal notranslate"><span class="pre">ls</span></code> command is aliased to display a colorized output, you
+may experience problems.  Be sure to escape the <code class="docutils literal notranslate"><span class="pre">ls</span></code> command (use <code class="docutils literal notranslate"><span class="pre">\ls</span></code>) to
+assure that no special characters get sent to the script.</p>
+<p>Note that we <em>do</em> support the New Platform (&quot;on-demand&quot;) classes.</p>
+<p>On *nix platforms, the use of a <code class="docutils literal notranslate"><span class="pre">~/.netrc</span></code> file is a good alternative to
+specifying both your username (i.e., your email address) and password every
+time on the command line. To use it, simply add a line like the one below to
+a file named <code class="docutils literal notranslate"><span class="pre">.netrc</span></code> in your home directory (or the <a class="reference external" href="http://stackoverflow.com/a/6031266/962311">equivalent</a>, if you
+are using Windows) with contents like:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">machine</span> <span class="n">coursera</span><span class="o">-</span><span class="n">dl</span> <span class="n">login</span> <span class="o">&lt;</span><span class="n">user</span><span class="o">&gt;</span> <span class="n">password</span> <span class="o">&lt;</span><span class="k">pass</span><span class="o">&gt;</span>
+</pre></div>
+</div>
+<p>Create the file if it doesn't exist yet.  From then on, you can switch from
+using <code class="docutils literal notranslate"><span class="pre">-u</span></code> and <code class="docutils literal notranslate"><span class="pre">-p</span></code> to simply call <code class="docutils literal notranslate"><span class="pre">coursera-dl</span></code> with the option <code class="docutils literal notranslate"><span class="pre">-n</span></code>
+instead.  This is especially convenient, as typing usernames (email
+addresses) and passwords directly on the command line can get tiresome (even
+more if you happened to choose a &quot;strong&quot; password).</p>
+<p>Alternatively, if you want to store your preferred parameters (which might
+also include your username and password), create a file named <code class="docutils literal notranslate"><span class="pre">coursera-dl.conf</span></code>
+where the script is supposed to be executed, with the following format:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">--</span><span class="n">username</span> <span class="o">&lt;</span><span class="n">user</span><span class="o">&gt;</span>
+<span class="o">--</span><span class="n">password</span> <span class="o">&lt;</span><span class="k">pass</span><span class="o">&gt;</span>
+<span class="o">--</span><span class="n">subtitle</span><span class="o">-</span><span class="n">language</span> <span class="n">en</span><span class="p">,</span><span class="n">zh</span><span class="o">-</span><span class="n">CN</span><span class="o">|</span><span class="n">zh</span><span class="o">-</span><span class="n">TW</span>
+<span class="o">--</span><span class="n">download</span><span class="o">-</span><span class="n">quizzes</span>
+<span class="c1">#--mathjax-cdn https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js</span>
+<span class="c1"># more other parameters</span>
+</pre></div>
+</div>
+<p>Parameter which is stored in the file will be overriden if it is again specified
+in your commandline script</p>
+<p><strong>Note:</strong> In <code class="docutils literal notranslate"><span class="pre">coursera-dl.conf</span></code>, all the parameters should not be wrapped
+with quotes.</p>
+</div>
+<div class="section" id="resuming-downloads">
+<h2>Resuming downloads<a class="headerlink" href="#resuming-downloads" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>In default mode when you interrupt the download process by pressing
+<kbd>CTRL</kbd>+<kbd>C</kbd>, partially downloaded files will be deleted from your disk and
+you have to start the download process from the beginning. If your
+download was interrupted by something other than KeyboardInterrupt
+(<kbd>CTRL</kbd>+<kbd>C</kbd>) like sudden system crash, partially downloaded files will
+remain on your disk and the next time you start the process again,
+these files will be discarded from download list!, therefore it's your
+job to delete them manually before next start. For this reason we
+added an option called <code class="docutils literal notranslate"><span class="pre">--resume</span></code> which continues your downloads from
+where they stopped:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">coursera</span><span class="o">-</span><span class="n">dl</span> <span class="o">-</span><span class="n">u</span> <span class="o">&lt;</span><span class="n">user</span><span class="o">&gt;</span> <span class="o">-</span><span class="n">p</span> <span class="o">&lt;</span><span class="k">pass</span><span class="o">&gt;</span> <span class="o">--</span><span class="n">resume</span> <span class="n">sdn1</span><span class="o">-</span><span class="mi">001</span>
+</pre></div>
+</div>
+<p>This option can also be used with external downloaders:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">coursera</span><span class="o">-</span><span class="n">dl</span> <span class="o">--</span><span class="n">wget</span> <span class="o">-</span><span class="n">u</span> <span class="o">&lt;</span><span class="n">user</span><span class="o">&gt;</span> <span class="o">-</span><span class="n">p</span> <span class="o">&lt;</span><span class="k">pass</span><span class="o">&gt;</span> <span class="o">--</span><span class="n">resume</span> <span class="n">sdn1</span><span class="o">-</span><span class="mi">001</span>
+</pre></div>
+</div>
+<p><em>Note 1</em>: Some external downloaders use their own built-in resume feature
+which may not be compatible with others, so use them at your own risk.</p>
+<p><em>Note 2</em>: Remember that in resume mode, interrupted files <strong>WON'T</strong> be deleted from
+your disk.</p>
+<p><strong>NOTE</strong>: If your password contains punctuation, quotes or other &quot;funny
+characters&quot; (e.g., <code class="docutils literal notranslate"><span class="pre">&lt;</span></code>, <code class="docutils literal notranslate"><span class="pre">&gt;</span></code>, <code class="docutils literal notranslate"><span class="pre">#</span></code>, <code class="docutils literal notranslate"><span class="pre">&amp;</span></code>, <code class="docutils literal notranslate"><span class="pre">|</span></code> and so on), then you may have to
+escape them from your shell. With bash or other Bourne-shell clones (and
+probably with many other shells) one of the better ways to do so is to
+enclose your password in single quotes, so that you don't run into
+problems.  See <a class="reference external" href="https://github.com/coursera-dl/coursera-dl/issues/213">issue #213</a> for more information.</p>
+</div>
+</div>
+<div class="section" id="troubleshooting">
+<h1>Troubleshooting<a class="headerlink" href="#troubleshooting" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>If you have problems when downloading class materials, please try to see if
+one of the following actions solve your problem:</p>
+<ul>
+<li><p>Make sure the class name you are using corresponds to the resource name
+used in the URL for that class:
+<code class="docutils literal notranslate"><span class="pre">https://www.coursera.org/learn/&lt;CLASS_NAME&gt;/home/welcome</span></code></p></li>
+<li><p>Have you tried to clean the cached cookies/credentials with the
+<code class="docutils literal notranslate"><span class="pre">--clear-cache</span></code> option?</p></li>
+<li><p>Note that many courses (most, perhaps?) may remove the materials after a
+little while after the course is completed, while other courses may retain
+the materials up to a next session/offering of the same course (to avoid
+problems with academic dishonesty, apparently).
+<br><br>
+In short, it is not guaranteed that you will be able to download after the
+course is finished and this is, unfortunately, nothing that we can help
+you with.</p></li>
+<li><p>Make sure you have installed and/or updated all of your dependencies
+according to the <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code> file as described above.</p></li>
+<li><p>One can export a Netscape-style cookies file with a browser extension (<a class="reference external" href="https://chrome.google.com/webstore/detail/cookietxt-export/lopabhfecdfhgogdbojmaicoicjekelh">1</a>, <a class="reference external" href="https://addons.mozilla.org/en-US/firefox/addon/export-cookies/">2</a>)
+and use it with the <code class="docutils literal notranslate"><span class="pre">-c</span></code> option. This comes in handy
+when the authentication via password is not working (the authentication
+process changes now and then).</p></li>
+<li><p>If results show 0 sections, you most likely have provided invalid
+credentials (username and/or password in the command line or in your
+<code class="docutils literal notranslate"><span class="pre">.netrc</span></code> file or in your <code class="docutils literal notranslate"><span class="pre">coursera-dl.conf</span></code> file).</p></li>
+<li><p>For courses that have not started yet, but have had a previous iteration
+sometimes a preview is available, containing all the classes from the last
+course. These files can be downloaded by passing the <code class="docutils literal notranslate"><span class="pre">--preview</span></code>
+parameter.</p></li>
+<li><p>If you get an error like <code class="docutils literal notranslate"><span class="pre">Could</span> <span class="pre">not</span> <span class="pre">find</span> <span class="pre">class:</span> <span class="pre">&lt;CLASS_NAME&gt;</span></code>, then:</p>
+<ul class="simple">
+<li><p>Verify that the name of the course is correct. Current class
+names in coursera are composed by a short course name e.g. <code class="docutils literal notranslate"><span class="pre">class</span></code> and
+the current version of the course (a number). For example, for a
+class named <code class="docutils literal notranslate"><span class="pre">class</span></code>, you would have to use <code class="docutils literal notranslate"><span class="pre">class-001</span></code>, <code class="docutils literal notranslate"><span class="pre">class-002</span></code>
+etc.</p></li>
+<li><p>Second, verify that you are enrolled in the course. You won't be
+able to access the course materials if you are not officially
+enrolled and agreed to the honor course <em>via the website</em>.</p></li>
+</ul>
+</li>
+<li><p>If:</p>
+<ul>
+<li><p>You get an error when using <code class="docutils literal notranslate"><span class="pre">-n</span></code> to specify that you want to use a
+<code class="docutils literal notranslate"><span class="pre">.netrc</span></code> file and,</p></li>
+<li><p>You want the script to use your default netrc file and,</p></li>
+<li><p>You get a message saying <code class="docutils literal notranslate"><span class="pre">coursera-dl:</span> <span class="pre">error:</span> <span class="pre">too</span> <span class="pre">few</span> <span class="pre">arguments</span></code></p>
+<p>Then you should specify <code class="docutils literal notranslate"><span class="pre">--</span></code> as an argument after <code class="docutils literal notranslate"><span class="pre">-n</span></code>, that is, <code class="docutils literal notranslate"><span class="pre">-n</span> <span class="pre">--</span></code>
+or change the order in which you pass the arguments to the script, so that
+the argument after <code class="docutils literal notranslate"><span class="pre">-n</span></code> begins with an hyphen (<code class="docutils literal notranslate"><span class="pre">-</span></code>).  Otherwise, Python's
+<code class="docutils literal notranslate"><span class="pre">argparse</span></code> module will think that what you are passing is the name of the
+netrc file that you want to use. See issue #162.</p>
+</li>
+</ul>
+</li>
+<li><p>If your password has spaces, don't forget to write it using quotes.</p></li>
+<li><p>Have you installed the right project ?
+<br><br>
+<strong>Warning</strong>: If you installed the script using PyPi (pip) please verify that
+you installed the correct project. We had to use a different name in pip
+because our original name was already taken. Remember to install it using:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>    <span class="n">pip</span> <span class="n">install</span> <span class="n">coursera</span><span class="o">-</span><span class="n">dl</span>
+</pre></div>
+</div>
+</li>
+</ul>
+<div class="section" id="china-issues">
+<h2>China issues<a class="headerlink" href="#china-issues" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>If you are from China and you're having problems downloading videos,
+adding &quot;52.84.167.78 d3c33hcgiwev3.cloudfront.net&quot; in the hosts file
+(/etc/hosts) and freshing DNS with &quot;ipconfig/flushdns&quot; may work
+(see https://github.com/googlehosts/hosts for more info).</p>
+</div>
+<div class="section" id="found-0-sections-and-0-lectures-on-this-page">
+<h2>Found 0 sections and 0 lectures on this page<a class="headerlink" href="#found-0-sections-and-0-lectures-on-this-page" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>First of all, make sure you are enrolled to the course you want to download.</p>
+<p>Many old courses have already closed enrollment so often it's not an
+option. In this case, try downloading with <code class="docutils literal notranslate"><span class="pre">--preview</span></code> option. Some
+courses allow to download lecture materials without enrolling, but
+it's not common and is not guaranteed to work for every course.</p>
+<p>Finally, you can download the videos if you have, at least, the index
+file that lists all the course materials. Maybe your friend who is enrolled
+could save that course page for you. In that case use the <code class="docutils literal notranslate"><span class="pre">--process_local_page</span></code>
+option.</p>
+<p>Alternatively you may want to try this Chrome extension: https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih</p>
+<p>If none of the above works for you, there is nothing we can do.</p>
+</div>
+<div class="section" id="download-timeouts">
+<h2>Download timeouts<a class="headerlink" href="#download-timeouts" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>Coursera-dl supports external downloaders but note that they are only used to
+download materials after the syllabus has been parsed, e.g. videos, PDFs, some
+handouts and additional files (syllabus is always downloaded using the internal
+downloader). If you experience problems with downloading such materials, you may
+want to start using external downloader and configure its timeout values. For
+example, you can use aria2c downloader by passing <code class="docutils literal notranslate"><span class="pre">--aria</span></code> option:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">coursera</span><span class="o">-</span><span class="n">dl</span> <span class="o">-</span><span class="n">n</span> <span class="o">--</span><span class="n">path</span> <span class="o">.</span> <span class="o">--</span><span class="n">aria2</span>  <span class="o">&lt;</span><span class="n">course</span><span class="o">-</span><span class="n">name</span><span class="o">&gt;</span>
+</pre></div>
+</div>
+<p>And put this into aria2c's configuration file <code class="docutils literal notranslate"><span class="pre">~/.aria2/aria2.conf</span></code> to reduce
+timeouts:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">connect</span><span class="o">-</span><span class="n">timeout</span><span class="o">=</span><span class="mi">2</span>
+<span class="n">timeout</span><span class="o">=</span><span class="mi">2</span>
+<span class="n">bt</span><span class="o">-</span><span class="n">stop</span><span class="o">-</span><span class="n">timeout</span><span class="o">=</span><span class="mi">1</span>
+</pre></div>
+</div>
+<p>Timeout configuration for internal downloader is not supported.</p>
+</div>
+<div class="section" id="windows-proxy-support">
+<h2>Windows: proxy support<a class="headerlink" href="#windows-proxy-support" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>If you're on Windows behind a proxy, set up the environment variables
+before running the script as follows:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="nb">set</span> <span class="n">HTTP_PROXY</span><span class="o">=</span><span class="n">http</span><span class="p">:</span><span class="o">//</span><span class="n">host</span><span class="p">:</span><span class="n">port</span>
+<span class="nb">set</span> <span class="n">HTTPS_PROXY</span><span class="o">=</span><span class="n">http</span><span class="p">:</span><span class="o">//</span><span class="n">host</span><span class="p">:</span><span class="n">port</span>
+</pre></div>
+</div>
+<p>Related discussion: <a class="reference external" href="https://github.com/coursera-dl/coursera-dl/issues/205">#205</a></p>
+</div>
+<div class="section" id="windows-failed-to-create-process">
+<h2>Windows: Failed to create process<a class="headerlink" href="#windows-failed-to-create-process" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>In <code class="docutils literal notranslate"><span class="pre">C:\Users\&lt;user&gt;\AppData\Local\Programs\Python\Python35-32\Scripts</span></code>
+or wherever Python installed (above is default for Windows)
+edit below file in idle: (right click on script name and select 'edit with idle in menu)</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">coursera</span><span class="o">-</span><span class="n">dl</span><span class="o">-</span><span class="n">script</span>
+</pre></div>
+</div>
+<p>from</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="ch">#!c:\users\&lt;user&gt;\appdata\local\programs\python\python35-32\python.exe</span>
+</pre></div>
+</div>
+<p>to</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1">#&quot;!c:\users\&lt;user&gt;\appdata\local\programs\python\python35-32\python.exe&quot;</span>
+</pre></div>
+</div>
+<p>(add quotes). This is a known pip bug.</p>
+<p>Source: <a class="reference external" href="https://github.com/coursera-dl/coursera-dl/issues/500">issue #500</a> <a class="reference external" href="http://stackoverflow.com/questions/31808180/installing-pyinstaller-via-pip-leads-to-failed-to-create-process">StackOverflow</a></p>
+</div>
+<div class="section" id="sslerror-errno-1-ssl-c-504-error-14094410-ssl-routines-ssl3-read-bytes-sslv3-alert-handshake-failure">
+<h2>SSLError: [Errno 1] _ssl.c:504: error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure<a class="headerlink" href="#sslerror-errno-1-ssl-c-504-error-14094410-ssl-routines-ssl3-read-bytes-sslv3-alert-handshake-failure" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>This is a known error, please do not report about this error message! The problem is in <strong>YOUR</strong> environment. To fix it, do the following:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>sudo apt-get install build-essential python-dev libssl-dev libffi-dev
+pip install --user urllib3 pyasn1 ndg-httpsclient pyOpenSSL
+</pre></div>
+</div>
+<p>If the error remains, try installing coursera-dl from github following this instruction:
+https://github.com/coursera-dl/coursera-dl#alternative-installation-method-for-unix-systems</p>
+<p>If you still have the problem, please read the following issues for more ideas on how to fix it:
+<a class="reference external" href="https://github.com/coursera-dl/coursera-dl/issues/330">#330</a>
+<a class="reference external" href="https://github.com/coursera-dl/coursera-dl/issues/377">#377</a>
+<a class="reference external" href="https://github.com/coursera-dl/coursera-dl/issues/329">#329</a></p>
+<p>This is also worth reading:
+https://urllib3.readthedocs.io/en/latest/security.html#insecureplatformwarning</p>
+</div>
+<div class="section" id="alternative-cdn-for-mathjax-js">
+<h2>Alternative CDN for <code class="docutils literal notranslate"><span class="pre">MathJax.js</span></code><a class="headerlink" href="#alternative-cdn-for-mathjax-js" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>When saving a course page, we enabled <code class="docutils literal notranslate"><span class="pre">MathJax</span></code> rendering for math equations, by
+injecting <code class="docutils literal notranslate"><span class="pre">MathJax.js</span></code> in the header. The script is using a cdn service provided
+by <a class="reference external" href="https://cdn.mathjax.org/mathjax/latest/MathJax.js">mathjax.org</a>. However, that
+url is not accessible in some countries/regions, you can provide a
+<code class="docutils literal notranslate"><span class="pre">--mathjax-cdn</span> <span class="pre">&lt;MATHJAX_CDN&gt;</span></code> parameter to specify the <code class="docutils literal notranslate"><span class="pre">MathJax.js</span></code> file that is
+accessible in your region.</p>
+</div>
+</div>
+<div class="section" id="reporting-issues">
+<h1>Reporting issues<a class="headerlink" href="#reporting-issues" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>Before reporting any issue please follow the steps below:</p>
+<ol>
+<li><p>Verify that you are running the latest version of the script, and the
+recommended versions of its dependencies, see them in the file
+<code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code>.  Use the following command if in doubt:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span> <span class="n">pip</span> <span class="n">install</span> <span class="o">--</span><span class="n">upgrade</span> <span class="n">coursera</span><span class="o">-</span><span class="n">dl</span>
+</pre></div>
+</div>
+</li>
+<li><p>If the problem persists, feel free to <a class="reference external" href="https://github.com/coursera-dl/coursera-dl/issues">open an issue</a> in our
+bugtracker, please fill the issue template with <em>as much information as
+possible</em>.</p></li>
+</ol>
+</div>
+<div class="section" id="filing-an-issue-reporting-a-bug">
+<h1>Filing an issue/Reporting a bug<a class="headerlink" href="#filing-an-issue-reporting-a-bug" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>When reporting bugs against <code class="docutils literal notranslate"><span class="pre">coursera-dl</span></code>, please don't forget to include
+enough information so that you can help us help you:</p>
+<ul class="simple">
+<li><p>Is the problem happening with the latest version of the script?</p></li>
+<li><p>What operating system are you using?</p></li>
+<li><p>Do you have all the recommended versions of the modules? See them in the
+file <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code>.</p></li>
+<li><p>What is the course that you are trying to access?</p></li>
+<li><p>What is the precise command line that you are using (feel free to hide
+your username and password with asterisks, but leave all other
+information untouched).</p></li>
+<li><p>What are the precise messages that you get? Please, use the <code class="docutils literal notranslate"><span class="pre">--debug</span></code>
+option before posting the messages as a bug report. Please, copy and paste
+them.  Don't reword/paraphrase the messages.</p></li>
+</ul>
+</div>
+<div class="section" id="feedback">
+<h1>Feedback<a class="headerlink" href="#feedback" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>I enjoy getting feedback. Here are a few of the comments I've received:</p>
+<ul class="simple">
+<li><p>&quot;Thanks for the good job! Knowledge will flood the World a little more thanks
+to your script!&quot;
+<br>Guillaume V. 11/8/2012</p></li>
+<li><p>&quot;Just wanted to send you props for your Python script to download Coursera
+courses. I've been using it in Kenya for my non-profit to get online courses
+to places where internet is really expensive and unreliable. Mostly kids here
+can't afford high school, and downloading one of these classes by the usual
+means would cost more than the average family earns in one week. Thanks!&quot;
+<br>Jay L., <a class="reference external" href="http://www.tunapanda.org">Tunapanda</a> 3/20/2013</p></li>
+<li><p>&quot;I am a big fan of Coursera and attend lots of different courses. Time
+constraints don't allow me to attend all the courses I want at the same time.
+I came across your script, and I am very happily using it!  Great stuff and
+thanks for making this available on Github - well done!&quot;
+<br>William G.  2/18/2013</p></li>
+<li><p>&quot;This script is awesome! I was painstakingly downloading each and every video
+and ppt by hand -- looked into wget but ran into wildcard issues with HTML,
+and then.. I came across your script.  Can't tell you how many hours you've
+just saved me :) If you're ever in Paris / Stockholm, it is absolutely
+mandatory that I buy you a beer :)&quot;
+<br>Razvan T. 11/26/2012</p></li>
+<li><p>&quot;Thanks a lot! :)&quot;
+<br>Viktor V. 24/04/2013</p></li>
+</ul>
+</div>
+<div class="section" id="contact">
+<h1>Contact<a class="headerlink" href="#contact" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>Please, post bugs and issues on <a class="reference external" href="https://github.com/coursera-dl/coursera-dl/issues">github</a>. Send other comments to Rogério
+Theodoro de Brito (the current maintainer): rbrito&#64;ime.usp.br (twitter:
+<a class="reference external" href="https://twitter.com/rtdbrito">&#64;rtdbrito</a>) or to John Lehmann (the original author): first last at
+geemail dotcom (twitter: <a class="reference external" href="https://twitter.com/jplehmann">&#64;jplehmann</a>).</p>
+</div>
+
+
+           </div>
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2015-2020, All Tool Manual.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../',
+            VERSION:'0.00',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true
+        };
+    </script>
+      <script type="text/javascript" src="../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../_static/doctools.js"></script>
+      <script type="text/javascript" src="../../_static/language_data.js"></script>
+      <script type="text/javascript" src="../../_static/translations.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

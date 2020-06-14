@@ -1,0 +1,435 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Write good commit messages &mdash; All-Tool-Manual 0.00 ドキュメント</title>
+  
+
+  
+  
+    <link rel="shortcut icon" href="../../_static/showreel.ico"/>
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+        <link rel="index" title="索引"
+              href="../../genindex.html"/>
+        <link rel="search" title="検索" href="../../search.html"/>
+    <link rel="top" title="All-Tool-Manual 0.00 ドキュメント" href="../../index.html"/> 
+
+  
+  <script src="../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> All-Tool-Manual
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.00
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../CPlus/CPlus.html">C++</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Csharp/csharp.html">C#</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Render/Rendaring.html">Rendaring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ZScript/Zscript.html">ZScript</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../algorithm/algorytm.html">algorytm</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../game/game.html">game memo</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../git/git.html">git</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../houdini/houdini.html">Houdini</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../javascript/javascript.html">javascript</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../linux/linux.html">Linux</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../maya/maya.html">maya Tool manual</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../mindmap - コピー/mindmap.html">manual mindmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../mindmap/mindmap.html">manual mindmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../python/index.html">Python</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../shader/shader.html">shader</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../shotgun/shotgun.html">Shotgun</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../showreel/showreel.html">showreel</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tutorial/com.html">tutorial</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../web/web.html">web application framework etc</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../../index.html">All-Tool-Manual</a>
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+ 
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../../index.html">Docs</a> &raquo;</li>
+      
+    <li>Write good commit messages</li>
+    <li class="wy-breadcrumbs-aside">
+      
+          <a href="https://github.com/bat/coursera-dl/CONTRIBUTING.rst" class="fa fa-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <p>Please, before sending patches, read these brief comments. They are here to
+help the project have both its users happy using the program and the
+developers/maintainers feel good when trying to change code that other
+people contributed.</p>
+<p>For the record, when this document mentions &quot;I&quot;, it mostly means Rogério
+Brito's (&#64;rbrito) is the one to blame.</p>
+<div class="section" id="write-good-commit-messages">
+<h1>Write good commit messages<a class="headerlink" href="#write-good-commit-messages" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>When you write your pull request and your commit messages, please, be
+detailed, explaining why you are doing what you are doing. Don't be afraid
+of being too verbose here.  Also, please follow the highly recommended
+guidelines on how to write good <a class="reference external" href="https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message">good commit messages</a>.</p>
+<p>When in doubt, follow the model of the Linux kernel commit logs. Their
+commit messages are some of the best that I have seen. Also, the ffmpeg has
+some good messages that I believe that should be followed. If you are in a
+hurry, read the section named
+<a class="reference external" href="https://github.com/torvalds/subsurface/blob/master/README#L71-L114">&quot;Contributing&quot; from subsurface's README</a>.</p>
+</div>
+<div class="section" id="test-that-your-changes-don-t-break-existing-functionality">
+<h1>Test that your changes don't break existing functionality<a class="headerlink" href="#test-that-your-changes-don-t-break-existing-functionality" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>Make sure that you have all dependencies installed, like via:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="n">requirements</span><span class="o">.</span><span class="n">txt</span>
+<span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="n">requirements</span><span class="o">-</span><span class="n">dev</span><span class="o">.</span><span class="n">txt</span>
+</pre></div>
+</div>
+<p>Run the test suite with</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">py</span><span class="o">.</span><span class="n">test</span> <span class="n">coursera</span><span class="o">/</span><span class="n">test</span> <span class="o">-</span><span class="n">v</span> <span class="o">--</span><span class="n">cov</span> <span class="n">coursera</span> <span class="o">--</span><span class="n">cov</span><span class="o">-</span><span class="n">report</span> <span class="n">html</span>
+</pre></div>
+</div>
+<p>If some test fails, please don't send your changes yet. Fix what broke
+before sending your pull request.</p>
+<p>If you need to change the test suite, explain in the commit message why it
+needs to be changed (e.g., the page layout or the authentication methods
+from coursera changed, or they implemented a new kind of course).</p>
+<div class="section" id="using-tox-and-pyenv">
+<h2>Using tox and pyenv<a class="headerlink" href="#using-tox-and-pyenv" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>Running only py.test is okay for one-time check, but as it runs on your
+currently active Python installation, you're only checking the script on one
+Python version. A combination of tox + pyenv will allow you to run tests on many
+Python versions easily.</p>
+<p>First, install tox (listed in requirements-dev.txt) and pyenv (see their manual:
+<a class="reference external" href="https://github.com/yyuu/pyenv#installation">pyenv installation</a>. Make sure to
+activate pyenv or start a new shell. Then, install Python versions and run tox:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">pyenv</span> <span class="n">install</span> <span class="mf">3.5</span><span class="o">.</span><span class="mi">1</span>
+<span class="n">pyenv</span> <span class="n">install</span> <span class="mf">3.4</span><span class="o">.</span><span class="mi">4</span>
+<span class="n">pyenv</span> <span class="n">install</span> <span class="mf">3.3</span><span class="o">.</span><span class="mi">6</span>
+<span class="n">pyenv</span> <span class="n">install</span> <span class="mf">3.2</span>
+<span class="n">pyenv</span> <span class="n">install</span> <span class="mf">2.7</span><span class="o">.</span><span class="mi">5</span>
+<span class="n">pyenv</span> <span class="n">install</span> <span class="mf">2.6</span><span class="o">.</span><span class="mi">9</span>
+<span class="n">pyenv</span> <span class="n">local</span> <span class="mf">3.5</span><span class="o">.</span><span class="mi">1</span> <span class="mf">3.4</span><span class="o">.</span><span class="mi">4</span> <span class="mf">3.3</span><span class="o">.</span><span class="mi">6</span> <span class="mf">3.2</span> <span class="mf">2.7</span><span class="o">.</span><span class="mi">5</span> <span class="mf">2.6</span><span class="o">.</span><span class="mi">9</span>
+<span class="n">tox</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="check-for-potential-bugs">
+<h1>Check for potential bugs<a class="headerlink" href="#check-for-potential-bugs" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>Please, help keep the code tidy by checking for any potential bugs with the
+help of <a class="reference external" href="https://pypi.python.org/pypi/flake8"><code class="docutils literal notranslate"><span class="pre">flake8</span></code></a>, and <a class="reference external" href="https://pypi.python.org/pypi/pylint"><code class="docutils literal notranslate"><span class="pre">pylint</span></code></a>.  If you know of any
+other good tools for analyzing the code, let me know about them!</p>
+<p>If you happen to find any issue reported by these programs, I welcome you to
+fix them.  Many of the issues are usually very easy to fix and they are a
+great way to start contributing to this (and other projects in general).
+Furthermore, we all benefit from a better code base.</p>
+</div>
+<div class="section" id="changes-in-the-tools-that-we-use">
+<h1>Changes in the tools that we use<a class="headerlink" href="#changes-in-the-tools-that-we-use" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>If you are proposing the use of a substitute of a tool that we already use,
+take a few paragraphs to tell us why we would like to change.</p>
+<p>If we are not using something, it is most likely that one of the following
+options applies:</p>
+<ol class="simple">
+<li><p>I (&#64;rbrito) may not even know that what you are proposing exists or have
+not yet &quot;seen the light&quot; as to why I should use it instead of using what
+I am currently using.</p></li>
+<li><p>Even if I know about the tool, I may not know how to use it, or how it
+would make me more productive.  Educate me and we all will gain from a
+better project.</p></li>
+</ol>
+</div>
+<hr class="docutils" />
+<div class="section" id="short-and-incomplete-cheat-sheet-for-contributions">
+<h1>Short (and incomplete) cheat-sheet for contributions<a class="headerlink" href="#short-and-incomplete-cheat-sheet-for-contributions" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<div class="section" id="to-start-contributing">
+<h2>To start contributing<a class="headerlink" href="#to-start-contributing" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>Fork the repository using github (there's a button) and clone <em>your</em> copy to
+your local machine for your personal modifications. Let's say that your
+github username is <code class="docutils literal notranslate"><span class="pre">username</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">username</span><span class="o">/</span><span class="n">coursera</span><span class="o">-</span><span class="n">dl</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="making-your-changes">
+<h2>Making your changes<a class="headerlink" href="#making-your-changes" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>Initiate a <em>new</em> branch on your local repository copy.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="n">coursera</span><span class="o">-</span><span class="n">dl</span>
+<span class="n">git</span> <span class="n">checkout</span> <span class="o">-</span><span class="n">b</span> <span class="n">my</span><span class="o">-</span><span class="n">new</span><span class="o">-</span><span class="n">branch</span>
+</pre></div>
+</div>
+<p>Then, start hacking, doing whatever you want. Really, just <em>play</em> with what
+you want. After you make each &quot;logical chunk&quot; of changes (say, you fixed one
+<em>specific</em> bug, or you made one <em>specific</em> feature), commit your changes.</p>
+<div class="section" id="see-what-you-changed">
+<h3>See what you changed<a class="headerlink" href="#see-what-you-changed" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<p>Use the following commands to see which files you changed and which changes
+you made, just to recap, before sending them to the public (up to this
+moment, everything that you made lives only on your computer):</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">status</span>
+<span class="n">git</span> <span class="n">diff</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="select-what-you-want-to-commit">
+<h3>Select what you want to commit<a class="headerlink" href="#select-what-you-want-to-commit" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<p>You may have made more changes than you want to contribute at this point in
+time (this is <em>very</em> common). So, we select which changes we want to commit
+with:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">add</span> <span class="o">-</span><span class="n">p</span>
+</pre></div>
+</div>
+<p>Then a little prompt will appear and you will interactively select the
+changes that you want to make part of the commit. The main options there are
+<code class="docutils literal notranslate"><span class="pre">y</span></code> or <code class="docutils literal notranslate"><span class="pre">n</span></code> for including/not including respectively and <code class="docutils literal notranslate"><span class="pre">s</span></code> to split a very
+large change into smaller changes ones (this is a killer feature of <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">add</span> <span class="pre">-p</span></code>).</p>
+</div>
+<div class="section" id="see-what-changes-will-make-into-your-commit">
+<h3>See what changes will make into your commit<a class="headerlink" href="#see-what-changes-will-make-into-your-commit" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<p>To see the changes that you have selected to be part of your commit, use:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">diff</span> <span class="o">--</span><span class="n">staged</span>
+</pre></div>
+</div>
+<p>See if everything is OK. If not, then use <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">add</span> <span class="pre">-p</span></code> to add something that
+you may have missed or, if you included something else that you <em>didn't</em>
+intend to include, &quot;un-include&quot; it with:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">reset</span> <span class="o">--</span> <span class="n">file</span><span class="o">-</span><span class="k">with</span><span class="o">-</span><span class="n">changes</span><span class="o">-</span><span class="n">to</span><span class="o">-</span><span class="n">un</span><span class="o">-</span><span class="n">include</span>
+</pre></div>
+</div>
+<p>Then, you can start over and include only what you meant to put in a single
+commit.</p>
+</div>
+<div class="section" id="once-you-are-satisfied-with-your-changes">
+<h3>Once you are satisfied with your changes<a class="headerlink" href="#once-you-are-satisfied-with-your-changes" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<p>If you think that your changes make one &quot;logically&quot; cohesive change to the
+project, create a commit of them in the repository with:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">commit</span>
+</pre></div>
+</div>
+<p>Then, enter a descriptive message of <em>what</em> (not why, not how) you changed
+on the <em>first line</em> and after that, you are free to write your prose
+detailing how you did what you did (e.g., which documentation you read), why
+you did what you did (Is that a preparation for a future change? Does it
+improve the speed or memory requirements of the project?) and other
+comments.</p>
+<p>Once again, it is good to have in mind some
+<a class="reference external" href="https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message">rules for good commit messages</a>.</p>
+</div>
+<div class="section" id="send-your-changes-to-github">
+<h3>Send your changes to github<a class="headerlink" href="#send-your-changes-to-github" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<p>To see the commit that you just made (with author, date, short and long
+description only), use:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">show</span>
+</pre></div>
+</div>
+<p>If you want to see the entire commit, use:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">show</span> <span class="o">-</span><span class="n">p</span>
+</pre></div>
+</div>
+<p>If you are satisfied with your changes, go ahead and type:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">push</span> <span class="n">origin</span> <span class="n">my</span><span class="o">-</span><span class="n">new</span><span class="o">-</span><span class="n">branch</span>
+</pre></div>
+</div>
+<p>Where <code class="docutils literal notranslate"><span class="pre">my-new-branch</span></code> is the branch that you created for this set of changes
+(you remember that, right?). If everything goes correctly, then, after a few
+seconds, your changes will be right there on the cloud, on github! Yay!</p>
+<p>To inform the maintainer of the project that you have some shiny changes
+that you are proposing for inclusion on the main project, github will show
+you somewhere on <em>your</em> fork of the project that you have a branch and that
+you can create a pull request.</p>
+<p>Click that button, compose a message for the maintainer of the project and
+tell him/her about what you just did, why you are proposing etc. Send that
+message and the maintainer will be notified that you made changes and that
+you'd like them to be included in the main project.</p>
+<p>That's essentially it.</p>
+<p>There are many other tricks/steps in the git workflow, but these are the
+basics that I (&#64;rbrito) think that will suffice for a start.  If you want a
+few details more, feel free to ask me to include them here.</p>
+</div>
+</div>
+</div>
+<div class="section" id="release-procedure">
+<h1>Release procedure<a class="headerlink" href="#release-procedure" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>This section is for project maintainers.</p>
+<p>DRAFT</p>
+<ol class="simple">
+<li><p>Run tests locally. Use tox to run tests on all supported Python versions.</p></li>
+<li><p>Run the script on several courses to check sanity</p></li>
+<li><p>Update CHANGELOG.md, increment version, put what you've added to the
+changelog into commit message. This way it gets it way into releases page
+with a nice description of the changes.
+<code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">add</span> <span class="pre">...</span> <span class="pre">&amp;</span> <span class="pre">git</span> <span class="pre">ci</span> <span class="pre">-m</span> <span class="pre">'Bump</span> <span class="pre">version</span> <span class="pre">(old_version</span> <span class="pre">-&gt;</span> <span class="pre">new_version)'</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">tag</span> <span class="pre">new_version</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">push</span> <span class="pre">&amp;&amp;</span> <span class="pre">git</span> <span class="pre">push</span> <span class="pre">--tags</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">pandoc</span> <span class="pre">--from=markdown</span> <span class="pre">--to=rst</span> <span class="pre">--output=README.rst</span> <span class="pre">README.md</span></code>.
+I think this is required for PyPI description to look nice.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">python</span> <span class="pre">setup.py</span> <span class="pre">sdist</span> <span class="pre">bdist_wheel</span> <span class="pre">--universal</span></code> to build the package</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">twine</span> <span class="pre">upload</span> <span class="pre">dist/coursera-dl-0.6.1.tar.gz</span></code> to deploy the package.</p></li>
+</ol>
+<div class="section" id="docker">
+<h2>Docker<a class="headerlink" href="#docker" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<p>Build new Docker image from PyPI package:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docker</span> <span class="n">build</span> <span class="o">--</span><span class="n">tag</span> <span class="n">courseradl</span><span class="o">/</span><span class="n">courseradl</span> <span class="o">--</span><span class="n">build</span><span class="o">-</span><span class="n">arg</span> <span class="n">VERSION</span><span class="o">=</span><span class="mf">0.11</span><span class="o">.</span><span class="mi">2</span> <span class="o">.</span>
+</pre></div>
+</div>
+<p>Run the image:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docker</span> <span class="n">run</span> <span class="o">--</span><span class="n">rm</span> <span class="o">-</span><span class="n">it</span> <span class="o">-</span><span class="n">v</span> <span class="s2">&quot;$(pwd):/courses&quot;</span> <span class="o">-</span><span class="n">v</span> <span class="s2">&quot;$HOME/.netrc:/netrc&quot;</span> <span class="n">courseradl</span> <span class="o">-</span><span class="n">n</span> <span class="o">/</span><span class="n">netrc</span> <span class="o">--</span> <span class="n">google</span><span class="o">-</span><span class="n">machine</span><span class="o">-</span><span class="n">learning</span>
+</pre></div>
+</div>
+<p>Publish the image:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">docker</span> <span class="n">push</span> <span class="n">courseradl</span><span class="o">/</span><span class="n">courseradl</span>
+</pre></div>
+</div>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2015-2020, All Tool Manual.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../',
+            VERSION:'0.00',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true
+        };
+    </script>
+      <script type="text/javascript" src="../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../_static/doctools.js"></script>
+      <script type="text/javascript" src="../../_static/language_data.js"></script>
+      <script type="text/javascript" src="../../_static/translations.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+## Mac Setup
+https://developer.apple.com/jp/develop/
+### Xcode
+
+
+
+### ios build
+
+http://www.monobitengine.com/doc/mun/contents/Platform/Build_iOS.htm

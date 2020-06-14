@@ -1,0 +1,345 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Visual Effect Graph - Samples &mdash; All-Tool-Manual 0.00 ドキュメント</title>
+  
+
+  
+  
+    <link rel="shortcut icon" href="../../_static/showreel.ico"/>
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+        <link rel="index" title="索引"
+              href="../../genindex.html"/>
+        <link rel="search" title="検索" href="../../search.html"/>
+    <link rel="top" title="All-Tool-Manual 0.00 ドキュメント" href="../../index.html"/>
+        <link rel="up" title="C#" href="../csharp.html"/>
+        <link rel="next" title="array" href="../array/array.html"/>
+        <link rel="prev" title="code TextureList" href="../Texture/code/TextureList.html"/> 
+
+  
+  <script src="../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> All-Tool-Manual
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.00
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+                <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../CPlus/CPlus.html">C++</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../csharp.html">C#</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../AI/AI.html">AI</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../AssemblyDefinition/AssemblyDefinition.html">Unity Assembly Definition</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../Asset/Asset.html">Asset</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../LoadVerification/LoadVerification.html">Load Verification</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../Texture/Texture.html">Texture</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Visual Effect Graph - Samples</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#changelog">Changelog</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#the-2019-1-release-5-8-2-preview-rev1-2019-03-19">The 2019.1 Release! ( 5.8.2-preview rev1 - 2019-03-19 )</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#third-release-4-9-0-preview-rev1-2019-02-07">Third Release ( 4.9.0-preview rev1 - 2019-02-07 )</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#second-release-4-6-0-preview-rev1-2019-01-07">Second Release ( 4.6.0-preview rev1 - 2019-01-07 )</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#first-release-4-3-0-preview-rev1-2018-11-27">First Release ( 4.3.0-preview rev1 - 2018-11-27 )</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../array/array.html">array</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../autoupdate/autoupdate.html">autoupdate</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../basic/basic.html">Basic Code</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code/Csharp.html">Code</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../crowd/crowd.html">群衆系スクリプト</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../debug/debug.html">debug</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../decal/decal.html">decal</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../delegate/delegate.html">delegate</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../editor/editor.html">Editor拡張</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../effect/effect.html">effect</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../env/enviroment.html">enviroment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../for/for.html">for</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../new/new.html">new</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../particle/particle.html">particle control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../player/player.html">player script</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../Render/Rendaring.html">Rendaring</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ZScript/Zscript.html">ZScript</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../algorithm/algorytm.html">algorytm</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../game/game.html">game memo</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../git/git.html">git</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../houdini/houdini.html">Houdini</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../javascript/javascript.html">javascript</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../linux/linux.html">Linux</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../maya/maya.html">maya Tool manual</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../mindmap - コピー/mindmap.html">manual mindmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../mindmap/mindmap.html">manual mindmap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../python/index.html">Python</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../shader/shader.html">shader</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../shotgun/shotgun.html">Shotgun</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../showreel/showreel.html">showreel</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tutorial/com.html">tutorial</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../web/web.html">web application framework etc</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../../index.html">All-Tool-Manual</a>
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+ 
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../../index.html">Docs</a> &raquo;</li>
+      
+        <li><a href="../csharp.html">C#</a> &raquo;</li>
+      
+    <li>Visual Effect Graph - Samples</li>
+    <li class="wy-breadcrumbs-aside">
+      
+          <a href="https://github.com/Csharp/VisualEffectGraph-Samples/README.rst" class="fa fa-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="visual-effect-graph-samples">
+<h1>Visual Effect Graph - Samples<a class="headerlink" href="#visual-effect-graph-samples" title="このヘッドラインへのパーマリンク">¶</a></h1>
+<p>In this project you will be able to access sample scenes and effects made with the Visual Effect Graph. You can download snapshots of these samples by using the <a class="reference external" href="https://github.com/Unity-Technologies/VisualEffectGraph-Samples/releases">release</a> tab, or by cloning this repository.</p>
+<p>There are also pre-built binaries for Windows and macOS available.</p>
+<div class="section" id="changelog">
+<h2>Changelog<a class="headerlink" href="#changelog" title="このヘッドラインへのパーマリンク">¶</a></h2>
+<ul class="simple">
+<li></li>
+</ul>
+<div class="section" id="the-2019-1-release-5-8-2-preview-rev1-2019-03-19">
+<h3>The 2019.1 Release! ( 5.8.2-preview rev1 - 2019-03-19 )<a class="headerlink" href="#the-2019-1-release-5-8-2-preview-rev1-2019-03-19" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<ul class="simple">
+<li><p><strong>New Samples</strong></p></li>
+<li><p>Spaceship Holo Table : Holographic Pin-Screen effect isolated from the <a class="reference external" href="https://www.youtube.com/watch?v=rqMcPZoEc3U">Spaceship Demo</a></p></li>
+<li><p><strong>General Improvements</strong></p>
+<ul>
+<li><p>Upgraded all project, volumes, postprocesses and scenes to 2019.1 package track</p>
+<ul>
+<li><p>HD/VFX Package versions to 5.8.2-preview</p></li>
+<li><p>Editor version to 2019.1.0b6</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>Fixes</strong></p>
+<ul>
+<li><p>General Performance adjustments</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<li></li>
+<div class="section" id="third-release-4-9-0-preview-rev1-2019-02-07">
+<h3>Third Release ( 4.9.0-preview rev1 - 2019-02-07 )<a class="headerlink" href="#third-release-4-9-0-preview-rev1-2019-02-07" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<ul class="simple">
+<li><p><strong>New Samples</strong></p>
+<ul>
+<li><p>Genie: Magic flow gushing out of the Magic lantern and taking the shape of a Genie</p></li>
+<li><p>AR Radar : Lines and Dots that form a Radar Grid with multiple Targets</p></li>
+<li><p>Voxelized Terrain : Interactive Terrain</p></li>
+</ul>
+</li>
+<li><p><strong>Fixes and General Improvements:</strong></p>
+<ul>
+<li><p>Simplified Sample Loader Script</p></li>
+<li><p>GrassWind : Fixed the sample to reflect the fixes in ConnectTarget</p></li>
+<li><p>GrassWind : Reworked the Camera Control (now works with cinemachine)</p></li>
+<li><p>GrassWind : Added Ethan Body Diffuse texture</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<li></li>
+<div class="section" id="second-release-4-6-0-preview-rev1-2019-01-07">
+<h3>Second Release ( 4.6.0-preview rev1 - 2019-01-07 )<a class="headerlink" href="#second-release-4-6-0-preview-rev1-2019-01-07" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<ul class="simple">
+<li><p><strong>New Samples</strong></p>
+<ul>
+<li><p><strong>GrassWind</strong> : Grass quads on terrain reacting to player movement and wind</p></li>
+<li><p><strong>Volumetric</strong> : Lit Particles reacting to volumetric lighting and transmission</p></li>
+<li><p><strong>Portal</strong> : Magic portal reminiscing of a strange doctor....</p></li>
+</ul>
+</li>
+<li><p><strong>Fixes:</strong></p>
+<ul>
+<li><p>Fixed Butterflies Bodies set to Opaque</p></li>
+<li><p>Fixed Missing references to VectorField and Texture in UnityLogo template</p></li>
+<li><p>Removed unused HDRP Resources file (now using default one)</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<li></li>
+<div class="section" id="first-release-4-3-0-preview-rev1-2018-11-27">
+<h3>First Release ( 4.3.0-preview rev1 - 2018-11-27 )<a class="headerlink" href="#first-release-4-3-0-preview-rev1-2018-11-27" title="このヘッドラインへのパーマリンク">¶</a></h3>
+<ul class="simple">
+<li><p><strong>Base Project</strong> and 3 Samples</p>
+<ul>
+<li><p><strong>Unity Logo</strong> : around 750k particles driven by vector fields</p></li>
+<li><p><strong>Butterflies</strong> : Procedurally animated and simulated butterflies</p></li>
+<li><p><strong>Morphing Face</strong> : Simulation-less face of cubes with masking and material animation</p></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../array/array.html" class="btn btn-neutral float-right" title="array" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="../Texture/code/TextureList.html" class="btn btn-neutral" title="code TextureList" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2015-2020, All Tool Manual.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../',
+            VERSION:'0.00',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true
+        };
+    </script>
+      <script type="text/javascript" src="../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../_static/doctools.js"></script>
+      <script type="text/javascript" src="../../_static/language_data.js"></script>
+      <script type="text/javascript" src="../../_static/translations.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

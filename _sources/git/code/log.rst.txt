@@ -17,3 +17,17 @@
 #. ステータスをシンプルな形式で表示する
 
     git status -s
+
+
+git checkout check/all_2020518
+rm .git/index.lock
+git checkout .
+git clean -n
+git clean -f
+
+git status
+
+git submodule update --init --recursive で再帰的に更新する
+
+git submodule update を行うことで LiveShare フォルダ以下がクローン
+

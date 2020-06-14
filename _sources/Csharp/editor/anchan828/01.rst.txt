@@ -1,0 +1,6 @@
+Python manual
+=============================
+
+Assembly-CSharp.dll が、 UnityEditor.dll の参照を行わない
+
+Assembly-CSharp-Editor.dll は Editor フォルダー内のスクリプトファイルがコンパイルされて生成

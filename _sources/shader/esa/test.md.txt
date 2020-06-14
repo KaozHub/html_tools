@@ -1,0 +1,76 @@
+# Chara_Shader
+
+## InGameに以下分類で散らばっているものをまとめる
+
+InspixAtelier\Assets\LiveShare\ResourcesStatic\Shader\InGame\BG
+InspixAtelier\Assets\LiveShare\ResourcesStatic\Shader\InGame\Character
+InspixAtelier\Assets\LiveShare\ResourcesStatic\Shader\InGame\Effect
+その他追加あれば
+InspixAtelier\Assets\LiveShare\ResourcesStatic\Shader\InGame\Typo?
+今までに作ってきた過去IPで使われているものも上記に格納する
+## ExternalAssets
+そのまま
+
+## Shader分類名について
+## 変更例１
+##### Assets/LiveShare/ResourcesStatic/Shader/InGame/BG
+### Shader名
+BackScroll.Shader名前はそのまま
+### 分類名
+Inspix/MobileInGame/BackScroll
+→Inspix/BackScroll
+or
+→Inspix/BG/BackScroll
+
+## 変更例２
+##### Assets/LiveShare/ResourcesStatic/Shader/InGame/BG
+### Shader名
+dissolveUnlit01→SF_DissolveUnlit01
+
+### 分類名
+Shader Forge
+Shader Forge/dissolveUnlit01であれば
+→Inspix/SF_DissolveUnlit01
+or
+→Inspix/BG/SF_DissolveUnlit01
+
+Shader Graphの場合
+→Inspix/SG_DissolveUnlit01
+or
+→Inspix/**/SG_DissolveUnlit01
+
+Amplifyの場合
+→Inspix/AP_DissolveUnlit01
+or
+→Inspix/**/AP_DissolveUnlit01
+
+ノード系のシェーダー名をそもそも変える必要ない？
+
+## 変更例charactor1
+##### Assets/LiveShare/ResourcesStatic/Shader/InGame/Character/RS_Character/
+
+#### CharaShaderVcol.shader
+Hidden/CharaShaderVcol
+→Inspix/CharaShaderVcol
+or
+→Inspix/Chara/CharaShaderVcol
+
+- RS_Characterフォルダは必要なのか？
+
+- そもそもCharaShader分岐系がたくさんあるが一つにまとめれないか、、
+
+今後一つにまとめていくとしたら
+##### Assets/LiveShare/ResourcesStatic/Shader/InGame/Character/フォルダ名を変える/
+##### RS_Charactor→フォルダ区分なしorLit、Unlitなど種類別に
+
+えのぐなどの複数体はCharaShaderVcolからの派生のNewShaderに変更
+１体系IPはミク用に作ったshader等に統一
+
+## 最終的に変更すれば
+
+郭さんにPR
+キャラの場合は郭さん＋キャラ担当エンジニアさんにPR
+## 将来的に
+
+頻繁使用シェーダーにGUI用意してhelp用意する
+マテリアル設定用のエディタ拡張まで準備する 
